@@ -64,15 +64,12 @@ Git Hard
 
 oil club
 
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 7f85fc8af98acd68516efd1e254f1b1cfe8be9f1
->>>>>>> 0d4a3af2cae92d175c96b5bdbbacb359953f10af
+
 =======
 new message
 
 Dia duit
->>>>>>> 94a6fe305f24c14893d300f50967e85f2043759c
+
 =======
 
 
@@ -93,7 +90,6 @@ new message
 ┈┈╰━┳┓┏┳┓┏╯┈┈┈
 ┈┈┈┈┗┻┛┗┻┛┈┈┈┈
 
+jumping down the tree
 
 
-
->>>>>>> 8c88dfa9e56f2b42dc709bbb7ff5c505926602e1
