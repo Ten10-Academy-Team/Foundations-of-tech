@@ -7,8 +7,16 @@ Then Incy Wincy Spider climbed up the spout again
 New Line
 New Line
 <<<<<<< HEAD
+Jim the singer
+=======
+<<<<<<< HEAD
+Updated Line
+=======
+<<<<<<< HEAD
 
 Hello :)
 =======
 whwhwh
 >>>>>>> 4f383216389d09af98a346aaa43f98f04a2dcb08
+>>>>>>> 9dff23a44ddfa7cd84406bcf8152b963e391246d
+>>>>>>> 031ddd11749352480e529272fe043b95a87ddca8
