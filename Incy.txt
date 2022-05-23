@@ -2,7 +2,75 @@ up came the rain
 Incy Wincy Spider climbed up the water spout
 Down came the rain and washed the spider out
 Out came the sun and dried up all the rain
+<<<<<<< HEAD
+Then Incy Wincy Spider climbed up the spout again
+=======
 Then Incy Wincy Spider climbed up the spout again
 next
 
+<<<<<<< HEAD
 Upgrade Tracy
+=======
+Upgrade
+
+Hello, This is an edit!!!
+
+bianca
+New Line
+
+Hello.
+ello World
+Jim the singer
+Updated Line
+Hello :)
+whwhwh
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+Hiiii
+=======
+Oh no, our table, is broken.
+
+So many conflict markers already
+
+Upgrade
+
+=======
+
+=======
+test 
+
+jiopnipoi
+>>>>>>> ae7b35a9d8cd20abbe1104668b9c3102ef777204
+=======
+BLAH BLAH DE BLAH
+test
+This complicated :/
+
+Champions 2022 Man City
+<<<<<<< HEAD
+>>>>>>> 973594515cda393e7cf4a24900363606da8ad28e
+
+jrgbajio
+=======
+             (
+               )
+              (
+        /\  .-"""-.  /\
+       //\\/  ,,,  \//\\
+       |/\| ,;;;;;, |/\|
+       //\\\;-"""-;///\\
+      //  \/   .   \/  \\
+     (| ,-_| \ | / |_-, |)
+       //`__\.-.-./__`\\
+      // /.-(() ())-.\ \\
+     (\ |)   '---'   (| /)
+      ` (|           |) `
+jgs     \)           (/
+Git Hard
+
+oil club
+
+>>>>>>> 7f85fc8af98acd68516efd1e254f1b1cfe8be9f1
+>>>>>>> 0d4a3af2cae92d175c96b5bdbbacb359953f10af
