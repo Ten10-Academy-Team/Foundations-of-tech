@@ -5,4 +5,13 @@ Then Incy Wincy Spider climbed up the spout again
 
 New Line
 New Line
+<<<<<<< HEAD
 Hello World
+=======
+<<<<<<< HEAD
+
+Hello :)
+=======
+whwhwh
+>>>>>>> 4f383216389d09af98a346aaa43f98f04a2dcb08
+>>>>>>> 9dff23a44ddfa7cd84406bcf8152b963e391246d
