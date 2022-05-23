@@ -5,7 +5,10 @@ Out came the sun and dried up all the rain
 Then Incy Wincy Spider climbed up the spout again
 next
 
-New Line
+Upgrade
+
+Hello, This is an edit!!!
+
 New Line
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -27,5 +30,8 @@ Hiiii
 Oh no, our table, is broken.
 
 So many conflict markers already
+<<<<<<< HEAD
 Upgrade
 >>>>>>> 386f8fe67b1ef79ebe015fb20137efebdee461dd
+=======
+>>>>>>> 8cd33cb86ff286423f6d12048aab664c7571b210
