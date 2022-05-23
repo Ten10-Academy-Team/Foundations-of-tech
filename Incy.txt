@@ -4,7 +4,7 @@ Down came the rain and washed the spider out
 Out came the sun and dried up all the rain
 
 Then Incy Wincy Spider climbed up the spout again
-=======
+
 Then Incy Wincy Spider climbed up the spout again
 next
 
@@ -24,34 +24,22 @@ whwhwh
 
 
 Hiiii
-=======
+
 Oh no, our table, is broken.
 
 So many conflict markers already
 
 Upgrade
 
-=======
 
-=======
 test 
 
 jiopnipoi
-
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 81ac5b36b2089014d010a6f9933b3739f9002142
 BLAH BLAH DE BLAH
 test
 This complicated :/
 
 Champions 2022 Man City
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 81ac5b36b2089014d010a6f9933b3739f9002142
 
 
 
@@ -73,14 +61,14 @@ Git Hard
 
 oil club
 
-<<<<<<< HEAD
+
 
 hello Incy
-=======
+
 
 
 Dia duit
-=======
+
 new message
 
 
