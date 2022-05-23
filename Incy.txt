@@ -8,7 +8,7 @@ Then Incy Wincy Spider climbed up the spout again
 Then Incy Wincy Spider climbed up the spout again
 next
 
-<<<<<<< HEAD
+
 Upgrade Tracy
 =======
 Upgrade
@@ -94,7 +94,16 @@ new message
 
 jumping down the tree
 
+
 Arsenal 5-1 Everton
 Sallis
 
+
+=======
+  __
+  / _|_ __ ___   __ _ ___
+ | |_| '__/ _ \ / _` / __|
+ |  _| | | (_) | (_| \__ \
+ |_| |_|  \___/ \__, |___/
+                |___/
 
