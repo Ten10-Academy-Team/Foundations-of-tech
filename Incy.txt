@@ -2,9 +2,9 @@ up came the rain
 Incy Wincy Spider climbed up the water spout
 Down came the rain and washed the spider out
 Out came the sun and dried up all the rain
-<<<<<<< HEAD
+
 Then Incy Wincy Spider climbed up the spout again
-=======
+
 Then Incy Wincy Spider climbed up the spout again
 next
 
@@ -24,26 +24,20 @@ Jim the singer
 Updated Line
 Hello :)
 whwhwh
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 
 Hiiii
-=======
+
 Oh no, our table, is broken.
 
 So many conflict markers already
 
 Upgrade
 
-=======
 
-=======
 test 
 
 jiopnipoi
-
-=======
 BLAH BLAH DE BLAH
 test
 This complicated :/
@@ -52,8 +46,6 @@ Champions 2022 Man City
 
 
 
-jrgbajio
-=======
              (
                )
               (
@@ -73,6 +65,7 @@ Git Hard
 oil club
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 7f85fc8af98acd68516efd1e254f1b1cfe8be9f1
 >>>>>>> 0d4a3af2cae92d175c96b5bdbbacb359953f10af
 =======
@@ -80,3 +73,16 @@ new message
 
 Dia duit
 >>>>>>> 94a6fe305f24c14893d300f50967e85f2043759c
+=======
+
+
+hello Incy
+
+
+
+Dia duit
+
+new message
+
+
+>>>>>>> 8c88dfa9e56f2b42dc709bbb7ff5c505926602e1
