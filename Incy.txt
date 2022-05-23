@@ -8,3 +8,12 @@ next
 Upgrade
 
 Hello, This is an edit!!!
+
+New Line
+Jim the singer
+Updated Line
+Hello :)
+whwhwh
+Oh no, our table, is broken.
+
+So many conflict markers already
