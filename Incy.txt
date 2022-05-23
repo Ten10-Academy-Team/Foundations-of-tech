@@ -13,25 +13,14 @@ Upgrade
 Hello, This is an edit!!!
 
 New Line
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 Hello.
-=======
-<<<<<<< HEAD
-
-=======
-=======
-
-
-Hello World
-
-
+ello World
 Jim the singer
 Updated Line
-
 Hello :)
 whwhwh
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 
@@ -50,3 +39,12 @@ test
 
 jiopnipoi
 >>>>>>> ae7b35a9d8cd20abbe1104668b9c3102ef777204
+=======
+BLAH BLAH DE BLAH
+test
+This complicated :/
+
+Champions 2022 Man City
+>>>>>>> 973594515cda393e7cf4a24900363606da8ad28e
+
+jrgbajio
