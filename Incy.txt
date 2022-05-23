@@ -42,15 +42,15 @@ Upgrade
 test 
 
 jiopnipoi
->>>>>>> ae7b35a9d8cd20abbe1104668b9c3102ef777204
+
 =======
 BLAH BLAH DE BLAH
 test
 This complicated :/
 
 Champions 2022 Man City
-<<<<<<< HEAD
->>>>>>> 973594515cda393e7cf4a24900363606da8ad28e
+
+
 
 jrgbajio
 =======
@@ -72,5 +72,11 @@ Git Hard
 
 oil club
 
+<<<<<<< HEAD
 >>>>>>> 7f85fc8af98acd68516efd1e254f1b1cfe8be9f1
 >>>>>>> 0d4a3af2cae92d175c96b5bdbbacb359953f10af
+=======
+new message
+
+Dia duit
+>>>>>>> 94a6fe305f24c14893d300f50967e85f2043759c
