@@ -73,10 +73,14 @@ Git Hard
 
 oil club
 
+<<<<<<< HEAD
 
 hello Incy
 =======
 
 
 Dia duit
+=======
+new message
+
 
