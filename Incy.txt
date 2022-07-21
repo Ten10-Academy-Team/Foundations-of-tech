@@ -30,6 +30,11 @@ I ❤ github
 Next comment
 PLEASE DONT DELETE ME THANK YOUUUUU !!!!!! <3
 This line is shut, and the dead keep it.
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+This is getting a bit out of hand xD!
+=======
 
 According to all known laws of aviation, there is no way a bee should be
 able to fly. Its wings are too small to get its fat little body off the
@@ -39,5 +44,9 @@ Yellow, black.
 Ooh, black and yellow! Let's shake it up a little.
 Barry! Breakfast is ready!
 Coming!
+<<<<<<< HEAD
 
 43
+=======
+>>>>>>> 5e5d153220320967e13f6242f07962e5dfb0997c
+>>>>>>> 7c13514aeb55d03abde24fe7fe4e5931b5c1855d
