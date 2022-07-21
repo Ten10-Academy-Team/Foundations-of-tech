@@ -16,9 +16,6 @@ New Line of comment
 <<<<<<< HEAD
 
 
-
-
-
 I ❤ github
 =======
 <<<<<<< HEAD
