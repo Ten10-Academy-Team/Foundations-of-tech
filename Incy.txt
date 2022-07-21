@@ -13,4 +13,24 @@ New Line
 New Line of comment 
 hello world
 This line is shut, and the dead keep it.
+<<<<<<< HEAD
 Splish splash I was taking a bath...
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+This is getting a bit out of hand xD!
+=======
+
+According to all known laws of aviation, there is no way a bee should be
+able to fly. Its wings are too small to get its fat little body off the
+ground. The bee, of course, flies anyway because bees don't care what
+humans think is impossible. Yellow, black. Yellow, black. Yellow, black.
+Yellow, black.
+Ooh, black and yellow! Let's shake it up a little.
+Barry! Breakfast is ready!
+Coming!
+>>>>>>> 5e5d153220320967e13f6242f07962e5dfb0997c
+
+CHET AM HERE!!!!!
+>>>>>>> 678d053f166a46e16b61a16001fa01f5dfa6f781
