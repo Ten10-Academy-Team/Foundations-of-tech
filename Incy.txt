@@ -4,6 +4,7 @@ Out came the sun and dried up all the rain
 
 add a new line -
 hello
+new line
 
 washed out some random spider 
 This is a Test
@@ -14,6 +15,7 @@ New Line of comment
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+new line
 
 
 I ❤ github
