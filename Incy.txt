@@ -17,8 +17,6 @@ New Line of comment
 
 
 
-
-
 I ❤ github
 =======
 <<<<<<< HEAD
@@ -40,6 +38,7 @@ This line is shut, and the dead keep it.
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -4625,3 +4624,5 @@ Wrap it up, guys.
 
   
 I had virtually no rehearsal for that.
+=======
+>>>>>>> 01798041d21e2787cd4f3f5af6edaf77921f3f51
