@@ -10,6 +10,13 @@ This is a Test
 <<<<<<< HEAD
 =======
 
+Github was fun, but not anymore
 New Line
 New Line of comment 
+<<<<<<< HEAD
 >>>>>>> 7ed48711f686d897a7aff51f7e9c88dfb5e4db32
+=======
+
+PLEASE DONT DELETE ME THANK YOUUUUU !!!!!! <3
+This line is shut, and the dead keep it.
+>>>>>>> 37b645d4d163909e3b7bd409f6412a3e74a6c0e4
