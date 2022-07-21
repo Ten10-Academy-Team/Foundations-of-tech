@@ -7,3 +7,9 @@ add a new line -
 
 washed out some random spider 
 This is a Test
+<<<<<<< HEAD
+=======
+
+New Line
+New Line of comment 
+>>>>>>> 7ed48711f686d897a7aff51f7e9c88dfb5e4db32
