@@ -7,3 +7,5 @@ add a new line -
 
 washed out some random spider 
 This is a Test
+
+New Line
