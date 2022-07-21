@@ -7,10 +7,15 @@ add a new line -
 
 washed out some random spider 
 This is a Test
+<<<<<<< HEAD
+=======
 
 Github was fun, but not anymore
 New Line
 New Line of comment 
+<<<<<<< HEAD
+>>>>>>> 7ed48711f686d897a7aff51f7e9c88dfb5e4db32
+=======
 
 <<<<<<< HEAD
 
