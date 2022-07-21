@@ -21,6 +21,13 @@ Splish splash I was taking a bath...
 
 This is getting a bit out of hand xD!
 =======
+<<<<<<< HEAD
+>>>>>>> 37b645d4d163909e3b7bd409f6412a3e74a6c0e4
+>>>>>>> e20a14ec4bbf0c5944fc080732c16fa70e8a6eb4
+>>>>>>> 914f1735414018af604f39c136339247bc1c5bcb
+>>>>>>> d95129dc4ac5cbcaf5fdfd982986c55cfff5f195
+Weee~
+=======
 
 According to all known laws of aviation, there is no way a bee should be
 able to fly. Its wings are too small to get its fat little body off the
