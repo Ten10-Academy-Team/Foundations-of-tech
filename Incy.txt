@@ -3,11 +3,9 @@ Down came the rain and washed the spider out
 Out came the sun and dried up all the rain
 
 add a new line -
-<<<<<<< HEAD
 This is a better test
-=======
 
+House 12 > House 14
 
 washed out some random spider 
 This is a Test
->>>>>>> 43c4c5d5f1ea30dcc8770abbdc3ef9f2842c2632
