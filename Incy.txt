@@ -3,8 +3,7 @@ Down came the rain and washed the spider out
 Out came the sun and dried up all the rain
 
 add a new line -
-hello
-new line
+
 
 washed out some random spider 
 This is a Test
@@ -12,24 +11,11 @@ This is a Test
 Github was fun, but not anymore
 New Line
 New Line of comment 
-new line
-
-
-
-add a new line -
-hello
-new line
-
-
-add a new line -
-hello
-new line
-
-I ❤ github
-
-Next comment
-PLEASE DONT DELETE ME THANK YOUUUUU !!!!!! <3
+hello world
 This line is shut, and the dead keep it.
+<<<<<<< HEAD
+Splish splash I was taking a bath...
+=======
 <<<<<<< HEAD
 <<<<<<< HEAD
 
