@@ -18,6 +18,14 @@ Github was fun, but not anymore
 New Line
 New Line of comment 
 <<<<<<< HEAD
+
+
+
+
+
+I ❤ github
+=======
+<<<<<<< HEAD
 >>>>>>> 7ed48711f686d897a7aff51f7e9c88dfb5e4db32
 =======
 
@@ -27,6 +35,14 @@ Next comment
 =======
 PLEASE DONT DELETE ME THANK YOUUUUU !!!!!! <3
 This line is shut, and the dead keep it.
+<<<<<<< HEAD
+Marcus was here.
+=======
 >>>>>>> 37b645d4d163909e3b7bd409f6412a3e74a6c0e4
 >>>>>>> e20a14ec4bbf0c5944fc080732c16fa70e8a6eb4
+<<<<<<< HEAD
 Arsenal 
+=======
+>>>>>>> 914f1735414018af604f39c136339247bc1c5bcb
+>>>>>>> d95129dc4ac5cbcaf5fdfd982986c55cfff5f195
+123445
