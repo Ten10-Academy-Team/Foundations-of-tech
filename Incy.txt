@@ -4,6 +4,7 @@ Out came the sun and dried up all the rain
 
 add a new line -
 hello
+new line
 
 washed out some random spider 
 This is a Test
@@ -14,9 +15,22 @@ New Line of comment
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+new line
 
 
 
+<<<<<<< HEAD
+=======
+add a new line -
+hello
+new line
+
+
+add a new line -
+hello
+new line
+
+>>>>>>> 776c331f69943f02f9bfb161b81decdf739b95f5
 I ❤ github
 =======
 <<<<<<< HEAD
@@ -28,6 +42,7 @@ I ❤ github
 Next comment
 PLEASE DONT DELETE ME THANK YOUUUUU !!!!!! <3
 This line is shut, and the dead keep it.
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 
@@ -4626,3 +4641,6 @@ Wrap it up, guys.
 I had virtually no rehearsal for that.
 =======
 >>>>>>> 01798041d21e2787cd4f3f5af6edaf77921f3f51
+=======
+<<<<<<< HEAD
+>>>>>>> 776c331f69943f02f9bfb161b81decdf739b95f5
