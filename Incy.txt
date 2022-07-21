@@ -12,9 +12,6 @@ This is a Test
 Github was fun, but not anymore
 New Line
 New Line of comment 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 new line
 
 
@@ -29,16 +26,22 @@ hello
 new line
 
 I ❤ github
-=======
-<<<<<<< HEAD
->>>>>>> 7ed48711f686d897a7aff51f7e9c88dfb5e4db32
-=======
->>>>>>> 537e957fdcfce9053e4db470fa341e6e9a95bbe6
-
 
 Next comment
 PLEASE DONT DELETE ME THANK YOUUUUU !!!!!! <3
 This line is shut, and the dead keep it.
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 This is getting a bit out of hand xD!
+=======
+
+According to all known laws of aviation, there is no way a bee should be
+able to fly. Its wings are too small to get its fat little body off the
+ground. The bee, of course, flies anyway because bees don't care what
+humans think is impossible. Yellow, black. Yellow, black. Yellow, black.
+Yellow, black.
+Ooh, black and yellow! Let's shake it up a little.
+Barry! Breakfast is ready!
+Coming!
+>>>>>>> 5e5d153220320967e13f6242f07962e5dfb0997c
