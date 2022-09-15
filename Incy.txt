@@ -3,11 +3,6 @@ Down came the rain and washed the spider out
 Out came the sunshine and dried up all the rain
 And Incy Wincy spider climbed up the spout again
 
-add a new line Here __
-Dont check in any merge markers please
-<<<<<<< HEAD
-
-<<<<<<< HEAD
 According to all known laws
 of aviation,
 there is no way a bee
@@ -19,11 +14,6 @@ because bees don't care
 what humans think is impossible.
 Yellow, black. Yellow, black.
 Yellow, black. Yellow, black.
-=======
-=======
-bruh
->>>>>>> 89486f0676bad8751e18818757a2ff78904319b5
-
 
 
 
