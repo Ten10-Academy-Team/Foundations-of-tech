@@ -4,10 +4,11 @@ Out came the sunshine and dried up all the rain
 And Incy Wincy spider climbed up the spout again
 
 <<<<<<< HEAD
-add a new line Here and then dissapear
-dont uses curses cuz youre gonna need nurses
+Add a new line here and then disappear
+don't use curses because you're going to need nurses
+I Suppose Snitches also get stitches...
 
-Dont check in any merge markers please
+Don't check in any merge markers please
 <<<<<<< HEAD
 Little man in computer is gone! :)
 
