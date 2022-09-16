@@ -1,9 +1,17 @@
+<<<<<<< HEAD
 Incy Wincy spider climbing up the spout
 Down came the rain and washed the spider out
 Out came the sunshine and dried up all the rain
 And Incy Wincy spider climbed up the spout again
 
+You cannot stop us
+
 edits here
+=======
+Shrek tacular
+A ray of light shines down on a leather-bound storybook. The book opens and a voice begins reading its text:
+>>>>>>> 9ee25111a2a4609caac572e526e592346145023d
+
 According to all known laws
 of aviation,
 
@@ -13,16 +21,14 @@ should be able to fly.
 
 
 Its wings are too small to get
-its
-Oscar was here
 <<<<<<< HEAD
 
 its fat little body off the ground.
-The bee, of course, flies anyway
+The bee, of course, flies anyway 
 because bees don't care
 what humans think is impossible.
 
-this doesnt matter
+this doesnt matter 
 
 its
 Oscar was here
@@ -37,7 +43,7 @@ Never gonna tell a lie and hurt you
 
 Hello Everyone
 
-Is it just me or does Oscar kinda look like Hassan Abi
+Is it just me or does Oscar kinda look like Hassan Abi 
 
 =======
 its fat little body off the ground.
