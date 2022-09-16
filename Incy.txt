@@ -1,15 +1,9 @@
->>>>>>>>>>>>>>>Don't check in any merge markers please <<<<<<<<<
-
 Incy Wincy spider climbing up the spout
 Down came the rain and washed the spider out
 Out came the sunshine and dried up all the rain
 And Incy Wincy spider climbed up the spout again
 
-Add a new line here and then disappear
-don't use curses because you're going to need nurses
-I Suppose Snitches also get stitches...
-
-
+edits here
 According to all known laws
 of aviation,
 there is no way a bee
@@ -21,5 +15,5 @@ Oscar was here
 edits here
 Hello Everyone
 =======
-Is it just me or does Oscar kinda look like Hassan Abi 
+Is it just me or does Oscar kinda look like Hassan Abi
 >>>>>>> 14d5412975af9fc57cdfe3115c06ecb7203d02a1
