@@ -712,21 +712,9 @@ I am not crazy! I know he swapped those numbers. I knew it was 1216. One after M
 =======
 its
 Oscar was here
->>>>>>> 4a236e386d27eb7cb93daa9c18baed8393c5d022
-
-Never gonna give you up
-Never gonna let you down
-Never gonna run around and desert you
-Never gonna make you cry
-Never gonna say goodbye
-Never gonna tell a lie and hurt you
 <<<<<<< HEAD
-
-<<<<<<< HEAD
->>>>>>> 27f73f8b2e7246ef4bf02ff01ab4c7275798854e
-=======
+edits here
 Hello Everyone
 =======
-Is it just me or does Oscar kinda look like Hassan Abi 
+Is it just me or does Oscar kinda look like Hassan Abi
 >>>>>>> 14d5412975af9fc57cdfe3115c06ecb7203d02a1
->>>>>>> 4a236e386d27eb7cb93daa9c18baed8393c5d022
