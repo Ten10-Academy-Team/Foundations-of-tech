@@ -3118,3 +3118,7 @@ you...
 
 A divine punishment.
 Made to endlessly git push, only to see your changes deleted.
+<<<<<<< HEAD
+=======
+Who wants shrek again?
+>>>>>>> origin/main
