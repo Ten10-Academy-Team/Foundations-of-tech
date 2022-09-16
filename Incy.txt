@@ -9,6 +9,7 @@ Add a new line here and then disappear
 don't use curses because you're going to need nurses
 I Suppose Snitches also get stitches...
 
+
 According to all known laws
 of aviation,
 there is no way a bee
@@ -20,3 +21,14 @@ because bees don't care
 what humans think is impossible.
 
 add new line 
+
+According to all known laws CHAOS
+of aviation, CHAOS
+there is no way a bee CHAOS
+should be able to fly. CHAOS
+Its wings are too small to get CHAOS
+its fat little body off the ground. CHAOS
+The bee, of course, flies anyway CHAOS
+because bees don't care CHAOS
+what humans think is impossible. CHAOS
+
