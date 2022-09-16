@@ -1,14 +1,7 @@
->>>>>>>>>>>>>>>Don't check in any merge markers please <<<<<<<<<
-
 Incy Wincy spider climbing up the spout
 Down came the rain and washed the spider out
 Out came the sunshine and dried up all the rain
 And Incy Wincy spider climbed up the spout again
-
-Add a new line here and then disappear
-don't use curses because you're going to need nurses
-I Suppose Snitches also get stitches...
-
 
 According to all known laws
 of aviation,
@@ -18,7 +11,6 @@ Its wings are too small to get
 its
 Oscar was here
 Good morning 
-
 
 Never gonna give you up
 Never gonna let you down
