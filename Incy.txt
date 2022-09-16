@@ -1,10 +1,9 @@
->>>>>>>>>>>>>>>Don't check in any merge markers please <<<<<<<<<
-
 Incy Wincy spider climbing up the spout
 Down came the rain and washed the spider out
 Out came the sunshine and dried up all the rain
 And Incy Wincy spider climbed up the spout again
 
+<<<<<<< HEAD
 Add a new line here and then disappear
 don't use curses because you're going to need nurses
 I Suppose Snitches also get stitches...
@@ -51,3 +50,6 @@ Is it just me or does Oscar kinda look like Hassan Abi
 >>>>>>> 4a236e386d27eb7cb93daa9c18baed8393c5d022
 
 What concert costs just 45 cents? 50 Cent featuring Nickelback
+=======
+teehee
+>>>>>>> 0582d2a6508f2be1274eebdd5208b9b699107564
