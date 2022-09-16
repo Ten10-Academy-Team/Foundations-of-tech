@@ -2,9 +2,14 @@ Incy Wincy spider climbing up the spout
 Down came the rain and washed the spider out
 Out came the sunshine and dried up all the rain
 And Incy Wincy spider climbed up the spout again
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 edits here
+=======
+Shrek tacular
+A ray of light shines down on a leather-bound storybook. The book opens and a voice begins reading its text:
+>>>>>>> 9ee25111a2a4609caac572e526e592346145023d
 
 According to all known laws
 of aviation,
@@ -2032,6 +2037,7 @@ is where they're getting it.
 I mean, that honey's ours.
 
 
+<<<<<<< HEAD
 - Bees hang tight.
 - We're all jammed in.
 
@@ -4548,3 +4554,8 @@ I had virtually no rehearsal for that.
 =======
 teehee
 >>>>>>> 0582d2a6508f2be1274eebdd5208b9b699107564
+=======
+THE END
+
+Alex was Here
+>>>>>>> 9ee25111a2a4609caac572e526e592346145023d
