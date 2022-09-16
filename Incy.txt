@@ -9,6 +9,8 @@ Add a new line here and then disappear
 don't use curses because you're going to need nurses
 I Suppose Snitches also get stitches...
 
+I am still trying to get this to work.
+
 According to all known laws
 of aviation,
 there is no way a bee
@@ -18,6 +20,7 @@ its fat little body off the ground.
 The bee, of course, flies anyway 
 because bees don't care
 what humans think is impossible.
+<<<<<<< HEAD
 <<<<<<< HEAD
 Yellow, black. Yellow, black.
 Yellow, black. Yellow, black.
@@ -704,3 +707,18 @@ I am not crazy! I know he swapped those numbers. I knew it was 1216. One after M
 >>>>>>> 90fee72e7b4cc8801668e90270f3bacfcecaf9e6
 =======
 >>>>>>> 1048e23b13dadb6eb035dc4811fe22977198b5e2
+=======
+
+add new line , but not before I add something else
+
+According to all known laws CHAOS
+of aviation, CHAOS
+there is no way a bee CHAOS
+should be able to fly. CHAOS
+Its wings are too small to get CHAOS
+its fat little body off the ground. CHAOS
+The bee, of course, flies anyway CHAOS
+because bees don't care CHAOS
+what humans think is impossible. CHAOS
+
+>>>>>>> 27f73f8b2e7246ef4bf02ff01ab4c7275798854e
