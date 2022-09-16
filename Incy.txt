@@ -1,21 +1,14 @@
+>>>>>>>>>>>>>>>Don't check in any merge markers please <<<<<<<<<
+
 Incy Wincy spider climbing up the spout
 Down came the rain and washed the spider out
 Out came the sunshine and dried up all the rain
 And Incy Wincy spider climbed up the spout again
 
-<<<<<<< HEAD
-add a new line Here and then dissapear
-dont uses curses cuz youre gonna need nurses
+Add a new line here and then disappear
+don't use curses because you're going to need nurses
+I Suppose Snitches also get stitches...
 
-Dont check in any merge markers please
-<<<<<<< HEAD
-You have smashed my teeny tiny little body and i am in grave danger!! if a tiny ambulance does not enter the laptop right now, i am a 
-gonner!One million plagues upon ye who turned a deaf ear upon my plea. For the locust, your crop. upon your head, the acursed spirits
-of the wronged. Hark. Turn to your prayer, for all that is holy has abandoned thee for your transgressions. What has been done to my
-tiny person body can not be undone. Now come the shadows to me. 	
-
-bruh
-=======
 According to all known laws
 of aviation,
 there is no way a bee
@@ -25,6 +18,7 @@ its fat little body off the ground.
 The bee, of course, flies anyway 
 because bees don't care
 what humans think is impossible.
+<<<<<<< HEAD
 Yellow, black. Yellow, black.
 Yellow, black. Yellow, black.
 
@@ -45,7 +39,7 @@ Use a pen, and draw a small circle on you forehead. I will know.
 All who are so marked are my Children.
 Those who refuse to do this are the Damned.
 Eternal reward in the afterlife for the former, eternal damnation for the latter.
-Remember: You you cannot be absolutely this is not real.
+Remember: You you cannot be absolutely sure this is not real.
 =======
 Shelob was here 2k22
 
@@ -708,3 +702,5 @@ I am not crazy! I know he swapped those numbers. I knew it was 1216. One after M
 I am not crazy! I know he swapped those numbers. I knew it was 1216. One after Magna Carta. As if I could ever make such a mistake. Never. Never! I just – I just couldn’t prove it. He covered his tracks, he got that idiot at the copy shop to lie for him. You think this is something? You think this is bad? This? This chicanery? He’s done worse. That billboard! Are you telling me that a man just happens to fall like that? No! He orchestrated it! Jimmy! He defecated through a sunroof! And I saved him! And I shouldn’t have. I took him into my own firm! What was I thinking? He’ll never change. He’ll never change! Ever since he was 9, always the same! Couldn’t keep his hands out of the cash drawer! But not our Jimmy! Couldn’t be precious Jimmy! Stealing them blind! And HE gets to be a lawyer? What a sick joke! I should’ve stopped him when I had the chance! …And you, you have to stop him!
 >>>>>>> 8ac434d91e3cbd29bbab3001801590c1fefdc002
 >>>>>>> 90fee72e7b4cc8801668e90270f3bacfcecaf9e6
+=======
+>>>>>>> 1048e23b13dadb6eb035dc4811fe22977198b5e2
