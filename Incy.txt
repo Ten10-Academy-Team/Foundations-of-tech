@@ -1,5 +1,3 @@
->>>>>>>>>>>>>>>Don't check in any merge markers please <<<<<<<<<
-
 Incy Wincy spider climbing up the spout
 Down came the rain and washed the spider out
 Out came the sunshine and dried up all the rain
@@ -20,20 +18,9 @@ because bees don't care
 what humans think is impossible.
 
 add new line , but not before I add something else
-<<<<<<< HEAD
+
 First
-=======
-deez
-According to all known laws CHAOS
-of aviation, CHAOS
-there is no way a bee CHAOS
-should be able to fly. CHAOS
-Its wings are too small to get CHAOS
-its fat little body off the ground. CHAOS
-The bee, of course, flies anyway CHAOS
-because bees don't care CHAOS
-what humans think is impossible. CHAOS
 
 Oscar was here
 Is it just me or does Oscar kinda look like Hassan Abi 
->>>>>>> 14d5412975af9fc57cdfe3115c06ecb7203d02a1
+
