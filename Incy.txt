@@ -4,11 +4,15 @@ Out came the sunshine and dried up all the rain
 And Incy Wincy spider climbed up the spout again
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Add a new line here and then disappear
 don't use curses because you're going to need nurses
 I Suppose Snitches also get stitches...
 
 
+=======
+edits here
+>>>>>>> b6df52d97fec4651dc08616b2286a6f4f8d2f73a
 According to all known laws
 of aviation,
 there is no way a bee
@@ -16,6 +20,7 @@ should be able to fly.
 Its wings are too small to get
 its
 Oscar was here
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 add another new line
@@ -51,5 +56,13 @@ Is it just me or does Oscar kinda look like Hassan Abi
 
 What concert costs just 45 cents? 50 Cent featuring Nickelback
 =======
+=======
+edits here
+Hello Everyone
+Is it just me or does Oscar kinda look like Hassan Abi
+Let's bring back the bees to please Cati
+
+I will sell all the honey to Nicholas Cage, bee enjoyer
+>>>>>>> b6df52d97fec4651dc08616b2286a6f4f8d2f73a
 teehee
 >>>>>>> 0582d2a6508f2be1274eebdd5208b9b699107564
