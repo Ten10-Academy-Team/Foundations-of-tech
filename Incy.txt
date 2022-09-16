@@ -3,6 +3,7 @@ Down came the rain and washed the spider out
 Out came the sunshine and dried up all the rain
 And Incy Wincy spider climbed up the spout again
 
+<<<<<<< HEAD
 edits here
 
 According to all known laws
@@ -4544,3 +4545,6 @@ All right. Take ten, everybody.
 Wrap it up, guys.
 
 I had virtually no rehearsal for that.
+=======
+teehee
+>>>>>>> 0582d2a6508f2be1274eebdd5208b9b699107564
