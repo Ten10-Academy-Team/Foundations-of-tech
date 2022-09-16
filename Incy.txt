@@ -16,6 +16,7 @@ of aviation,
 there is no way a bee
 should be able to fly.
 Its wings are too small to get
+<<<<<<< HEAD
 its fat little body off the ground.
 The bee, of course, flies anyway 
 because bees don't care
@@ -708,17 +709,24 @@ I am not crazy! I know he swapped those numbers. I knew it was 1216. One after M
 =======
 >>>>>>> 1048e23b13dadb6eb035dc4811fe22977198b5e2
 =======
+=======
+its
+Oscar was here
+>>>>>>> 4a236e386d27eb7cb93daa9c18baed8393c5d022
 
-add new line , but not before I add something else
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+<<<<<<< HEAD
 
-According to all known laws CHAOS
-of aviation, CHAOS
-there is no way a bee CHAOS
-should be able to fly. CHAOS
-Its wings are too small to get CHAOS
-its fat little body off the ground. CHAOS
-The bee, of course, flies anyway CHAOS
-because bees don't care CHAOS
-what humans think is impossible. CHAOS
-
+<<<<<<< HEAD
 >>>>>>> 27f73f8b2e7246ef4bf02ff01ab4c7275798854e
+=======
+Hello Everyone
+=======
+Is it just me or does Oscar kinda look like Hassan Abi 
+>>>>>>> 14d5412975af9fc57cdfe3115c06ecb7203d02a1
+>>>>>>> 4a236e386d27eb7cb93daa9c18baed8393c5d022
