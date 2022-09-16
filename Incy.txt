@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Incy Wincy spider climbing up the spout
 Down came the rain and washed the spider out
 Out came the sunshine and dried up all the rain
@@ -2315,3 +2316,5 @@ DONKEY: (as he's done singing and we fade to black) Oh, that's funny. Oh. Oh. I 
 THE END
 
 Alex was Here
+=======
+>>>>>>> a9c3bfdfa050bd74acbb676fcae98528c72d0cc4
