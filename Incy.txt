@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Where did it all go
 A Fire?! At Sea Parks?!?!
 
@@ -90,3 +91,8 @@ _dP"                                                   "9b_
 Who wants shrek again?
 
 Please no more shrek
+=======
+Incy Wincy spider climbing up the spout
+Down came the rain and washed the spider out
+Out came the sunshine and dried up all the rain
+>>>>>>> f60998f49d9efab982ab7b083bcf8e081b7a21b8
