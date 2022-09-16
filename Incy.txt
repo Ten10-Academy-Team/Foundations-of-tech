@@ -15,11 +15,10 @@ of aviation,
 there is no way a bee
 should be able to fly.
 Its wings are too small to get
-its fat little body off the ground.
-The bee, of course, flies anyway 
-because bees don't care
-what humans think is impossible.
+its
+Oscar was here
 
+<<<<<<< HEAD
 add another new line
 
 add new line , but not before I add something else
@@ -36,3 +35,19 @@ what humans think is impossible.
 
 (What do you call someone with no body and no nose?
 Nobody knows.)
+=======
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
+<<<<<<< HEAD
+
+Hello Everyone
+=======
+Is it just me or does Oscar kinda look like Hassan Abi 
+>>>>>>> 14d5412975af9fc57cdfe3115c06ecb7203d02a1
+>>>>>>> 4a236e386d27eb7cb93daa9c18baed8393c5d022
+
+What concert costs just 45 cents? 50 Cent featuring Nickelback
