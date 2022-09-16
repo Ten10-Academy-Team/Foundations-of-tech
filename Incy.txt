@@ -1,22 +1,17 @@
->>>>>>>>>>>>>>>Don't check in any merge markers please <<<<<<<<<
-
 Incy Wincy spider climbing up the spout
 Down came the rain and washed the spider out
 Out came the sunshine and dried up all the rain
 And Incy Wincy spider climbed up the spout again
+
 
 Add a new line here and then disappear
 don't use curses because you're going to need nurses
 I Suppose Snitches also get stitches...
 
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 
-<<<<<<< HEAD
-=======
->>>>>>> ba765096ed7448eae217af27ccf89b3b130417f6
+edits here
+
 According to all known laws
 of aviation,
 there is no way a bee
@@ -24,15 +19,14 @@ should be able to fly.
 Its wings are too small to get
 its
 Oscar was here
-<<<<<<< HEAD
 
+edits here
 Hello Everyone
-=======
-<<<<<<< HEAD
-=======
+
+
+
 bruh
->>>>>>> 89486f0676bad8751e18818757a2ff78904319b5
->>>>>>> 0d231614f0c2166fdeb3d7001e668464681b1c4f
+
 
 fire at a sea parks
 big beats are the best
@@ -695,5 +689,8 @@ I am not crazy! I know he swapped those numbers. I knew it was 1216. One after M
 >>>>>>> 8ac434d91e3cbd29bbab3001801590c1fefdc002
 =======
 Is it just me or does Oscar kinda look like Hassan Abi 
+=======
+Is it just me or does Oscar kinda look like Hassan Abi
+>>>>>>> 08b19797dbf219bf169c5275d36f6caa0224ba59
 >>>>>>> 14d5412975af9fc57cdfe3115c06ecb7203d02a1
 >>>>>>> ba765096ed7448eae217af27ccf89b3b130417f6
