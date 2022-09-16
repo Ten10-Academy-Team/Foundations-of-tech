@@ -69,5 +69,10 @@ merge time
 =======
 A divine punishment.
 Made to endlessly git push, only to see your changes deleted.
+<<<<<<< HEAD
 
 >>>>>>> 2b569b003469f2850d4c7254497a191987e1a16f
+=======
+Who wants shrek again?
+
+merge
