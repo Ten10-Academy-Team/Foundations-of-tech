@@ -1,34 +1,41 @@
+>>>>>>>>>>>>>>>Don't check in any merge markers please <<<<<<<<<
+
 Incy Wincy spider climbing up the spout
 Down came the rain and washed the spider out
 Out came the sunshine and dried up all the rain
 And Incy Wincy spider climbed up the spout again
 
-add a new line Here __
-Dont check in any merge markers please
-<<<<<<< HEAD
+Add a new line here and then disappear
+don't use curses because you're going to need nurses
+I Suppose Snitches also get stitches...
 
+
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 
 <<<<<<< HEAD
+=======
+>>>>>>> ba765096ed7448eae217af27ccf89b3b130417f6
 According to all known laws
 of aviation,
 there is no way a bee
 should be able to fly.
 Its wings are too small to get
-its fat little body off the ground.
-The bee, of course, flies anyway 
-because bees don't care
-what humans think is impossible.
-Yellow, black. Yellow, black.
-Yellow, black. Yellow, black.
+its
+Oscar was here
+<<<<<<< HEAD
+
+Hello Everyone
 =======
+<<<<<<< HEAD
 =======
 bruh
 >>>>>>> 89486f0676bad8751e18818757a2ff78904319b5
 >>>>>>> 0d231614f0c2166fdeb3d7001e668464681b1c4f
 
 fire at a sea parks
+big beats are the best
 
 
 
@@ -686,3 +693,7 @@ fire at a sea parks
 
 I am not crazy! I know he swapped those numbers. I knew it was 1216. One after Magna Carta. As if I could ever make such a mistake. Never. Never! I just – I just couldn’t prove it. He covered his tracks, he got that idiot at the copy shop to lie for him. You think this is something? You think this is bad? This? This chicanery? He’s done worse. That billboard! Are you telling me that a man just happens to fall like that? No! He orchestrated it! Jimmy! He defecated through a sunroof! And I saved him! And I shouldn’t have. I took him into my own firm! What was I thinking? He’ll never change. He’ll never change! Ever since he was 9, always the same! Couldn’t keep his hands out of the cash drawer! But not our Jimmy! Couldn’t be precious Jimmy! Stealing them blind! And HE gets to be a lawyer? What a sick joke! I should’ve stopped him when I had the chance! …And you, you have to stop him!
 >>>>>>> 8ac434d91e3cbd29bbab3001801590c1fefdc002
+=======
+Is it just me or does Oscar kinda look like Hassan Abi 
+>>>>>>> 14d5412975af9fc57cdfe3115c06ecb7203d02a1
+>>>>>>> ba765096ed7448eae217af27ccf89b3b130417f6
