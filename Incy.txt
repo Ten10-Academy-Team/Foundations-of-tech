@@ -29,7 +29,6 @@ Hello
 
 World
 
-<<<<<<< HEAD
 Jemima is amazing
 
 CAFC 
