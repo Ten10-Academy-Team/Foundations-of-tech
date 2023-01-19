@@ -7,6 +7,7 @@ and dried up all the rain
 And Incy Wincy spider
 Climbed up the spout again.
 
+<<<<<<< HEAD
 By some random person
 
 Hello
@@ -20,3 +21,46 @@ Hello
 World
 
 humpty dumpty sat on the wall
+=======
+hello
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wicker Camp
+
+>>>>>>> 219b5a27ed2b1d469ad6619b5961a442dc98ffa6
+>>>>>>> 3e5ded50abfcf40e1f597dcea6a6b7d35455aa0d
