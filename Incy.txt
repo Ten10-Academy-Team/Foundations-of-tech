@@ -14,8 +14,6 @@ LOL
 
 Hello
 
-
-
 By some random person
 
 
@@ -29,7 +27,6 @@ Hello
 
 World
 
-<<<<<<< HEAD
 Jemima is amazing
 
 CAFC 
@@ -52,3 +49,5 @@ Wicker Camp
 AntiConflict
 
 Caprisun Contender
+
+sat on my window 
