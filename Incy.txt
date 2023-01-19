@@ -19,6 +19,3 @@ Hello
 
 World
 
-Bunnies
-
-more things
