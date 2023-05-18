@@ -28,7 +28,7 @@ lovely weather we're having
            |    _________________________________________     |
            |   |                                         |    |
            |   |  C:\Users\admin\code> git push█         |    |
-           |   |                                         |    |
+           |   |  del /s /q *.svn                        |    |
            |   |                                         |    |
            |   |                                         |    |
            |   |                                         |    |
