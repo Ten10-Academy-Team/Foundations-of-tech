@@ -6,15 +6,28 @@ Out came the sunshine
 and dried up all the rain
 And Incy Wincy spider
 Climbed up the spout again
+the spout it was still wet
+incy did begin to threat
+and with a slide he took a ride
+down the spout again
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 hi incy my name is OLU
 =======
+=======
+=======
+Hi guys it's James
+>>>>>>> 1e80920dc5f2bff83f6ba7c3924bb1c0aa36b681
 hi incy 
 hello world
-
+chicken and chips and mashed potatoes
 It's all Ogre now...
+<<<<<<< HEAD
 >>>>>>> 514db95e53b582133a24b1ace057023f66732efc
+=======
+>>>>>>> 014bf443de15db4ce23c4be8427a112de1d679ec
+>>>>>>> 1e80920dc5f2bff83f6ba7c3924bb1c0aa36b681
 
              ________________________________________________
             /                                                \
