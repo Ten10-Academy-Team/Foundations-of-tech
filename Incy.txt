@@ -48,9 +48,7 @@ Hello I love pizza
 do re mi fa sol la si do
 
 The bee movie was bad
-
-
-The bee movie was bad
+^ haha not true
 
 The entire bee movie but every time they say bee it gets faster
 https://www.youtube.com/watch?v=W31e9meX9S4
