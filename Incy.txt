@@ -4,7 +4,7 @@ Down came the rain
 And washed poor Incy out
 Out came the sunshine
 and dried up all the rain
-And Incy Wincy spider
+And Ingitcy Wincy spider
 Climbed up the spout again
 With great power comes great responsibility
 
@@ -22,8 +22,14 @@ By Callum
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 By some random guy and Callum
-
+sadae
+<<<<<<< HEAD
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
+=======
+
+helloooooo
+
+>>>>>>> 6d22531f26ae0f9378fb18ee2e7e233d131138a7
 Thanks Francesca
 
 <<<<<<< HEAD
