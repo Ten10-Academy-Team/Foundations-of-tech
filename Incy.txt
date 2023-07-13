@@ -74,13 +74,12 @@ $_____$$_$$____$_______________$$$____$__$_$__$
 
 
 By Ephron Agyeman
-=======
+
 sadae
 
 
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
-
-
+Well,let's see how this goes, Again.
 helloooooo
 
 
@@ -105,8 +104,12 @@ Hello I love pizza
 do re mi fa sol la si do
 
 The bee movie was bad
+^ haha not true
 
+The entire bee movie but every time they say bee it gets faster
+https://www.youtube.com/watch?v=W31e9meX9S4
 
+<<<<<<< HEAD
 
 The bee movie was bad
 
@@ -123,3 +126,6 @@ My name is Charles please remove all merge markers, for the greater good!
 =======
 
 >>>>>>> 8a167f7edff36dde0cfbc03a308e62056901a7e7
+=======
+My name is Charles please remove all merge markers, for the greater good!
+>>>>>>> e9358ce4380746080fa9145990f88fa14cc859a8
