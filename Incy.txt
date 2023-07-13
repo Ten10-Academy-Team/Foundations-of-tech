@@ -74,7 +74,7 @@ $_____$$_$$____$_______________$$$____$__$_$__$
 
 
 By Ephron Agyeman
-=======
+
 sadae
 
 
@@ -104,7 +104,10 @@ Hello I love pizza
 do re mi fa sol la si do
 
 The bee movie was bad
+^ haha not true
 
+The entire bee movie but every time they say bee it gets faster
+https://www.youtube.com/watch?v=W31e9meX9S4
 
 
 The bee movie was bad
@@ -117,3 +120,7 @@ She was looking kind of dumb with her finger and her thumb
 
 My name is Charles please remove all merge markers, for the greater good!
 
+
+My name is Charles please remove all merge markers, for the greater good!
+
+Remember to remove the heads and lines and numbers
