@@ -109,9 +109,9 @@ The bee movie was bad
 
 
 The bee movie was bad
-<<<<<<< HEAD
->>>>>>> c00819fd5cd460e1c3667c1e73417ab570c65cc6
+
+
 =======
 
 My name is Charles please remove all merge markers, for the greater good!
->>>>>>> 6b5c5864b75b947b1fcfd68f6827a34f0606cc4a
+
