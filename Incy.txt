@@ -8,10 +8,25 @@ And Incy Wincy spider
 Climbed up the spout again
 With great power comes great responsibility
 
+By Callum
+
+⠀⠀⠀⠀⣀⣤⣴⣶⣶⣶⣦⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⢿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢀⣾⣿⣿⣿⣿⣿⣿⣿⣅o⣽⣿⣿⡿⠃⠀⠀⠀⠀⠀⠀⠀⠀
+⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⠛⠁⠀⠀⣴⣶⡄⠀⣴⣶⡄⠀⣴⣶⡄ ⣴⣶⡄⠀⣴⣶⡄⠀⣴⣶⡄ ⣴⣶⡄⠀⣴⣶⡄⠀⣴⣶⡄
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣀⠀⠙⠋⠁⠀⠙⠋⠁⠀⠙⠋⠁⠀⠙⠋⠁⠀⠙⠋⠁⠀⠙⠋⠁ ⠙⠋⠁⠀⠙⠋⠁⠀⠙⠋⠁
+⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠃⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠈⠙⠿⣿⣿⣿⣿⣿⣿⣿⠿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 By some random guy and Callum
 
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
 Thanks Francesca
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 Hello I love pizza
 
@@ -19,3 +34,8 @@ do re mi fa sol la si do
 =======
 The bee movie was bad
 >>>>>>> d94f6720f34ac927eea1e31a847ebad08f1ccd85
+=======
+
+The bee movie was bad
+
+>>>>>>> 8857dfdaab68e4a5114ad9092b925c134f0fb4d7
