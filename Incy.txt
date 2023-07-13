@@ -12,6 +12,10 @@ By some random guy and Callum
 
 Thanks Francesca
 
+<<<<<<< HEAD
 Hello I love pizza
 
 do re mi fa sol la si do
+=======
+The bee movie was bad
+>>>>>>> d94f6720f34ac927eea1e31a847ebad08f1ccd85
