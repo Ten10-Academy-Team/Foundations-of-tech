@@ -5,12 +5,16 @@ And washed poor Incy out
 
  Out came the sunshine
 and dried up all the wrain (rain??)
+<<<<<<< HEAD
 And Incy Wincy spider
 <<<<<<< HEAD
 Climbed up the spout again 
 
 Repeat until everyone is sick of song
 =======
+=======
+And Incy Wincy spideruhubbub
+>>>>>>> d9b53731e76249d9eada9fc536d0c2e0990f6ff4
 Climbed up the spout again
 hello
 >>>>>>> 378db3bc0b3d72836c7c9a88af26626877d8cd85
