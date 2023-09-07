@@ -20,6 +20,7 @@ and dried up all the rain
 and dried up all the wrain (rain??)
 And Incy Wincy spider
 Climbed up the spout again 
+again
 
 
 and dried up all the wrain (rain??)
@@ -31,8 +32,19 @@ Repeat until everyone is sick of song
 And Incy Wincy spideruhubbub
 Climbed up the spout again
 hello
+<<<<<<< HEAD
 so many spiders!!!
 is it working
+=======
+<<<<<<< HEAD
+AYMAN
+=======
+<<<<<<< HEAD
+so many spiders!!!
+=======
+>>>>>>> 38f5d5c5b7001e763d4e6ec20365400e8adfc91d
+>>>>>>> 62357df5b30168efe4108ee46a75c2dde2e37627
+>>>>>>> 6038aa238ab520c571ecb1fba0954be1c9d46d7c
 
 That was a bit silly of him
 to go all the way out on a limb
@@ -48,6 +60,8 @@ According to all known laws of aviation, there is no way a bee should be able to
 It's wings are too small to get its fat little body off the ground. 
 The bee, of course, flies anyway, because bees don't care what humans think is impossible.
 
+Buzzz Buzzz Buzzz
+
 Look for the bare necessities
 The simple bare necessities
 Forget about your worries and your strife
@@ -56,7 +70,9 @@ Old Mother Nature's recipes
 That bring the bare necessities of life
 
 
+
 Can it please work now?
+>>>>>>> 62357df5b30168efe4108ee46a75c2dde2e37627
                                    _
 Aye, fight and you may die. Run and you'll live -- at least a while. And dying in your beds many years from now, would you be willing to trade all the days from this day to that for one chance, just one chance to come back here and tell our enemies that they may take our lives, but they'll never take our freedom!!!
        /      \         __      _\( )/_
@@ -75,6 +91,8 @@ _\( )/_            /(_)\        ( ͡° ͜ʖ ͡°)      | /  \ |   /(O)\
 
 
 **Dont check in the merge markers!! **
+
+I ain't the sharpest tool in the shed
 
           SHREK
 
@@ -3753,4 +3771,6 @@ _\( )/_            /(_)\        ( ͡° ͜ʖ ͡°)      | /  \ |   /(O)\
                          breathe. I can't breathe.
  
                THE END
+
+What gets wetter as it dries
 
