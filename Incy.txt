@@ -50,6 +50,8 @@ According to all known laws of aviation, there is no way a bee should be able to
 It's wings are too small to get its fat little body off the ground. 
 The bee, of course, flies anyway, because bees don't care what humans think is impossible.
 
+Buzzz Buzzz Buzzz
+
 Look for the bare necessities
 The simple bare necessities
 Forget about your worries and your strife
@@ -60,6 +62,7 @@ That bring the bare necessities of life
 
 
 Can it please work now?
+>>>>>>> 62357df5b30168efe4108ee46a75c2dde2e37627
                                    _
 Aye, fight and you may die. Run and you'll live -- at least a while. And dying in your beds many years from now, would you be willing to trade all the days from this day to that for one chance, just one chance to come back here and tell our enemies that they may take our lives, but they'll never take our freedom!!!
        /      \         __      _\( )/_
