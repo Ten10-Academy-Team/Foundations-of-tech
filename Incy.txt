@@ -1,6 +1,6 @@
 Incy Wincy spider
 Climbed up the water spout
-Down came the rain SPLASHHH
+Down came the rain
 And washed poor Incy out
 
  Out came the sunshine
@@ -17,7 +17,7 @@ Climbed up the spout again
     |  |  ><  |  |          ,  |   ><   |  ,     | \__/ |
     \  \      /  /         . \  \      /  / .              _
    _    '.__.'    _\(O)/_   \_'--`(  )'--'_/     __     _\(_)/_
-_\( )/_            /(_)\      .--'/()\'--.    | /  \ |   /(O)\
+_\( )/_            /(_)\        ( ͡° ͜ʖ ͡°)      | /  \ |   /(O)\
  /(O)\  //  \\         _     /  /` '' `\  \  \_\\  //_/
        _\\()//_     _\(_)/_    |        |      //()\\ 
       / //  \\ \     /(o)\      \      /       \\  //
