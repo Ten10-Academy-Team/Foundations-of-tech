@@ -4,9 +4,24 @@ Down came the rain
 And washed poor Incy out
 
  Out came the sunshine
+<<<<<<< HEAD
 and dried up all the rain
+=======
+and dried up all the wrain (rain??)
+<<<<<<< HEAD
+>>>>>>> a8c7b9809537171d31615158b46fd7482d4487b5
 And Incy Wincy spider
+<<<<<<< HEAD
+Climbed up the spout again 
+
+Repeat until everyone is sick of song
+=======
+=======
+And Incy Wincy spideruhubbub
+>>>>>>> d9b53731e76249d9eada9fc536d0c2e0990f6ff4
 Climbed up the spout again
+hello
+>>>>>>> 378db3bc0b3d72836c7c9a88af26626877d8cd85
 
 That was a bit silly of him
 to go all the way out on a limb
