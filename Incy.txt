@@ -4,11 +4,16 @@ Down came the rain
 And washed poor Incy out
 
  Out came the sunshine
-and dried up all the wrain
+and dried up all the wrain (rain??)
 And Incy Wincy spider
+<<<<<<< HEAD
 Climbed up the spout again 
 
 Repeat until everyone is sick of song
+=======
+Climbed up the spout again
+hello
+>>>>>>> 378db3bc0b3d72836c7c9a88af26626877d8cd85
 
                                    _
        /      \         __      _\( )/_
@@ -19,7 +24,7 @@ Repeat until everyone is sick of song
     |  |  ><  |  |          ,  |   ><   |  ,     | \__/ |
     \  \      /  /         . \  \      /  / .              _
    _    '.__.'    _\(O)/_   \_'--`(  )'--'_/     __     _\(_)/_
-_\( )/_            /(_)\      .--'/()\'--.    | /  \ |   /(O)\
+_\( )/_            /(_)\        ( ͡° ͜ʖ ͡°)      | /  \ |   /(O)\
  /(O)\  //  \\         _     /  /` '' `\  \  \_\\  //_/
        _\\()//_     _\(_)/_    |        |      //()\\ 
       / //  \\ \     /(o)\      \      /       \\  //
