@@ -10,28 +10,26 @@ A monkey is £500
 whats up
 That is stupid 
 That is stupid
-<<<<<<< HEAD
 
-=======
->>>>>>> 99e300057ef54a36d7c7aae6618333e4cad97ad5
+
+London is red
+That is not very nice
+
+stop merging
+
 London is red 
 
 That is not very nice
 
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 99e300057ef54a36d7c7aae6618333e4cad97ad5
 London is red 
 That is not very nice
 
 stop merging
-<<<<<<< HEAD
 London is red
-=======
-London is red 
->>>>>>> 99e300057ef54a36d7c7aae6618333e4cad97ad5
+
+
+London is red
 That is not very nice
 
 stop merging
@@ -46,6 +44,12 @@ One two three
 i agree with the above
 rubberduck
 
+<<<<<<< HEAD
+Hi all!!
+=======
+lemme push this!!
+
+=======
 
 i also agree
 
@@ -81,11 +85,25 @@ Hello World Always
 =======
 Lomfom is joy red
 
+
+
 Nah house 12 
 
-<<<<<<< HEAD
+trying again 
 =======
+<<<<<<< HEAD
 Nah house 12 
 >>>>>>> 99e300057ef54a36d7c7aae6618333e4cad97ad5
 >>>>>>> 3ee4cf9a656d06af5a0c4c09dcbf0fb773086b1a
 hello
+=======
+Nah house 12
+Snatch and 'Lock, Stock, And, Two The Smoking Barrels' are the best films ever
+
+hi
+
+last try!!!
+
+Hi all!
+>>>>>>> 8555926b88aed797d32ace30cd0ad18b1d6af5a9
+final attempt
