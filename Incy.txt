@@ -9,6 +9,14 @@ What is a monkey
 A monkey is £500
 That is stupid 
 That is stupid
+<<<<<<< HEAD
+<<<<<<< HEAD
+London is red 
+=======
+That is not very nice
+>>>>>>> 1e2f68e326ae2ca826933bb794c98efdef858afe
+stop merging
+=======
 
 That is not very nice
 <<<<<<< HEAD
@@ -20,5 +28,11 @@ deal with it xx
 That is not very nice
 
 i agree with the above
+rubberduck
 
+<<<<<<< HEAD
 >>>>>>> 83b61169cce93e83ac45fa83eb098b21d7379601
+=======
+>>>>>>> 83b61169cce93e83ac45fa83eb098b21d7
+House 16 >>>> 
+>>>>>>> 07a6f6cc9511f1aeb446eff945b4161a887d5ebb
