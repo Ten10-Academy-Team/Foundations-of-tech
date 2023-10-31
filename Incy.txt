@@ -7,6 +7,9 @@ Hello Worlds?
 These shoes cost me a monkey
 What is a monkey
 A monkey is £500
+<<<<<<< HEAD
+whats up
+=======
 That is stupid 
 That is stupid
 
@@ -24,7 +27,15 @@ That is not very nice
 i agree with the above
 rubberduck
 
+
 i also agree
 
 House 16 >>>> 
+
+merge merge merge
+
+House 16 >>>> 
+
+house 16 is superior
+
 
