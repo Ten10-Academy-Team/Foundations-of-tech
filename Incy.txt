@@ -10,28 +10,18 @@ A monkey is £500
 whats up
 That is stupid 
 That is stupid
-<<<<<<< HEAD
-
-=======
->>>>>>> 99e300057ef54a36d7c7aae6618333e4cad97ad5
 London is red 
 
 That is not very nice
 
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 99e300057ef54a36d7c7aae6618333e4cad97ad5
 London is red 
 That is not very nice
 
 stop merging
-<<<<<<< HEAD
 London is red
-=======
-London is red 
->>>>>>> 99e300057ef54a36d7c7aae6618333e4cad97ad5
+
+London is red
 That is not very nice
 
 stop merging
