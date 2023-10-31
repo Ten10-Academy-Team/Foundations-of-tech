@@ -10,22 +10,17 @@ A monkey is £500
 whats up
 That is stupid 
 That is stupid
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 London is red 
 
 That is not very nice
 
-
-=======
 
 London is red 
 That is not very nice
 
 stop merging
->>>>>>> 4dc27443a0dc64b3373451eb8309ab872aed9a86
-London is red 
+London is red
 That is not very nice
 
 stop merging
@@ -39,7 +34,6 @@ That is not very nice
 One two three
 i agree with the above
 rubberduck
-<<<<<<< HEAD
 
 
 i also agree
@@ -62,4 +56,7 @@ stop merging pls
 merge merge merge
 House 16
 house 16 is superior
+house 16 is superior
 Hello World Always
+
+51
