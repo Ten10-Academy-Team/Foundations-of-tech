@@ -11,21 +11,27 @@ whats up
 That is stupid 
 That is stupid
 <<<<<<< HEAD
-<<<<<<< HEAD
 
+=======
+>>>>>>> 99e300057ef54a36d7c7aae6618333e4cad97ad5
 London is red 
 
 That is not very nice
 
 
+<<<<<<< HEAD
 =======
 
+>>>>>>> 99e300057ef54a36d7c7aae6618333e4cad97ad5
 London is red 
 That is not very nice
 
 stop merging
->>>>>>> 4dc27443a0dc64b3373451eb8309ab872aed9a86
+<<<<<<< HEAD
+London is red
+=======
 London is red 
+>>>>>>> 99e300057ef54a36d7c7aae6618333e4cad97ad5
 That is not very nice
 
 stop merging
@@ -36,7 +42,7 @@ deal with it xx
 
 
 That is not very nice
-
+One two three
 i agree with the above
 rubberduck
 
@@ -46,11 +52,11 @@ lemme push this!!
 
 i also agree
 
-House 16 >>>> 
+House 16
 
 merge merge merge
 
-House 16 >>>>
+House 16
 
 house 16 is superior
 
@@ -58,15 +64,24 @@ merge merge merge
 House 16
 house 16 is superior
 Hello World Always
+Lomdom os not red
 
 stop merging pls
 
 merge merge merge
 House 16
 house 16 is superior
+house 16 is superior
 Hello World Always
+Lomfom is joy red
 
 
+<<<<<<< HEAD
 Nah house 12 
 
 trying again 
+=======
+Nah house 12
+Snatch and 'Lock, Stock, And, Two The Smoking Barrels' are the best films ever
+
+hi 
