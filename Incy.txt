@@ -7,4 +7,9 @@ These shoes cost me a monkey
 What is a monkey
 A monkey is £500
 That is stupid
+<<<<<<< HEAD
 London is red 
+=======
+That is not very nice
+>>>>>>> 1e2f68e326ae2ca826933bb794c98efdef858afe
+stop merging
