@@ -7,14 +7,17 @@ Hello Worlds?
 These shoes cost me a monkey
 What is a monkey
 A monkey is £500
-<<<<<<< HEAD
 whats up
-=======
 That is stupid 
 That is stupid
+<<<<<<< HEAD
 
 London is red 
 
+That is not very nice
+
+
+London is red 
 That is not very nice
 
 stop merging
@@ -34,8 +37,13 @@ House 16 >>>>
 
 merge merge merge
 
-House 16 >>>> 
+House 16 >>>>
 
 house 16 is superior
 
+merge merge merge
+House 16
+house 16 is superior
+Hello World Always
 
+stop merging pls
