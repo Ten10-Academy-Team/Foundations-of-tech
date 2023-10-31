@@ -11,21 +11,27 @@ whats up
 That is stupid 
 That is stupid
 <<<<<<< HEAD
-<<<<<<< HEAD
 
+=======
+>>>>>>> 99e300057ef54a36d7c7aae6618333e4cad97ad5
 London is red 
 
 That is not very nice
 
 
+<<<<<<< HEAD
 =======
 
+>>>>>>> 99e300057ef54a36d7c7aae6618333e4cad97ad5
 London is red 
 That is not very nice
 
 stop merging
->>>>>>> 4dc27443a0dc64b3373451eb8309ab872aed9a86
+<<<<<<< HEAD
+London is red
+=======
 London is red 
+>>>>>>> 99e300057ef54a36d7c7aae6618333e4cad97ad5
 That is not very nice
 
 stop merging
@@ -36,19 +42,18 @@ deal with it xx
 
 
 That is not very nice
-
+One two three
 i agree with the above
 rubberduck
-<<<<<<< HEAD
 
 
 i also agree
 
-House 16 >>>> 
+House 16
 
 merge merge merge
 
-House 16 >>>>
+House 16
 
 house 16 is superior
 
@@ -57,13 +62,30 @@ House 16
 house 16 is superior
 Hello World Always
 <<<<<<< HEAD
+<<<<<<< HEAD
 anyone got some spare bread
 =======
+=======
+Lomdom os not red
+>>>>>>> 3ee4cf9a656d06af5a0c4c09dcbf0fb773086b1a
 
 stop merging pls
 
 merge merge merge
 House 16
 house 16 is superior
+house 16 is superior
 Hello World Always
+<<<<<<< HEAD
 >>>>>>> 82e5dbb94214ace7ce86594e8f3c67ea7f005f36
+=======
+Lomfom is joy red
+
+Nah house 12 
+
+<<<<<<< HEAD
+=======
+Nah house 12 
+>>>>>>> 99e300057ef54a36d7c7aae6618333e4cad97ad5
+>>>>>>> 3ee4cf9a656d06af5a0c4c09dcbf0fb773086b1a
+hello
