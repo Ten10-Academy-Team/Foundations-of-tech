@@ -1,6 +1,6 @@
 The itsy bitsy spider
 went up the water spout.
-Down came the rain,
+Down came the snow,
 and washed the spider out.
 Out came the sun,
 and dried up all the rain.
@@ -24,6 +24,7 @@ went up the spout again.
      /       \
 
 
+<<<<<<< HEAD
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣴⣶⣶⣶⣶⣦⣤⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⣠⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣄⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⠏⠁⠀⢶⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀
@@ -39,9 +40,67 @@ went up the spout again.
 ⠀⠀⠀⠀⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠙⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠋⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠛⠻⠿⠿⠿⠿⠟⠛⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀
+=======
+                                       _______
+                           _,,ad8888888888bba,_
+                        ,ad88888I888888888888888ba,
+                      ,88888888I88888888888888888888a,
+                    ,d888888888I8888888888888888888888b,
+                   d88888PP"""" ""YY88888888888888888888b,
+                 ,d88"'__,,--------,,,,.;ZZZY8888888888888,
+                ,8IIl'"                ;;l"ZZZIII8888888888,
+               ,I88l;'                  ;lZZZZZ888III8888888,
+             ,II88Zl;.                  ;llZZZZZ888888I888888,
+            ,II888Zl;.                .;;;;;lllZZZ888888I8888b
+           ,II8888Z;;                 `;;;;;''llZZ8888888I8888,
+           II88888Z;'                        .;lZZZ8888888I888b
+           II88888Z; _,aaa,      .,aaaaa,__.l;llZZZ88888888I888
+           II88888IZZZZZZZZZ,  .ZZZZZZZZZZZZZZ;llZZ88888888I888,
+           II88888IZZ<'(@@>Z|  |ZZZ<'(@@>ZZZZ;;llZZ888888888I88I
+          ,II88888;   `""" ;|  |ZZ; `"""     ;;llZ8888888888I888
+          II888888l            `;;          .;llZZ8888888888I888,
+         ,II888888Z;           ;;;        .;;llZZZ8888888888I888I
+         III888888Zl;    ..,   `;;       ,;;lllZZZ88888888888I888
+         II88888888Z;;...;(_    _)      ,;;;llZZZZ88888888888I888,
+         II88888888Zl;;;;;' `--'Z;.   .,;;;;llZZZZ88888888888I888b
+         ]I888888888Z;;;;'   ";llllll;..;;;lllZZZZ88888888888I8888,
+         II888888888Zl.;;"Y88bd888P";;,..;lllZZZZZ88888888888I8888I
+         II8888888888Zl;.; `"PPP";;;,..;lllZZZZZZZ88888888888I88888
+         II888888888888Zl;;. `;;;l;;;;lllZZZZZZZZW88888888888I88888
+         `II8888888888888Zl;.    ,;;lllZZZZZZZZWMZ88888888888I88888
+          II8888888888888888ZbaalllZZZZZZZZZWWMZZZ8888888888I888888,
+          `II88888888888888888b"WWZZZZZWWWMMZZZZZZI888888888I888888b
+           `II88888888888888888;ZZMMMMMMZZZZZZZZllI888888888I8888888
+            `II8888888888888888 `;lZZZZZZZZZZZlllll888888888I8888888,
+             II8888888888888888, `;lllZZZZllllll;;.Y88888888I8888888b,
+            ,II8888888888888888b   .;;lllllll;;;.;..88888888I88888888b,
+            II888888888888888PZI;.  .`;;;.;;;..; ...88888888I8888888888,
+            II888888888888PZ;;';;.   ;. .;.  .;. .. Y8888888I88888888888b,
+           ,II888888888PZ;;'                        `8888888I8888888888888b,
+           II888888888'                              888888I8888888888888888b
+          ,II888888888                              ,888888I88888888888888888
+         ,d88888888888                              d888888I8888888888ZZZZZZZ
+      ,ad888888888888I                              8888888I8888ZZZZZZZZZZZZZ
+    ,d888888888888888'                              888888IZZZZZZZZZZZZZZZZZZ
+  ,d888888888888P'8P'                               Y888ZZZZZZZZZZZZZZZZZZZZZ
+ ,8888888888888,  "                                 ,ZZZZZZZZZZZZZZZZZZZZZZZZ
+d888888888888888,                                ,ZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+888888888888888888a,      _                    ,ZZZZZZZZZZZZZZZZZZZZ888888888
+888888888888888888888ba,_d'                  ,ZZZZZZZZZZZZZZZZZ88888888888888
+8888888888888888888888888888bbbaaa,,,______,ZZZZZZZZZZZZZZZ888888888888888888
+88888888888888888888888888888888888888888ZZZZZZZZZZZZZZZ888888888888888888888
+8888888888888888888888888888888888888888ZZZZZZZZZZZZZZ88888888888888888888888
+888888888888888888888888888888888888888ZZZZZZZZZZZZZZ888888888888888888888888
+8888888888888888888888888888888888888ZZZZZZZZZZZZZZ88888888888888888888888888
+88888888888888888888888888888888888ZZZZZZZZZZZZZZ8888888888888888888888888888
+8888888888888888888888888888888888ZZZZZZZZZZZZZZ88888888888888888 Normand  88
+88888888888888888888888888888888ZZZZZZZZZZZZZZ8888888888888888888 Veilleux 88
+8888888888888888888888888888888ZZZZZZZZZZZZZZ88888888888888888888888888888888
+>>>>>>> fe85dca975c5bda14dafadf83f3d91254a57a134
 
 The Bee Movie
-The best movie is 🐥🏃‍♂️
+The best movie is 🐥🏃‍♂️ 
+The sequel is better though
 is a classic
 is a great movie
 new line 13 .. mine is the best
@@ -70,40 +129,40 @@ The bee, of course, runs anyway
  :
 because bees don't care
 what humans think is impossible.
-BARRY BENSON:
-(Barry is picking out a shirt)
+Craig BENSON:
+(Craig is picking out a shirt)
 Yellow, black. Yellow, black.
 Yellow, black. Yellow, black.
  :
 Ooh, black and yellow!
 Let's shake it up a little.
 JANET BENSON:
-Barry! Breakfast is ready!
-BARRY:
+Craig! Breakfast is ready!
+Craig:
 Coming!
  :
 Hang on a second.
-(Barry uses his antenna like a phone)
+(Craig uses his antenna like a phone)
  :
 Hello?
 ADAM FLAYMAN:
 
 (Through phone)
-- Barry?
-BARRY:
+- Craig?
+Craig:
 - Adam?
 ADAM:
 - Can you believe this is happening?
-BARRY:
+Craig:
 - I can't. I'll pick you up.
-(Barry runs down the stairs)
+(Craig runs down the stairs)
  :
 MARTIN BENSON:
 Looking sharp.
 JANET:
 Use the stairs. Your father
 paid good money for those.
-BARRY:
+Craig:
 Sorry. I'm excited.
 MARTIN:
 Here's the graduate.
@@ -112,58 +171,58 @@ We're very proud of you, son.
 A perfect report card, all B's.
 JANET:
 Very proud.
-(Rubs Barry's hair)
-BARRY=
+(Rubs Craig's hair)
+Craig=
 Ma! I got a thing going here.
 JANET:
 - You got lint on your fuzz.
-BARRY:
+Craig:
 - Ow! That's me!
 
 JANET:
 - Wave to us! We'll be in row 118,000.
 - Bye!
-(Barry runs out the door)
+(Craig runs out the door)
 JANET:
-Barry, I told you,
+Craig, I told you,
 stop flying in the house!
-(Barry drives through the hive,and is waved at by Adam who is reading a
+(Craig drives through the hive,and is waved at by Adam who is reading a
 newspaper)
-BARRY==
+Craig==
 - Hey, Adam.
 ADAM:
-- Hey, Barry.
-(Adam gets in Barry's car)
+- Hey, Craig.
+(Adam gets in Craig's car)
  :
 - Is that fuzz gel?
-BARRY:
+Craig:
 - A little. Special day, graduation.
 ADAM:
 Never thought I'd make it.
-(Barry pulls away from the house and continues driving)
-BARRY:
+(Craig pulls away from the house and continues driving)
+Craig:
 Three days grade school,
 three days high school...
 ADAM:
 Those were awkward.
-BARRY:
+Craig:
 Three days college. I'm glad I took
 a day and hitchhiked around the hive.
 ADAM==
 You did come back different.
-(Barry and Adam pass by Artie, who is jogging)
+(Craig and Adam pass by Artie, who is jogging)
 ARTIE:
-- Hi, Barry!
+- Hi, Craig!
 
-BARRY:
+Craig:
 - Artie, growing a mustache? Looks good.
 ADAM:
 - Hear about Frankie?
-BARRY:
+Craig:
 - Yeah.
 ADAM==
 - You going to the funeral?
-BARRY:
+Craig:
 - No, I'm not going to his funeral.
  :
 Everybody knows,
@@ -179,25 +238,25 @@ highway)
  :
 I love this incorporating
 an amusement park into our regular day.
-BARRY:
+Craig:
 I guess that's why they say we don't need vacations.
-(Barry parallel parks the car and together they fly over the graduating
+(Craig parallel parks the car and together they fly over the graduating
 students)
 Boy, quite a bit of pomp...
 under the circumstances.
-(Barry and Adam sit down and put on their hats)
+(Craig and Adam sit down and put on their hats)
  :
 - Well, Adam, today we are men.
 
 ADAM:
 - We are!
-BARRY=
+Craig=
 - Bee-men.
 =ADAM=
 - Amen!
-BARRY AND ADAM:
+Craig AND ADAM:
 Hallelujah!
-(Barry and Adam both have a happy spasm)
+(Craig and Adam both have a happy spasm)
 ANNOUNCER:
 Students, faculty, distinguished bees,
  :
@@ -214,8 +273,8 @@ And begins your career
 at Honex Industries!
 ADAM:
 Will we pick our job today?
-(Adam and Barry get into a tour bus)
-BARRY=
+(Adam and Craig get into a tour bus)
+Craig=
 I heard it's just orientation.
 (Tour buses rise out of the ground and the students are automatically
 loaded into the buses)
@@ -225,7 +284,7 @@ Heads up! Here we go.
 ANNOUNCER:
 Keep your hands and antennas
 inside the tram at all times.
-BARRY:
+Craig:
 - Wonder what it'll be like?
 ADAM:
 - A little scary.
@@ -234,11 +293,11 @@ Welcome to Honex,
 a division of Honesco
  :
 and a part of the Hexagon Group.
-Barry:
+Craig:
 This is it!
-BARRY AND ADAM:
+Craig AND ADAM:
 Wow.
-BARRY:
+Craig:
 Wow.
 (The bus drives down a road an on either side are the Bee's massive
 complicated Honey-making machines)
@@ -268,11 +327,11 @@ Honey!
 the crowd on the bus and it is caught by a girl in the back)
 ADAM:
 - That girl was hot.
-BARRY:
+Craig:
 - She's my cousin!
 ADAM==
 - She is?
-BARRY:
+Craig:
 - Yes, we're all cousins.
 ADAM:
 - Right. You're right.
@@ -291,14 +350,14 @@ you can hear him groan)
 ADAM==
 
 - What do you think he makes?
-BARRY:
+Craig:
 - Not enough.
 TOUR GUIDE:
 Here we have our latest advancement,
 the Krelman.
 (They pass by a turning wheel with Bees standing on pegs, who are each
 wearing a finger-shaped hat)
-Barry:
+Craig:
 - Wow, What does that do?
 TOUR GUIDE:
 - Catches that little strand of honey
@@ -318,8 +377,8 @@ But choose carefully
  :
 because you'll stay in the job
 you pick for the rest of your life.
-(Everyone claps except for Barry)
-BARRY:
+(Everyone claps except for Craig)
+Craig:
 The same job the rest of your life?
 I didn't know that.
 ADAM:
@@ -330,16 +389,16 @@ You'll be happy to know that bees,
 as a species, haven't had one day off
  :
 in 27 million years.
-BARRY:
+Craig:
 (Upset)
 So you'll just work us to death?
  :
 We'll sure try.
-(Everyone on the bus laughs except Barry. Barry and Adam are walking back
+(Everyone on the bus laughs except Craig. Craig and Adam are walking back
 home together)
 ADAM:
 Wow! That blew my mind!
-BARRY:
+Craig:
 "What's the difference?"
 How can you say that?
  :
@@ -348,7 +407,7 @@ That's an insane choice to have to make.
 ADAM:
 I'm relieved. Now we only have
 to make one decision in life.
-BARRY:
+Craig:
 But, Adam, how could they
 never have told us that?
 ADAM:
@@ -358,21 +417,21 @@ We're bees.
 We're the most perfectly
 functioning society on Earth.
 
-BARRY:
+Craig:
 You ever think maybe things
 work a little too well here?
 ADAM:
 Like what? Give me one example.
-(Barry and Adam stop walking and it is revealed to the audience that
+(Craig and Adam stop walking and it is revealed to the audience that
 hundreds of cars are speeding by and narrowly missing them in perfect
 unison)
-BARRY:
+Craig:
 I don't know. But you know
 what I'm talking about.
 ANNOUNCER:
 Please clear the gate.
 Royal Nectar Force on approach.
-BARRY:
+Craig:
 Wait a second. Check it out.
 (The Pollen jocks fly in, circle around and landing in line)
  :
@@ -381,7 +440,7 @@ ADAM:
 - Wow.
  :
 I've never seen them this close.
-BARRY:
+Craig:
 They know what it's like
 outside the hive.
 ADAM:
@@ -402,7 +461,7 @@ I love it!
 I love it!
 ADAM:
 - I wonder where they were.
-BARRY:
+Craig:
 - I don't know.
  :
 Their day's not planned.
@@ -414,23 +473,23 @@ You can't just decide to be a Pollen
 Jock. You have to be bred for that.
 ADAM==
 Right.
-(Barry and Adam are covered in some pollen that floated off of the Pollen
+(Craig and Adam are covered in some pollen that floated off of the Pollen
 Jocks)
-BARRY:
+Craig:
 Look at that. That's more pollen
 than you and I will see in a lifetime.
 ADAM:
 It's just a status symbol.
 Bees make too much of it.
-BARRY:
+Craig:
 Perhaps. Unless you're wearing it
 and the ladies see you wearing it.
-(Barry waves at 2 girls standing a little away from them)
+(Craig waves at 2 girls standing a little away from them)
 
 ADAM==
 Those ladies?
 Aren't they our cousins too?
-BARRY:
+Craig:
 Distant. Distant.
 POLLEN JOCK #1:
 Look at these two.
@@ -441,7 +500,7 @@ POLLEN JOCK #1:
 GIRL BEE #1:
 It must be dangerous
 being a Pollen Jock.
-BARRY:
+Craig:
 Yeah. Once a bear pinned me
 against a mushroom!
  :
@@ -450,34 +509,34 @@ and with the other, he was slapping me!
 (Slaps Adam with his hand to represent his scenario)
 GIRL BEE #2:
 - Oh, my!
-BARRY:
+Craig:
 - I never thought I'd knock him out.
 GIRL BEE #1:
 (Looking at Adam)
 What were you doing during this?
 ADAM:
 Obviously I was trying to alert the authorities.
-BARRY:
+Craig:
 I can autograph that.
 
-(The pollen jocks walk up to Barry and Adam, they pretend that Barry and
+(The pollen jocks walk up to Craig and Adam, they pretend that Craig and
 Adam really are pollen jocks.)
 POLLEN JOCK #1:
 A little gusty out there today,
 wasn't it, comrades?
-BARRY:
+Craig:
 Yeah. Gusty.
 POLLEN JOCK #1:
 We're hitting a sunflower patch
 six miles from here tomorrow.
-BARRY:
+Craig:
 - Six miles, huh?
 ADAM:
-- Barry!
+- Craig!
 POLLEN JOCK #2:
 A puddle jump for us,
 but maybe you're not up for it.
-BARRY:
+Craig:
 - Maybe I am.
 ADAM:
 - You are not!
@@ -486,19 +545,19 @@ We're going 0900 at J-Gate.
  :
 What do you think, buzzy-boy?
 Are you bee enough?
-BARRY:
+Craig:
 I might be. It all depends
 on what 0900 means.
-(The scene cuts to Barry looking out on the hive-city from his balcony at
+(The scene cuts to Craig looking out on the hive-city from his balcony at
 night)
 MARTIN:
 
 Hey, Honex!
-BARRY:
+Craig:
 Dad, you surprised me.
 MARTIN:
 You decide what you're interested in?
-BARRY:
+Craig:
 - Well, there's a lot of choices.
 - But you only get one.
  :
@@ -512,7 +571,7 @@ move it around, and you stir it around.
  :
 You get yourself into a rhythm.
 It's a beautiful thing.
-BARRY:
+Craig:
 You know, Dad,
 the more I think about it,
  :
@@ -529,25 +588,25 @@ for a guy with a stinger.
 Janet, your son's not sure
 he wants to go into honey!
 JANET:
-- Barry, you are so funny sometimes.
-BARRY:
+- Craig, you are so funny sometimes.
+Craig:
 - I'm not trying to be funny.
 MARTIN:
 You're not funny! You're going
 into honey. Our son, the stirrer!
 JANET:
 - You're gonna be a stirrer?
-BARRY:
+Craig:
 - No one's listening to me!
 MARTIN:
 Wait till you see the sticks I have.
-BARRY:
+Craig:
 I could say anything right now.
 I'm gonna get an ant tattoo!
-(Barry's parents don't listen to him and continue to ramble on)
+(Craig's parents don't listen to him and continue to ramble on)
 MARTIN:
 Let's open some honey and celebrate!
-BARRY:
+Craig:
 Maybe I'll pierce my thorax.
 Shave my antennae.
  :
@@ -555,16 +614,16 @@ Shack up with a grasshopper. Get
 a gold tooth and call everybody "dawg"!
 JANET:
 I'm so proud.
-(The scene cuts to Barry and Adam waiting in line to get a job)
+(The scene cuts to Craig and Adam waiting in line to get a job)
 ADAM:
 - We're starting work today!
 
-BARRY:
+Craig:
 - Today's the day.
 ADAM:
 Come on! All the good jobs
 will be gone.
-BARRY:
+Craig:
 Yeah, right.
 JOB LISTER:
 Pollen counting, stunt bee, pouring,
@@ -589,13 +648,13 @@ ADAM:
 Yes, sir! Our first day! We are ready!
 JOB LISTER:
 Make your choice.
-(Adam and Barry look up at the job board. There are hundreds of constantly
+(Adam and Craig look up at the job board. There are hundreds of constantly
 changing panels that contain available or unavailable jobs. It looks very
 confusing)
 
 ADAM:
 - You want to go first?
-BARRY:
+Craig:
 - No, you go.
 ADAM:
 Oh, my. What's available?
@@ -627,18 +686,18 @@ Dead from the neck down. That's life!
 
 ADAM:
 Oh, this is so hard!
-(Barry remembers what the Pollen Jock offered him and he runs off)
+(Craig remembers what the Pollen Jock offered him and he runs off)
 Heating, cooling,
 stunt bee, pourer, stirrer,
  :
 humming, inspector number seven,
 lint coordinator, stripe supervisor,
  :
-mite wrangler. Barry, what
-do you think I should... Barry?
-(Adam turns around and sees Barry flying away)
+mite wrangler. Craig, what
+do you think I should... Craig?
+(Adam turns around and sees Craig flying away)
  :
-Barry!
+Craig!
 POLLEN JOCK:
 All right, we've got the sunflower patch
 in quadrant nine...
@@ -646,21 +705,21 @@ ADAM:
 (Through phone)
 What happened to you?
 Where are you?
-BARRY:
+Craig:
 - I'm going out.
 ADAM:
 - Out? Out where?
-BARRY:
+Craig:
 - Out there.
 ADAM:
 - Oh, no!
-BARRY:
+Craig:
 I have to, before I go
 to work for the rest of my life.
 ADAM:
 
 You're gonna die! You're crazy!
-(Barry hangs up)
+(Craig hangs up)
 Hello?
 POLLEN JOCK #2:
 Another call coming in.
@@ -669,7 +728,7 @@ If anyone's feeling brave,
 there's a Korean deli on 83rd
  :
 that gets their roses today.
-BARRY:
+Craig:
 Hey, guys.
 POLLEN JOCK #1 ==
 - Look at that.
@@ -679,11 +738,11 @@ LOU LO DUVA:
 Hold it, son, flight deck's restricted.
 POLLEN JOCK #1:
 It's OK, Lou. We're gonna take him up.
-(Puts hand on Barry's shoulder)
+(Puts hand on Craig's shoulder)
 LOU LO DUVA:
-(To Barry) Really? Feeling lucky, are you?
+(To Craig) Really? Feeling lucky, are you?
 BEE WITH CLIPBOARD:
-(To Barry) Sign here, here. Just initial that.
+(To Craig) Sign here, here. Just initial that.
  :
 - Thank you.
 LOU LO DUVA:
@@ -706,7 +765,7 @@ of root beer being poured on us.
  :
 Murphy's in a home because of it,
 babbling like a cicada!
-BARRY:
+Craig:
 - That's awful.
 LOU LO DUVA:
 (Still talking through megaphone)
@@ -727,8 +786,8 @@ POLLEN JOCKS:
 
 Hello!
 POLLEN JOCK #1:
-(To Barry)You ready for this, hot shot?
-BARRY:
+(To Craig)You ready for this, hot shot?
+Craig:
 Yeah. Yeah, bring it on.
 POLLEN JOCK's:
 Wind, check.
@@ -738,7 +797,7 @@ Wind, check.
  :
 - Wings, check.
 - Stinger, check.
-BARRY:
+Craig:
 Scared out of my shorts, check.
 LOU LO DUVA:
 OK, ladies,
@@ -750,7 +809,7 @@ you striped stem-suckers!
  :
 All of you, drain those flowers!
 (The pollen jocks fly out of the hive)
-BARRY:
+Craig:
 Wow! I'm out!
  :
 I can't believe I'm out!
@@ -761,7 +820,7 @@ So blue.
 I feel so fast and free!
  :
 Box kite!
-(Barry runs through the kite)
+(Craig runs through the kite)
  :
 Wow!
  :
@@ -782,15 +841,15 @@ Stand to the side, kid.
 It's got a bit of a kick.
 (The pollen jock fires a high-tech gun at the flower, shooting tubes that
 suck up the nectar from the flower and collects it into a pouch on the gun)
-BARRY:
+Craig:
 That is one nectar collector!
 POLLEN JOCK #1==
 - Ever see pollination up close?
-BARRY:
+Craig:
 - No, sir.
 POLLEN JOCK #1:
 
-(Barry and the Pollen jock fly over the field, the pollen jock sprinkles
+(Craig and the Pollen jock fly over the field, the pollen jock sprinkles
 pollen as he goes)
  :
 I pick up some pollen here, sprinkle it
@@ -798,12 +857,12 @@ over here. Maybe a dash over there,
  :
 a pinch on that one.
 See that? It's a little bit of magic.
-BARRY:
+Craig:
 That's amazing. Why do we do that?
 POLLEN JOCK #1:
 That's pollen power. More pollen, more
 flowers, more nectar, more honey for us.
-BARRY:
+Craig:
 Cool.
 POLLEN JOCK #1:
 I'm picking up a lot of bright yellow.
@@ -838,7 +897,7 @@ Chemical-y.
 (The pollen jock finally gets his hand free from the tennis ball)
 POLLEN JOCK #1:
 Careful, guys. It's a little grabby.
-(The pollen jocks turn around and see Barry lying his entire body on top of
+(The pollen jocks turn around and see Craig lying his entire body on top of
 one of the tennis balls)
 POLLEN JOCK #2:
 My sweet lord of bees!
@@ -847,31 +906,31 @@ Candy-brain, get off there!
 POLLEN JOCK #1:
 (Pointing upwards)
 Problem!
-(A human hand reaches down and grabs the tennis ball that Barry is stuck
+(A human hand reaches down and grabs the tennis ball that Craig is stuck
 to)
-BARRY:
+Craig:
 - Guys!
 POLLEN JOCK #2:
 - This could be bad.
 POLLEN JOCK #3:
 Affirmative.
-(Vanessa Bloome starts bouncing the tennis ball, not knowing Barry is stick
+(Vanessa Bloome starts bouncing the tennis ball, not knowing Craig is stick
 to it)
 
-BARRY==
+Craig==
 Very close.
  :
 Gonna hurt.
  :
 Mama's little boy.
-(Barry is being hit back and forth by two humans playing tennis. He is
+(Craig is being hit back and forth by two humans playing tennis. He is
 still stuck to the ball)
 POLLEN JOCK #1:
 You are way out of position, rookie!
 KEN:
 Coming in at you like a MISSILE!
-(Barry runs past the pollen jocks, still stuck to the ball)
-BARRY:
+(Craig runs past the pollen jocks, still stuck to the ball)
+Craig:
 (In slow motion)
 Help me!
 POLLEN JOCK #2:
@@ -880,7 +939,7 @@ POLLEN JOCK #3:
 - Should we tell him?
 POLLEN JOCK #1:
 - I think he knows.
-BARRY:
+Craig:
 What is this?!
 KEN:
 Match point!
@@ -888,15 +947,15 @@ Match point!
 You can start packing up, honey,
 because you're about to EAT IT!
 (A pollen jock coughs which confused Ken and he hits the ball the wrong way
-with Barry stuck to it and it goes flying into the city)
-BARRY:
+with Craig stuck to it and it goes flying into the city)
+Craig:
 
 Yowser!
-(Barry bounces around town and gets stuck in the engine of a car. He flies
+(Craig bounces around town and gets stuck in the engine of a car. He flies
 into the air conditioner and sees a bug that was frozen in there)
-BARRY:
+Craig:
 Ew, gross.
-(The man driving the car turns on the air conditioner which blows Barry
+(The man driving the car turns on the air conditioner which blows Craig
 into the car)
 GIRL IN CAR:
 There's a bee in the car!
@@ -905,9 +964,9 @@ There's a bee in the car!
 DAD DRIVING CAR:
 - I'm driving!
 BABY GIRL:
-(Waving at Barry)
+(Waving at Craig)
 - Hi, bee.
-(Barry smiles and waves at the baby girl)
+(Craig smiles and waves at the baby girl)
 GUY IN BACK OF CAR:
 - He's back here!
  :
@@ -915,23 +974,23 @@ He's going to sting me!
 GIRL IN CAR:
 Nobody move. If you don't move,
 he won't sting you. Freeze!
-(Barry freezes as well, hovering in the middle of the car)
+(Craig freezes as well, hovering in the middle of the car)
  :
 GRANDMA IN CAR==
 He blinked!
 (The grandma whips out some bee-spray and sprays everywhere in the car,
-climbing into the front seat, still trying to spray Barry)
+climbing into the front seat, still trying to spray Craig)
 GIRL IN CAR:
 Spray him, Granny!
 DAD DRIVING THE CAR:
 What are you doing?!
-(Barry escapes the car through the air conditioner and is flying high above
+(Craig escapes the car through the air conditioner and is flying high above
 
 the ground, safe.)
-BARRY:
+Craig:
 Wow... the tension level
 out here is unbelievable.
-(Barry sees that storm clouds are gathering and he can see rain clouds
+(Craig sees that storm clouds are gathering and he can see rain clouds
 moving into this direction)
  :
 I gotta get home.
@@ -939,10 +998,10 @@ I gotta get home.
 Can't fly in rain.
  :
 Can't fly in rain.
-(A rain drop hits Barry and one of his wings is damaged)
+(A rain drop hits Craig and one of his wings is damaged)
  :
 Can't fly in rain.
-(A second rain drop hits Barry again and he spirals downwards)
+(A second rain drop hits Craig again and he spirals downwards)
 Mayday! Mayday! Bee going down!
 (WW2 plane sound effects are played as he plummets, and he crash-lands on a
 plant inside an apartment near the window)
@@ -956,20 +1015,20 @@ I made it into a fold-out brochure.
 You see?
 (Folds brochure resume out)
 Folds out.
-(Ken closes the window, trapping Barry inside)
-BARRY:
+(Ken closes the window, trapping Craig inside)
+Craig:
 Oh, no. More humans. I don't need this.
-(Barry tries to fly away but smashes into the window and falls again)
+(Craig tries to fly away but smashes into the window and falls again)
  :
 What was that?
 
-(Barry keeps trying to fly out the window but he keeps being knocked back
+(Craig keeps trying to fly out the window but he keeps being knocked back
 because the window is closed)
 Maybe this time. This time. This time.
 This time! This time! This...
  :
 Drapes!
-(Barry taps the glass. He doesn't understand what it is)
+(Craig taps the glass. He doesn't understand what it is)
 That is diabolical.
 KEN:
 It's fantastic. It's got all my special
@@ -981,20 +1040,20 @@ Nah, I don't go for that...
 (Ken makes finger guns and makes "pew pew pew" sounds and then stops)
  :
 ...kind of stuff.
-BARRY:
+Craig:
 No wonder we shouldn't talk to them.
 They're out of their minds.
 KEN:
 When I leave a job interview, they're
 flabbergasted, can't believe what I say.
-BARRY:
+Craig:
 (Looking at the light on the ceiling)
 There's the sun. Maybe that's a way out.
 (Starts flying towards the lightbulb)
  :
 I don't remember the sun
 having a big 75 on it.
-(Barry hits the lightbulb and falls into the dip on the table that the
+(Craig hits the lightbulb and falls into the dip on the table that the
 humans are sitting at)
 KEN:
 
@@ -1002,11 +1061,11 @@ I predicted global warming.
  :
 I could feel it getting hotter.
 At first I thought it was just me.
-(Andy dips a chip into the bowl and scoops up some dip with Barry on it and
+(Andy dips a chip into the bowl and scoops up some dip with Craig on it and
 is about to put it in his mouth)
  :
 Wait! Stop! Bee!
-(Andy drops the chip with Barry in fear and backs away. All the humans
+(Andy drops the chip with Craig in fear and backs away. All the humans
 freak out)
  :
 Stand back. These are winter boots.
@@ -1016,7 +1075,7 @@ VANESSA:
 Wait!
  :
 Don't kill him!
-(Vanessa puts Barry in a glass to protect him)
+(Vanessa puts Craig in a glass to protect him)
 KEN:
 You know I'm allergic to them!
 This thing could kill me!
@@ -1030,13 +1089,13 @@ VANESSA:
 I'm just saying all life has value. You
 don't know what he's capable of feeling.
 (Vanessa picks up Ken's brochure and puts it under the glass so she can
-carry Barry back to the window. Barry looks at Vanessa in amazement)
+carry Craig back to the window. Craig looks at Vanessa in amazement)
 KEN:
 
 My brochure!
 VANESSA:
 There you go, little guy.
-(Vanessa opens the window and lets Barry out but Barry stays back and is
+(Vanessa opens the window and lets Craig out but Craig stays back and is
 still shocked that a human saved his life)
 KEN:
 I'm not scared of him.
@@ -1069,9 +1128,9 @@ KEN:
 VANESSA:
 - Bye.
 (Closes door)
-(Fast forward to the next day, Barry is still inside the house. He flies
+(Fast forward to the next day, Craig is still inside the house. He flies
 into the kitchen where Vanessa is doing dishes)
-BARRY==
+Craig==
 (Talking to himself)
 I gotta say something.
  :
@@ -1092,7 +1151,7 @@ You're not supposed to talk to a human.
 I can't believe I'm doing this.
  :
 I've got to.
-(Barry disguises himself as a character on a food can as Vanessa walks by
+(Craig disguises himself as a character on a food can as Vanessa walks by
 again)
  :
 Oh, I can't do it. Come on!
@@ -1103,39 +1162,39 @@ Do it. I can't.
 
  :
 How should I start it?
-(Barry strikes a pose and wiggles his eyebrows)
+(Craig strikes a pose and wiggles his eyebrows)
 "You like Ten10??"
 No, that's no good.
-(Vanessa is about to walk past Barry)
+(Vanessa is about to walk past Craig)
 Here she comes! Speak, you fool!
  :
 ...Hi!
-(Vanessa gasps and drops the dishes in fright and notices Barry on the
+(Vanessa gasps and drops the dishes in fright and notices Craig on the
 counter)
  :
 I'm sorry.
 VANESSA:
 - You're talking.
-BARRY:
+Craig:
 - Yes, I know.
 VANESSA:
-(Pointing at Barry)
+(Pointing at Craig)
 You're talking!
-BARRY:
+Craig:
 I'm so sorry.
 VANESSA:
 No, it's OK. It's fine.
 I know I'm dreaming.
  :
 But I don't recall going to bed.
-BARRY:
+Craig:
 Well, I'm sure this
 is very disconcerting.
 VANESSA:
 This is a bit of a surprise to me.
 I mean, you're a bee!
 
-BARRY:
+Craig:
 I am. And I'm not supposed
 to be doing this,
 (Pointing to the living room where Ken tried to kill him last night)
@@ -1150,29 +1209,29 @@ It's just how I was raised.
 That was a little weird.
 VANESSA:
 - I'm talking with a bee.
-BARRY:
+Craig:
 - Yeah.
 VANESSA:
 I'm talking to a bee.
 And the bee is talking to me!
-BARRY:
+Craig:
 I just want to say I'm grateful.
 I'll leave now.
-(Barry turns to leave)
+(Craig turns to leave)
 VANESSA:
 - Wait! How did you learn to do that?
-BARRY:
+Craig:
 (Flying back)
 - What?
 VANESSA:
 The talking...thing.
-BARRY:
+Craig:
 
 Same way you did, I guess.
 "Mama, Dada, honey." You pick it up.
 VANESSA:
 - That's very funny.
-BARRY:
+Craig:
 - Yeah.
  :
 Bees are funny. If we didn't laugh,
@@ -1183,44 +1242,44 @@ VANESSA:
 Can I...
  :
 ...get you something?
-BARRY:
+Craig:
 - Like what?
 VANESSA:
 I don't know. I mean...
 I don't know. Coffee?
-BARRY:
+Craig:
 I don't want to put you out.
 VANESSA:
 It's no trouble. It takes two minutes.
  :
 - It's just coffee.
-BARRY:
+Craig:
 - I hate to impose.
 (Vanessa starts making coffee)
 VANESSA:
 - Don't be ridiculous!
 
-BARRY:
+Craig:
 - Actually, I would love a cup.
 VANESSA:
 Hey, you want rum cake?
-BARRY:
+Craig:
 - I shouldn't.
 VANESSA:
 - Have some.
-BARRY:
+Craig:
 - No, I can't.
 VANESSA:
 - Come on!
-BARRY:
+Craig:
 I'm trying to lose a couple micrograms.
 VANESSA:
 - Where?
-BARRY:
+Craig:
 - These stripes don't help.
 VANESSA:
 You look great!
-BARRY:
+Craig:
 I don't know if you know
 anything about fashion.
  :
@@ -1228,11 +1287,11 @@ Are you all right?
 VANESSA:
 (Pouring coffee on the floor and missing the cup completely)
 No.
-(Flash forward in time. Barry and Vanessa are sitting together at a table
+(Flash forward in time. Craig and Vanessa are sitting together at a table
 on top of the apartment building drinking coffee)
 
  :
-BARRY==
+Craig==
 He's making the tie in the cab
 as they're flying up Madison.
  :
@@ -1245,18 +1304,18 @@ And he says, "Watermelon?
 I thought you said Guatemalan.
  :
 Why would I marry a watermelon?"
-(Barry laughs but Vanessa looks confused)
+(Craig laughs but Vanessa looks confused)
 VANESSA:
 Is that a bee joke?
-BARRY:
+Craig:
 That's the kind of stuff we do.
 VANESSA:
 Yeah, different.
  :
-So, what are you gonna do, Barry?
-(Barry stands on top of a sugar cube floating in his coffee and paddles it
+So, what are you gonna do, Craig?
+(Craig stands on top of a sugar cube floating in his coffee and paddles it
 around with a straw like it's a gondola)
-BARRY:
+Craig:
 About work? I don't know.
  :
 I want to do my part for the hive,
@@ -1264,37 +1323,37 @@ but I can't do it the way they want.
 VANESSA:
 I know how you feel.
 
-BARRY:
+Craig:
 - You do?
 VANESSA:
 - Sure.
  :
 My parents wanted me to be a lawyer or
 a doctor, but I wanted to be a florist.
-BARRY:
+Craig:
 - Really?
 VANESSA:
 - My only interest is flowers.
-BARRY:
+Craig:
 Our new queen was just elected
 with that same campaign slogan.
  :
 Anyway, if you look...
-(Barry points to a tree in the middle of Central Park)
+(Craig points to a tree in the middle of Central Park)
  :
 There's my hive right there. See it?
 VANESSA:
 You're in Sheep Meadow!
-BARRY:
+Craig:
 Yes! I'm right off the Turtle Pond!
 VANESSA:
 No way! I know that area.
 I lost a toe ring there once.
-BARRY:
+Craig:
 - Why do girls put rings on their toes?
 VANESSA:
 - Why not?
-BARRY:
+Craig:
 
 - It's like putting a hat on your knee.
 VANESSA:
@@ -1308,41 +1367,41 @@ VANESSA:
 - Oh, yeah. Fine.
  :
 Just having two cups of coffee!
-BARRY:
+Craig:
 Anyway, this has been great.
 Thanks for the coffee.
 VANESSA==
 Yeah, it's no trouble.
-BARRY:
+Craig:
 Sorry I couldn't finish it. If I did,
 I'd be up the rest of my life.
-(Barry points towards the rum cake)
+(Craig points towards the rum cake)
  :
 Can I take a piece of this with me?
 VANESSA:
 Sure! Here, have a crumb.
-(Vanessa hands Barry a crumb but it is still pretty big for Barry)
-BARRY:
+(Vanessa hands Craig a crumb but it is still pretty big for Craig)
+Craig:
 - Thanks!
 VANESSA:
 - Yeah.
-BARRY:
+Craig:
 All right. Well, then...
 I guess I'll see you around.
 
  :
 Or not.
 VANESSA:
-OK, Barry...
-BARRY:
+OK, Craig...
+Craig:
 And thank you
 so much again... for before.
 VANESSA:
 Oh, that? That was nothing.
-BARRY:
+Craig:
 Well, not nothing, but... Anyway...
-(Vanessa and Barry hold hands, but Vanessa has to hold out a finger because
-her hands is to big and Barry holds that)
+(Vanessa and Craig hold hands, but Vanessa has to hold out a finger because
+her hands is to big and Craig holds that)
 (The custodian looks over again and it appears Vanessa is laughing at her
 coffee again. The lightbulb that he was screwing in sparks and he falls off
 the ladder)
@@ -1356,11 +1415,11 @@ We may as well try it.
  :
 OK, Dave, pull the chute.
 (Dave pulls the chute and the wind slams him against the wall and he falls
-on his face.The camera pans over and we see Barry and Adam walking
+on his face.The camera pans over and we see Craig and Adam walking
 together)
 ADAM:
 - Sounds amazing.
-BARRY:
+Craig:
 - It was amazing!
  :
 It was the scariest,
@@ -1372,18 +1431,18 @@ you were with humans!
  :
 Giant, scary humans!
 What were they like?
-BARRY:
+Craig:
 Huge and crazy. They talk crazy.
  :
 They eat crazy giant things.
 They drive crazy.
 ADAM:
 - Do they try and kill you, like on TV?
-BARRY:
+Craig:
 - Some of them. But some of them don't.
 ADAM:
 - How'd you get back?
-BARRY:
+Craig:
 - Poodle.
 ADAM:
 You did it, and I'm glad. You saw
@@ -1391,22 +1450,22 @@ whatever you wanted to see.
  :
 You had your "experience." Now you
 can pick out your job and be normal.
-BARRY:
+Craig:
 - Well...
 ADAM:
 - Well?
-BARRY:
+Craig:
 Well, I met someone.
 
 ADAM:
 You did? Was she Bee-ish?
  :
 - A wasp?! Your parents will kill you!
-BARRY:
+Craig:
 - No, no, no, not a wasp.
 ADAM:
 - Spider?
-BARRY:
+Craig:
 - I'm not attracted to spiders.
  :
 I know, for everyone else, it's the hottest thing,
@@ -1415,22 +1474,22 @@ with the eight legs and all.
 I can't get by that face.
 ADAM:
 So who is she?
-BARRY:
+Craig:
 She's... human.
 ADAM:
 No, no. That's a bee law.
 You wouldn't break a bee law.
-BARRY:
+Craig:
 - Her name's Vanessa.
 (Adam puts his head in his hands)
 ADAM:
 - Oh, boy.
-BARRY==
+Craig==
 She's so nice. And she's a florist!
 ADAM:
 Oh, no! You're dating a human florist!
 
-BARRY:
+Craig:
 We're not dating.
 ADAM:
 You're flying outside the hive, talking
@@ -1438,50 +1497,50 @@ to humans that attack our homes
  :
 with power washers and M-80s!
 That's one-eighth a stick of dynamite!
-BARRY:
+Craig:
 She saved my life!
 And she understands me.
 ADAM:
 This is over!
-BARRY:
+Craig:
 Eat this.
-(Barry gives Adam a piece of the crumb that he got from Vanessa. Adam eats
+(Craig gives Adam a piece of the crumb that he got from Vanessa. Adam eats
 it)
 ADAM:
 (Adam's tone changes)
 This is not over! What was that?
-BARRY:
+Craig:
 - They call it a crumb.
 ADAM:
 - It was so stingin' stripey!
-BARRY:
+Craig:
 And that's not what they eat.
 That's what falls off what they eat!
  :
 - You know what a Cinnabon is?
 ADAM:
 - No.
-(Adam opens a door behind him and he pulls Barry in)
+(Adam opens a door behind him and he pulls Craig in)
 
-BARRY:
+Craig:
 It's bread and cinnamon and frosting.
 ADAM:
 Be quiet!
-BARRY:
+Craig:
 They heat it up...
 ADAM:
 Sit down!
-(Adam forces Barry to sit down)
-BARRY:
+(Adam forces Craig to sit down)
+Craig:
 (Still rambling about Cinnabons)
 ...really hot!
-(Adam grabs Barry by the shoulders)
+(Adam grabs Craig by the shoulders)
 ADAM:
 - Listen to me!
  :
 We are not them! We're us.
 There's us and there's them!
-BARRY==
+Craig==
 Yes, but who can deny
 the heart that is yearning?
 ADAM:
@@ -1490,7 +1549,7 @@ Stop yearning. Listen to me!
  :
 You have got to start thinking bee,
 my friend. Thinking bee!
-BARRY:
+Craig:
 - Thinking bee.
 WORKER BEE:
 - Thinking bee.
@@ -1498,14 +1557,14 @@ WORKER BEES AND ADAM:
 Thinking bee! Thinking bee!
 
 Thinking bee! Thinking bee!
-(Flash forward in time; Barry is laying on a raft in a pool full of honey.
+(Flash forward in time; Craig is laying on a raft in a pool full of honey.
 He is wearing sunglasses)
 JANET:
 There he is. He's in the pool.
 MARTIN:
-You know what your problem is, Barry?
-(Barry pulls down his sunglasses and he looks annoyed)
-BARRY:
+You know what your problem is, Craig?
+(Craig pulls down his sunglasses and he looks annoyed)
+Craig:
 (Sarcastic)
 I gotta start thinking bee?
 JANET:
@@ -1514,7 +1573,7 @@ MARTIN:
 It's been three days!
 Why aren't you working?
 (Puts sunglasses back on)
-BARRY:
+Craig:
 I've got a lot of big life decisions
 to think about.
 MARTIN:
@@ -1523,43 +1582,43 @@ You have no job. You're barely a bee!
 JANET:
 Would it kill you
 to make a little honey?
-(Barry rolls off the raft and sinks into the honey pool)
+(Craig rolls off the raft and sinks into the honey pool)
  :
-Barry, come out.
+Craig, come out.
 Your father's talking to you.
  :
 Martin, would you talk to him?
 MARTIN:
 
-Barry, I'm talking to you!
-(Barry keeps sinking into the honey until he is suddenly in Central Park
+Craig, I'm talking to you!
+(Craig keeps sinking into the honey until he is suddenly in Central Park
 having a picnic with Vanessa)
-(Barry has a cup of honey and he clinks his glass with Vanessas. Suddenly a
+(Craig has a cup of honey and he clinks his glass with Vanessas. Suddenly a
 mosquito lands on Vanessa and she slaps it, killing it. They both gasp but
 then burst out laughing)
 VANESSA:
 You coming?
 (The camera pans over and Vanessa is climbing into a small yellow airplane)
-BARRY:
+Craig:
 Got everything?
 VANESSA:
 All set!
-BARRY:
+Craig:
 Go ahead. I'll catch up.
 (Vanessa lifts off and flies ahead)
 VANESSA:
 Don't be too long.
-(Barry catches up with Vanessa and he sticks out his arms like ana irplane.
+(Craig catches up with Vanessa and he sticks out his arms like ana irplane.
 He rolls from side to side, and Vanessa copies him with the airplane)
 VANESSA:
 Watch this!
-(Barry stays back and watches as Vanessa draws a heart in the air using
+(Craig stays back and watches as Vanessa draws a heart in the air using
 pink smoke from the plane, but on the last loop-the-loop she suddenly
 crashes into a mountain and the plane explodes. The destroyed plane falls
 into some rocks and explodes a second time)
-BARRY:
+Craig:
 Vanessa!
-(As Barry is yelling his mouth fills with honey and he wakes up,
+(As Craig is yelling his mouth fills with honey and he wakes up,
 discovering that he was just day dreaming. He slowly sinks back into the
 honey pool)
 MARTIN:
@@ -1575,23 +1634,23 @@ JANET:
 - Because you don't listen!
 MARTIN:
 I'm not listening to this.
-BARRY:
+Craig:
 Sorry, I've gotta go.
 MARTIN:
 - Where are you going?
-BARRY:
+Craig:
 - I'm meeting a friend.
 JANET:
 A girl? Is this why you can't decide?
-BARRY:
+Craig:
 Bye.
-(Barry flies out the door and Martin shakes his head)
+(Craig flies out the door and Martin shakes his head)
  :
 JANET==
 I just hope she's Bee-ish.
-(Fast forward in time and Barry is sitting on Vanessa's shoulder and she is
+(Fast forward in time and Craig is sitting on Vanessa's shoulder and she is
 closing up her shop)
-BARRY:
+Craig:
 They have a huge parade
 of flowers every year in Pasadena?
 VANESSA:
@@ -1601,41 +1660,41 @@ that's every florist's dream!
  :
 Up on a float, surrounded
 by flowers, crowds cheering.
-BARRY:
+Craig:
 A tournament. Do the roses
 compete in athletic events?
 VANESSA:
 No. All right, I've got one.
 How come you don't fly everywhere?
-BARRY:
+Craig:
 It's exhausting. Why don't you
 run everywhere? It's faster.
 VANESSA:
 Yeah, OK, I see, I see.
 All right, your turn.
-BARRY:
+Craig:
 TiVo. You can just freeze live TV?
 That's insane!
 VANESSA:
 You don't have that?
-BARRY:
+Craig:
 We have Hivo, but it's a disease.
 It's a horrible, horrible disease.
 VANESSA:
 Oh, my.
-(A human walks by and Barry narrowly avoids him)
+(A human walks by and Craig narrowly avoids him)
 PASSERBY:
 Dumb bees!
 VANESSA:
 You must want to sting all those jerks.
-BARRY:
+Craig:
 We try not to sting.
 
 It's usually fatal for us.
 VANESSA:
 So you have to watch your temper
 (They walk into a store)
-BARRY:
+Craig:
 Very carefully.
 You kick a wall, take a walk,
  :
@@ -1643,13 +1702,13 @@ write an angry letter and throw it out.
 Work through it like any emotion:
  :
 Anger, jealousy, lust.
-(Suddenly an employee(Hector) hits Barry off of Vanessa's shoulder. Hector
+(Suddenly an employee(Hector) hits Craig off of Vanessa's shoulder. Hector
 thinks he's saving Vanessa)
 VANESSA:
-(To Barry)
+(To Craig)
 Oh, my goodness! Are you OK?
-(Barry is getting up off the floor)
-BARRY:
+(Craig is getting up off the floor)
+Craig:
 Yeah.
 VANESSA:
 (To Hector)
@@ -1662,53 +1721,53 @@ He's not bothering anybody.
 Get out of here, you creep!
 (Vanessa hits Hector across the face with the magazine he had and then hits
 him in the head. Hector backs away covering his head)
-Barry:
+Craig:
 What was that? A Pic 'N' Save circular?
-(Vanessa sets Barry back on her shoulder)
+(Vanessa sets Craig back on her shoulder)
 
 VANESSA:
 Yeah, it was. How did you know?
-BARRY:
+Craig:
 It felt like about 10 pages.
 Seventy-five is pretty much our limit.
 VANESSA:
 You've really got that
 down to a science.
-BARRY:
+Craig:
 - Oh, we have to. I lost a cousin to Italian Vogue.
 VANESSA:
 - I'll bet.
-(Barry looks to his right and notices there is honey for sale in the aisle)
-BARRY:
+(Craig looks to his right and notices there is honey for sale in the aisle)
+Craig:
 What in the name
 of Mighty Hercules is this?
-(Barry looks at all the brands of honey, shocked)
+(Craig looks at all the brands of honey, shocked)
 How did this get here?
 Cute Bee, Golden Blossom,
  :
 Ray Liotta Private Select?
-(Barry puts his hands up and slowly turns around, a look of disgust on his
+(Craig puts his hands up and slowly turns around, a look of disgust on his
 face)
 VANESSA:
 - Is he that actor?
-BARRY:
+Craig:
 - I never heard of him.
  :
 - Why is this here?
 VANESSA:
 - For people. We eat it.
-BARRY:
+Craig:
 
 You don't have
 enough food of your own?!
-(Hector looks back and notices that Vanessa is talking to Barry)
+(Hector looks back and notices that Vanessa is talking to Craig)
 VANESSA:
 - Well, yes.
-BARRY:
+Craig:
 - How do you get it?
 VANESSA:
 - Bees make it.
-BARRY:
+Craig:
 - I know who makes it!
  :
 And it's hard to make it!
@@ -1717,11 +1776,11 @@ There's heating, cooling, stirring.
 You need a whole Krelman thing!
 VANESSA:
 - It's organic.
-BARRY:
+Craig:
 - It's our-ganic!
 VANESSA:
-It's just honey, Barry.
-BARRY:
+It's just honey, Craig.
+Craig:
 Just what?!
  :
 Bees don't know about this!
@@ -1736,7 +1795,7 @@ I'm getting to the bottom of this.
  :
 I'm getting to the bottom
 of all of this!
-(Flash forward in time; Barry paints his face with black strikes like a
+(Flash forward in time; Craig paints his face with black strikes like a
 soldier and sneaks into the storage section of the store)
 (Two men, including Hector, are loading boxes into some trucks)
  :
@@ -1746,7 +1805,7 @@ Hey, Hector.
 - You almost done?
 HECTOR:
 - Almost.
-(Barry takes a step to peak around the corner)
+(Craig takes a step to peak around the corner)
 (Whispering)
 He is here. I sense it.
  :
@@ -1755,12 +1814,12 @@ Well, I guess I'll go home now
  :
 and just leave this nice honey out,
 with no one around.
-BARRY:
+Craig:
 You're busted, box boy!
 HECTOR:
 I knew I heard something!
 So you can talk!
-BARRY:
+Craig:
 I can talk.
 And now you'll start talking!
  :
@@ -1774,31 +1833,31 @@ I thought we were friends.
 The last thing we want
 to do is upset bees!
 (Hector takes a thumbtack out of the board behind him and sword-fights
-Barry. Barry is using his stinger like a sword)
+Craig. Craig is using his stinger like a sword)
  :
 You're too late! It's ours now!
-BARRY:
+Craig:
 You, sir, have crossed
 the wrong sword!
 HECTOR:
 You, sir, will be lunch
 for my iguana, Ignacio!
-(Barry hits the thumbtack out of Hectors hand and Hector surrenders)
-Barry:
+(Craig hits the thumbtack out of Hectors hand and Hector surrenders)
+Craig:
 Where is the honey coming from?
  :
 Tell me where!
 HECTOR:
 (Pointing to leaving truck)
 Honey Farms! It comes from Honey Farms!
-(Barry chases after the truck but it is getting away. He flies onto a
+(Craig chases after the truck but it is getting away. He flies onto a
 bicyclists' backpack and he catches up to the truck)
 CAR DRIVER:
 (To bicyclist)
 Crazy person!
-(Barry flies off and lands on the windshield of the Honey farms truck.
-Barry looks around and sees dead bugs splattered everywhere)
-BARRY:
+(Craig flies off and lands on the windshield of the Honey farms truck.
+Craig looks around and sees dead bugs splattered everywhere)
+Craig:
 What horrible thing has happened here?
 
  :
@@ -1806,16 +1865,16 @@ These faces, they never knew
 what hit them. And now
  :
 they're on the road to nowhere!
-(Barry hears a sudden whisper)
-(Barry looks up and sees Mooseblood, a mosquito playing dead)
+(Craig hears a sudden whisper)
+(Craig looks up and sees Mooseblood, a mosquito playing dead)
 MOOSEBLOOD:
 Just keep still.
-BARRY:
+Craig:
 What? You're not dead?
 MOOSEBLOOD:
 Do I look dead? They will wipe anything
 that moves. Where you headed?
-BARRY:
+Craig:
 To Honey Farms.
 I am onto something huge here.
 MOOSEBLOOD:
@@ -1823,12 +1882,12 @@ I'm going to Alaska. Moose blood,
 crazy stuff. Blows your head off!
 ANOTHER BUG PLAYING DEAD:
 I'm going to Tacoma.
-(Barry looks at another bug)
-BARRY:
+(Craig looks at another bug)
+Craig:
 - And you?
 MOOSEBLOOD:
 - He really is dead.
-BARRY:
+Craig:
 All right.
 (Another bug hits the windshield and the drivers notice. They activate the
 windshield wipers)
@@ -1837,17 +1896,17 @@ Uh-oh!
 (The windshield wipers are slowly sliding over the dead bugs and wiping
 
 them off)
-BARRY:
+Craig:
 - What is that?!
 MOOSEBLOOD:
 - Oh, no!
  :
 - A wiper! Triple blade!
-BARRY:
+Craig:
 - Triple blade?
 MOOSEBLOOD:
 Jump on! It's your only chance, bee!
-(Mooseblood and Barry grab onto the wiper and they hold on as it wipes the
+(Mooseblood and Craig grab onto the wiper and they hold on as it wipes the
 windshield)
 Why does everything have
 to be so doggone clean?!
@@ -1862,15 +1921,15 @@ From NPR News in Leeds,
 I'm Carl Kasell.
 MOOSEBLOOD:
 But don't kill no more bugs!
-(Mooseblood and Barry are washed off by the wipr fluid)
+(Mooseblood and Craig are washed off by the wipr fluid)
 MOOSEBLOOD:
 - Bee!
-BARRY:
+Craig:
 - Moose blood guy!!
-(Barry starts screaming as he hangs onto the antenna)
+(Craig starts screaming as he hangs onto the antenna)
 (Suddenly it is revealed that a water bug is also hanging on the antenna.
 
-There is a pause and then Barry and the water bug both start screaming)
+There is a pause and then Craig and the water bug both start screaming)
 TRUCK DRIVER:
 - You hear something?
 GUY IN TRUCK:
@@ -1880,28 +1939,28 @@ Like tiny screaming.
 GUY IN TRUCK:
 Turn off the radio.
 (The antenna starts to lower until it gets to low and sinks into the truck.
-The water bug flies off and Barry is forced to let go and he is blown away.
+The water bug flies off and Craig is forced to let go and he is blown away.
 He luckily lands inside a horn on top of the truck where he finds
 Mooseblood, who was blown into the same place)
 MOOSEBLOOD:
 Whassup, bee boy?
-BARRY:
+Craig:
 Hey, Blood.
-(Fast forward in time and we see that Barry is deep in conversation with
+(Fast forward in time and we see that Craig is deep in conversation with
 Mooseblood. They have been sitting in this truck for a while)
-BARRY:
+Craig:
 ...Just a row of honey jars,
 as far as the eye could see.
 MOOSEBLOOD:
 Wow!
-BARRY:
+Craig:
 I assume wherever this truck goes
 is where they're getting it.
  :
 I mean, that honey's ours.
 MOOSEBLOOD:
 - Bees hang tight.
-BARRY:
+Craig:
 
 - We're all jammed in.
  :
@@ -1909,14 +1968,14 @@ It's a close community.
 MOOSEBLOOD:
 Not us, man. We on our own.
 Every mosquito on his own.
-BARRY:
+Craig:
 - What if you get in trouble?
 MOOSEBLOOD:
 - You a mosquito, you in trouble.
  :
 Nobody likes us. They just smack.
 See a mosquito, smack, smack!
-BARRY:
+Craig:
 At least you're out in the world.
 You must meet girls.
 MOOSEBLOOD:
@@ -1939,13 +1998,13 @@ OTHER MOSQUITO:
 MOOSEBLOOD:
 I knew I'd catch y'all down here.
 Did you bring your crazy straw?
-(The truck goes out of view and Barry notices that the truck he's on is
+(The truck goes out of view and Craig notices that the truck he's on is
 pulling into a camp of some sort)
 TRUCK DRIVER:
 We throw it in jars, slap a label on it,
 and it's pretty much pure profit.
-(Barry flies out)
-BARRY:
+(Craig flies out)
+Craig:
 What is this place?
 BEEKEEPER 1#:
 A bee's got a brain
@@ -1960,7 +2019,7 @@ BEEKEEPER #1:
 - Oh, sweet. That's the one you want.
  :
 The Thomas 3000!
-BARRY:
+Craig:
 Smoker?
 BEEKEEPER #1:
 Ninety puffs a minute, semi-automatic.
@@ -1972,7 +2031,7 @@ knocks them right out.
 BEEKEEPER #2:
 They make the honey,
 and we make the money.
-BARRY:
+Craig:
 "They make the honey,
 and we make the money"?
 (The Beekeeper sprays hundreds of cheap miniature apartments with the
@@ -1980,11 +2039,11 @@ smoker. The bees are fainting or passing out)
 Oh, my!
  :
 What's going on? Are you OK?
-(Barry flies into one of the apartment and helps a Bee couple get off the
+(Craig flies into one of the apartment and helps a Bee couple get off the
 ground. They are coughing and its hard for them to stand)
 BEE IN APARTMENT:
 Yeah. It doesn't last too long.
-BARRY:
+Craig:
 Do you know you're
 in a fake hive with fake walls?
 BEE IN APPARTMENT:
@@ -1992,19 +2051,19 @@ Our queen was moved here.
 We had no choice.
 (The apartment room is completely empty except for a photo on the wall of
 the "queen" who is obviously a man in women's clothes)
-BARRY:
+Craig:
 This is your queen?
 That's a man in women's clothes!
  :
 That's a drag queen!
  :
 What is this?
-(Barry flies out and he discovers that there are hundreds of these
+(Craig flies out and he discovers that there are hundreds of these
 structures, each housing thousands of Bees)
 Oh, no!
  :
 There's hundreds of them!
-(Barry takes out his camera and takes pictures of these Bee work camps. The
+(Craig takes out his camera and takes pictures of these Bee work camps. The
 beekeepers look very evil in these depictions)
 
 Bee honey.
@@ -2014,13 +2073,13 @@ on a massive scale!
  :
 This is worse than anything bears
 have done! I intend to do something.
-(Flash forward in time and Barry is showing these pictures to his parents)
+(Flash forward in time and Craig is showing these pictures to his parents)
 JANET:
-Oh, Barry, stop.
+Oh, Craig, stop.
 MARTIN:
 Who told you humans are taking
 our honey? That's a rumor.
-BARRY:
+Craig:
 Do these look like rumors?
 (Holds up the pictures)
 UNCLE CARL:
@@ -2038,24 +2097,24 @@ ADAM:
 He has a human girlfriend.
 And they make out!
 JANET:
-Make out? Barry!
+Make out? Craig!
 
-BARRY:
+Craig:
 We do not.
 ADAM:
 - You wish you could.
 MARTIN:
 - Whose side are you on?
-BARRY:
+Craig:
 The bees!
 UNCLE CARL:
 (He has been sitting in the back of the room this entire time)
 I dated a cricket once in San Antonio.
 Those crazy legs kept me up all night.
 JANET:
-Barry, this is what you want
+Craig, this is what you want
 to do with your life?
-BARRY:
+Craig:
 I want to do it for all our lives.
 Nobody works harder than bees!
  :
@@ -2066,7 +2125,7 @@ your hands were still stirring.
 You couldn't stop.
 JANET:
 I remember that.
-BARRY:
+Craig:
 What right do they have to our honey?
  :
 We live on two cups a year. They put it
@@ -2074,17 +2133,17 @@ in lip balm for no reason whatsoever!
 
 ADAM:
 Even if it's true, what can one bee do?
-BARRY:
+Craig:
 Sting them where it really hurts.
 MARTIN:
 In the face! The eye!
  :
 - That would hurt.
-BARRY:
+Craig:
 - No.
 MARTIN:
 Up the nose? That's a killer.
-BARRY:
+Craig:
 There's only one place you can sting
 the humans, one place where it matters.
 (Flash forward a bit in time and we are watching the Bee News)
@@ -2107,7 +2166,7 @@ JEANETTE CHUNG:
 
 - And I'm Jeanette Chung.
 BOB BUMBLE:
-A tri-county bee, Barry Benson,
+A tri-county bee, Craig Benson,
  :
 intends to sue the human race
 for stealing our honey,
@@ -2123,13 +2182,13 @@ our studio, discussing their new book,
 Classy Ladies,
 out this week on Hexagon.
 (The scene changes to an interview on the news with Bee version of Larry
-King and Barry)
+King and Craig)
 BEE LARRY KING:
-Tonight we're talking to Barry Benson.
+Tonight we're talking to Craig Benson.
  :
 Did you ever think, "I'm a kid
 from the hive. I can't do this"?
-BARRY:
+Craig:
 Bees have never been afraid
 to change the world.
  :
@@ -2141,7 +2200,7 @@ Where I'm from, we'd never sue humans.
  :
 We were thinking
 of stickball or candy stores.
-BARRY:
+Craig:
 How old are you? 2000 years old
 BEE LARRY KING:
 The bee community
@@ -2149,24 +2208,24 @@ is supporting you in this case,
  :
 which will be the trial
 of the bee century.
-BARRY:
+Craig:
 You know, they have a Larry King
 in the human world too.
 BEE LARRY KING:
 It's a common name. Next week...
-BARRY:
+Craig:
 He looks like you and has a show
 and suspenders and colored dots...
 BEE LARRY KING:
 Next week...
-BARRY:
+Craig:
 Glasses, quotes on the bottom from the
 guest even though you just heard 'em.
 BEE LARRY KING:
 Bear Week next week!
 They're scary, hairy and here, live.
 (Bee Larry King gets annoyed and flies away offscreen)
-BARRY:
+Craig:
 Always leans forward, pointy shoulders,
 squinty eyes, very Jewish.
 (Flash forward in time. We see Vanessa enter and Ken enters behind her.
@@ -2180,24 +2239,24 @@ It was my grandmother, Ken. She's 81.
 KEN==
 Honey, her backhand's a joke!
 I'm not gonna take advantage of that?
-BARRY:
+Craig:
 (To Ken)
 Quiet, please.
 Actual work going on here.
 KEN:
-(Pointing at Barry)
+(Pointing at Craig)
 - Is that that same bee?
 VANESSA:
 - Yes, it is!
  :
 I'm helping him sue the human race.
-BARRY:
+Craig:
 - Hello.
 KEN:
 - Hello, bee.
 VANESSA:
 This is Ken.
-BARRY:
+Craig:
 (Recalling the "Winter Boots" incident earlier)
 Yeah, I remember you. Timberland, size
 ten and a half. Vibram sole, I believe.
@@ -2216,17 +2275,17 @@ Bye-bye.
 KEN:
 (Yelling)
 Why is yogurt night so difficult?!
-(Ken leaves and Vanessa walks over to Barry. His workplace is a mess)
+(Ken leaves and Vanessa walks over to Craig. His workplace is a mess)
 VANESSA:
 You poor thing.
 You two have been at this for hours!
-BARRY:
+Craig:
 Yes, and Adam here
 has been a huge help.
 ADAM:
 - Frosting...
 - How many sugars?
- ==BARRY==
+ ==Craig==
 Just one. I try not
 to use the competition.
  :
@@ -2238,17 +2297,17 @@ And it takes my mind off the shop.
  :
 Instead of flowers, people
 are giving balloon bouquets now.
-BARRY:
+Craig:
 
 Those are great, if you're three.
 VANESSA:
 And artificial flowers.
-BARRY:
+Craig:
 - Oh, those just get me psychotic!
 VANESSA:
 - Yeah, me too.
  :
-BARRY:
+Craig:
 Bent stingers, pointless pollination.
 ADAM:
 Bees must hate those fake things!
@@ -2260,11 +2319,11 @@ Maybe this could make up
 for it a little bit.
 VANESSA:
 - This lawsuit's a pretty big deal.
-BARRY:
+Craig:
 - I guess.
 ADAM:
 You sure you want to go through with it?
-BARRY:
+Craig:
 Am I sure? When I'm done with
 the humans, they won't be able
  :
@@ -2284,24 +2343,24 @@ we will hear for ourselves
 if a honeybee can actually speak.
 (We are no longer watching through a news camera)
 ADAM:
-What have we gotten into here, Barry?
-BARRY:
+What have we gotten into here, Craig?
+Craig:
 It's pretty big, isn't it?
 ADAM==
 (Looking at the hundreds of people around the courthouse)
 I can't believe how many humans
 don't work during the day.
-BARRY:
+Craig:
 You think billion-dollar multinational
 food companies have good lawyers?
 SECURITY GUARD:
 Everybody needs to stay
 behind the barricade.
 (A limousine drives up and a fat man,Layton Montgomery, a honey industry
-owner gets out and walks past Barry)
+owner gets out and walks past Craig)
 ADAM:
 - What's the matter?
-BARRY:
+Craig:
 - I don't know, I just got a chill.
 (Fast forward in time and everyone is in the court)
 MONTGOMERY:
@@ -2316,7 +2375,7 @@ JUDGE BUMBLETON:
 All right. Case number 4475,
  :
 Superior Court of New York,
-Barry Bee Benson v. the Honey Industry
+Craig Bee Benson v. the Honey Industry
  :
 is now in session.
  :
@@ -2328,8 +2387,8 @@ JUDGE BUMBLETON:
 Mr. Benson... you're representing
 all the bees of the world?
 (Everyone looks closely, they are waiting to see if a Bee can really talk)
-(Barry makes several buzzing sounds to sound like a Bee)
-BARRY:
+(Craig makes several buzzing sounds to sound like a Bee)
+Craig:
 I'm kidding. Yes, Your Honor,
 we're ready to proceed.
 JUDGE BUMBLBETON:
@@ -2358,7 +2417,7 @@ with the silkworm
 for the elastic in my britches!
  :
 Talking bee!
-(Montgomery walks over and looks closely at Barry)
+(Montgomery walks over and looks closely at Craig)
  :
 How do we know this isn't some sort of
  :
@@ -2374,7 +2433,7 @@ he could be on steroids!
 JUDGE BUMBLETON:
 Mr. Benson?
 
-BARRY:
+Craig:
 Ladies and gentlemen,
 there's no trickery here.
  :
@@ -2405,19 +2464,19 @@ I wish he'd dress like that
 all the time. So nice!
 JUDGE BUMBLETON:
 Call your first witness.
-BARRY:
+Craig:
 So, Mr. Klauss Vanderhayden
 
 of Honey Farms, big company you have.
 KLAUSS VANDERHAYDEN:
 I suppose so.
-BARRY:
+Craig:
 I see you also own
 Honeyburton and Honron!
 KLAUSS:
 Yes, they provide beekeepers
 for our farms.
-BARRY:
+Craig:
 Beekeeper. I find that
 to be a very disturbing term.
  :
@@ -2426,11 +2485,11 @@ any bee-free-ers, do you?
 KLAUSS:
 (Quietly)
 - No.
-BARRY:
+Craig:
 - I couldn't hear you.
 KLAUSS:
 - No.
-BARRY:
+Craig:
 - No.
  :
 Because you don't free bees.
@@ -2443,7 +2502,7 @@ They're very lovable creatures.
 
  :
 Yogi Bear, Fozzie Bear, Build-A-Bear.
-BARRY:
+Craig:
 You mean like this?
 (The bear from Over The Hedge barges in through the back door and it is
 roaring and standing on its hind legs. It is thrashing its claws and people
@@ -2461,19 +2520,19 @@ Spitting out your throw pillows!
 JUDGE BUMBLETON:
 OK, that's enough. Take him away.
 (The bear stops roaring and thrashing and walks out)
-BARRY:
+Craig:
 So, Mr. Sting, thank you for being here.
 Your name intrigues me.
  :
 - Where have I heard it before?
 MR. STING:
 - I was with a band called The Police.
-BARRY:
+Craig:
 But you've never been
 a police officer, have you?
 STING:
 No, I haven't.
-BARRY:
+Craig:
 
 No, you haven't. And so here
 we have yet another example
@@ -2485,7 +2544,7 @@ for nothing more than
 a prance-about stage name.
 STING:
 Oh, please.
-BARRY:
+Craig:
 Have you ever been stung, Mr. Sting?
  :
 Because I'm feeling
@@ -2494,7 +2553,7 @@ a little stung, Sting.
 Or should I say... Mr. Gordon M. Sumner!
 MONTGOMERY:
 That's not his real name?! You idiots!
-BARRY:
+Craig:
 Mr. Liotta, first,
 belated congratulations on
  :
@@ -2502,7 +2561,7 @@ your Emmy win for a guest spot
 on ER in 2005.
 RAY LIOTTA:
 Thank you. Thank you.
-BARRY:
+Craig:
 I see from your resume
 that you're devilishly handsome
  :
@@ -2511,7 +2570,7 @@ with a churning inner turmoil
 that's ready to blow.
 RAY LIOTTA:
 I enjoy what I do. Is that a crime?
-BARRY:
+Craig:
 Not yet it isn't. But is this
 what it's come to for you?
  :
@@ -2523,10 +2582,10 @@ your part and learn your lines, sir?
 RAY LIOTTA:
 Watch it, Benson!
 I could blow right now!
-BARRY:
+Craig:
 This isn't a goodfella.
 This is a badfella!
-(Ray Liotta looses it and tries to grab Barry)
+(Ray Liotta looses it and tries to grab Craig)
 RAY LIOTTA:
 Why doesn't someone just step on
 this creep, and we can all go home?!
@@ -2543,27 +2602,27 @@ MAN:
 
 - Mr. Liotta, please sit down!
 (We see a montage of magazines which feature the court case)
-(Flash forward in time and Barry is back home with Vanessa)
-BARRY:
+(Flash forward in time and Craig is back home with Vanessa)
+Craig:
 I think it was awfully nice
 of that bear to pitch in like that.
 VANESSA:
 I think the jury's on our side.
-BARRY:
+Craig:
 Are we doing everything right,you know, legally?
 VANESSA:
 I'm a florist.
-BARRY:
+Craig:
 Right. Well, here's to a great team.
 VANESSA:
 To a great team!
-(Ken walks in from work. He sees Barry and he looks upset when he sees
-Barry clinking his glass with Vanessa)
+(Ken walks in from work. He sees Craig and he looks upset when he sees
+Craig clinking his glass with Vanessa)
 KEN:
 Well, hello.
 VANESSA:
 - Oh, Ken!
-BARRY:
+Craig:
 - Hello!
 VANESSA:
 I didn't think you were coming.
@@ -2575,17 +2634,17 @@ I tried to call, but...
 VANESSA:
 
 I didn't want all this to go to waste,
-so I called Barry. Luckily, he was free.
+so I called Craig. Luckily, he was free.
 KEN:
 Oh, that was lucky.
-(Ken sits down at the table across from Barry and Vanessa leaves the room)
+(Ken sits down at the table across from Craig and Vanessa leaves the room)
 VANESSA:
 There's a little left.
 I could heat it up.
 KEN:
-(Not taking his eyes off Barry)
+(Not taking his eyes off Craig)
 Yeah, heat it up, sure, whatever.
-BARRY:
+Craig:
 So I hear you're quite a tennis player.
  :
 I'm not much for the game myself.
@@ -2593,24 +2652,24 @@ The ball's a little grabby.
 KEN:
 That's where I usually sit.
 Right...
-(Points to where Barry is sitting)
+(Points to where Craig is sitting)
 there.
 VANESSA:
 (Calling from other room)
-Ken, Barry was looking at your resume,
+Ken, Craig was looking at your resume,
  :
 and he agreed with me that eating with
 chopsticks isn't really a special skill.
 KEN:
-(To Barry)
+(To Craig)
 You think I don't see what you're doing?
-BARRY:
+Craig:
 I know how hard it is to find
 the right job. We have that in common.
 
 KEN:
 Do we?
-BARRY:
+Craig:
 Bees have 100 percent employment,
 but we do jobs like taking the crud out.
 KEN:
@@ -2620,101 +2679,101 @@ I was thinking about doing.
 (Ken reaches for a fork on the table but knocks if on the floor. He goes to
 pick it up)
 VANESSA:
-Ken, I let Barry borrow your razor
+Ken, I let Craig borrow your razor
 for his fuzz. I hope that was all right.
 (Ken quickly rises back up after hearing this but hits his head on the
 table and yells)
-BARRY:
+Craig:
 I'm going to drain the old stinger.
 KEN:
 Yeah, you do that.
-(Barry flies past Ken to get to the bathroom and Ken freaks out, splashing
+(Craig flies past Ken to get to the bathroom and Ken freaks out, splashing
 some of the wine he was using to cool his head in his eyes. He yells in
 anger)
-(Barry looks at the magazines featuring his victories in court)
-BARRY:
+(Craig looks at the magazines featuring his victories in court)
+Craig:
 Look at that.
-(Barry flies into the bathroom)
+(Craig flies into the bathroom)
 (He puts his hand on his head but this makes hurts him and makes him even
 madder. He yells again)
-(Barry is washing his hands in the sink but then Ken walks in)
+(Craig is washing his hands in the sink but then Ken walks in)
 KEN:
 You know, you know I've just about had it
 (Closes bathroom door behind him)
 with your little mind games.
 (Ken is menacingly rolling up a magazine)
-BARRY:
+Craig:
 
 (Backing away)
 - What's that?
 KEN:
 - Italian Vogue.
-BARRY:
+Craig:
 Mamma mia, that's a lot of pages.
 KEN:
 It's a lot of ads.
-BARRY:
+Craig:
 Remember what Van said, why is
 your life more valuable than mine?
 KEN:
 That's funny, I just can't seem to recall that!
-(Ken smashes everything off the sink with the magazine and Barry narrowly
+(Ken smashes everything off the sink with the magazine and Craig narrowly
 escapes)
-(Ken follows Barry around and tries to hit him with the magazine but he
+(Ken follows Craig around and tries to hit him with the magazine but he
 keeps missing)
 (Ken gets a spray bottle)
  :
 I think something stinks in here!
-BARRY:
+Craig:
 (Enjoying the spray)
 I love the smell of flowers.
 (Ken holds a lighter in front of the spray bottle)
 KEN:
 How do you like the smell of flames?!
-BARRY:
+Craig:
 Not as much.
-(Ken fires his make-shift flamethrower but misses Barry, burning the
+(Ken fires his make-shift flamethrower but misses Craig, burning the
 bathroom. He torches the whole room but looses his footing and falls into
 the bathtub. After getting hit in the head by falling objects 3 times he
 picks up the shower head, revealing a Water bug hiding under it)
 WATER BUG:
 Water bug! Not taking sides!
 
-(Barry gets up out of a pile of bathroom supplies and he is wearing a
+(Craig gets up out of a pile of bathroom supplies and he is wearing a
 chapstick hat)
-BARRY:
+Craig:
 Ken, I'm wearing a Chapstick hat!
 This is pathetic!
 (Ken switches the shower head to lethal)
 KEN:
 I've got issues!
-(Ken sprays Barry with the shower head and he crash lands into the toilet)
-(Ken menacingly looks down into the toilet at Barry)
+(Ken sprays Craig with the shower head and he crash lands into the toilet)
+(Ken menacingly looks down into the toilet at Craig)
 Well, well, well, a royal flush!
-BARRY:
+Craig:
 - You're bluffing.
 KEN:
 - Am I?
 (flushes toilet)
-(Barry grabs a chapstick from the toilet seat and uses it to surf in the
+(Craig grabs a chapstick from the toilet seat and uses it to surf in the
 flushing toilet)
-BARRY:
+Craig:
 Surf's up, dude!
-(Barry flies out of the toilet on the chapstick and sprays Ken's face with
+(Craig flies out of the toilet on the chapstick and sprays Ken's face with
 the toilet water)
  :
 EW,Poo water!
-BARRY:
+Craig:
 That bowl is gnarly.
 KEN:
-(Aiming a toilet cleaner at Barry)
+(Aiming a toilet cleaner at Craig)
 Except for those dirty yellow rings!
-(Barry cowers and covers his head and Vanessa runs in and takes the toilet
-cleaner from Ken just before he hits Barry)
+(Craig cowers and covers his head and Vanessa runs in and takes the toilet
+cleaner from Ken just before he hits Craig)
 VANESSA:
 Kenneth! What are you doing?!
 KEN==
-(Leaning towards Barry)
+(Leaning towards Craig)
 
 You know, I don't even like honey!
 I don't eat it!
@@ -2740,12 +2799,12 @@ on this emotional roller coaster!
 VANESSA:
 Goodbye, Ken.
 (Ken huffs and walks out and slams the door. But suddenly he walks back in
-and stares at Barry)
+and stares at Craig)
  :
 And for your information,
 I prefer sugar-free, artificial
 sweeteners MADE BY MAN!
-(Ken leaves again and Vanessa leans in towards Barry)
+(Ken leaves again and Vanessa leans in towards Craig)
 VANESSA:
 I'm sorry about all that.
 (Ken walks back in again)
@@ -2762,17 +2821,17 @@ I couldn't overcome it.
 Oh, well.
  :
 Are you OK for the trial?
-BARRY:
+Craig:
 I believe Mr. Montgomery
 is about out of ideas.
-(Flash forward in time and Barry, Adam, and Vanessa are back in court)
+(Flash forward in time and Craig, Adam, and Vanessa are back in court)
 MONTGOMERY--
 We would like to call
-Mr. Barry Benson Bee to the stand.
+Mr. Craig Benson Bee to the stand.
 ADAM:
 Good idea! You can really see why he's
 considered one of the best lawyers...
-(Barry stares at Adam)
+(Craig stares at Adam)
 ...Yeah.
 LAWYER:
 Layton, you've
@@ -2800,11 +2859,11 @@ What exactly is your relationship
 (Points to Vanessa)
  :
 to that woman?
-BARRY:
+Craig:
 We're friends.
 MONTGOMERY:
 - Good friends?
-BARRY:
+Craig:
 - Yes.
 MONTGOMERY:
 How good? Do you live together?
@@ -2822,14 +2881,14 @@ From what I understand,
  :
 doesn't your queen give birth
 to all the bee children?
-BARRY:
+Craig:
 - Yeah, but...
 MONTGOMERY:
 (Pointing at Janet and Martin)
 - So those aren't your real parents!
 JANET:
-- Oh, Barry...
-BARRY:
+- Oh, Craig...
+Craig:
 - Yes, they are!
 ADAM:
 Hold me back!
@@ -2848,7 +2907,7 @@ VANESSA:
 Montgomery)
 =ADAM:
 - I'm going to pincushion this guy!
-BARRY:
+Craig:
 Adam, don't! It's what he wants!
 (Adam stings Montgomery in the butt and he starts thrashing around)
 
@@ -2872,7 +2931,7 @@ like equals! They're striped savages!
  :
 Stinging's the only thing
 they know! It's their way!
-BARRY:
+Craig:
 - Adam, stay with me.
 ADAM:
 - I can't feel my legs.
@@ -2896,12 +2955,12 @@ took a pointed turn against the bees
  :
 yesterday when one of their legal
 team stung Layton T. Montgomery.
-(Adam is laying in a hospital bed and Barry flies in to see him)
-BARRY:
+(Adam is laying in a hospital bed and Craig flies in to see him)
+Craig:
 - Hey, buddy.
 ADAM:
 - Hey.
-BARRY:
+Craig:
 - Is there much pain?
 ADAM:
 - Yeah.
@@ -2909,7 +2968,7 @@ ADAM:
 I...
  :
 I blew the whole case, didn't I?
-BARRY:
+Craig:
 It doesn't matter. What matters is
 you're alive. You could have died.
 ADAM:
@@ -2922,18 +2981,18 @@ downstairs, in a tuna sandwich.
 Look, there's
 a little celery still on it.
 (Flicks off the celery and sighs)
-BARRY:
+Craig:
 What was it like to sting someone?
 ADAM:
 I can't explain it. It was all...
  :
 All adrenaline and then...
 and then ecstasy!
-BARRY:
+Craig:
 ...All right.
 ADAM:
 You think it was all a trap?
-BARRY:
+Craig:
 Of course. I'm sorry.
 I flew us right into this.
  :
@@ -2942,12 +3001,12 @@ just a couple of bugs in this world.
 ADAM:
 What will the humans do to us
 if they win?
-BARRY:
+Craig:
 I don't know.
 ADAM:
 I hear they put the roaches in motels.
 That doesn't sound so bad.
-BARRY:
+Craig:
 Adam, they check in,
 but they don't check out!
 
@@ -2956,14 +3015,14 @@ Oh, my.
 (Coughs)
 Could you get a nurse
 to close that window?
-BARRY:
+Craig:
 - Why?
 ADAM:
 - The smoke.
 (We can see that two humans are smoking cigarettes outside)
  :
 Bees don't smoke.
-BARRY:
+Craig:
 Right. Bees don't smoke.
  :
 Bees don't smoke!
@@ -2972,7 +3031,7 @@ But some bees are smoking.
 That's it! That's our case!
 ADAM:
 It is? It's not over?
-BARRY:
+Craig:
 Get dressed. I've gotta go somewhere.
  :
 Get back to the court and stall.
@@ -3030,8 +3089,8 @@ Where is your proof?
 Where is the evidence?
  :
 Show me the smoking gun!
-BARRY:
-(Barry flies in through the door)
+Craig:
+(Craig flies in through the door)
 Hold it, Your Honor!
 You want a smoking gun?
  :
@@ -3040,7 +3099,7 @@ Here is your smoking gun.
 podium)
 JUDGE BUMBLETON:
 What is that?
-BARRY:
+Craig:
 It's a bee smoker!
 MONTGOMERY:
 (Picks up smoker)
@@ -3053,7 +3112,7 @@ let alone a bee.
 
 and cough)
 (Dozens of reporters start taking pictures of the suffering bees)
-BARRY:
+Craig:
 Look at what has happened
  :
 to bees who have never been asked,
@@ -3068,12 +3127,12 @@ and man-made wooden slat work camps?
  :
 Living out our lives as honey slaves
 to the white man?
-(Barry points to the honey industry owners. One of them is an African
+(Craig points to the honey industry owners. One of them is an African
 American so he awkwardly separates himself from the others)
 LAWYER:
 - What are we gonna do?
 - He's playing the species card.
-BARRY:
+Craig:
 Ladies and gentlemen, please,
 free these bees!
 ADAM AND VANESSA:
@@ -3085,14 +3144,14 @@ Free the bees! Free the bees!
 JUDGE BUMBLETON:
 The court finds in favor of the bees!
 
-BARRY:
+Craig:
 Vanessa, we won!
 VANESSA:
 I knew you could do it! High-five!
-(Vanessa hits Barry hard because her hand is too big)
+(Vanessa hits Craig hard because her hand is too big)
  :
 Sorry.
-BARRY:
+Craig:
 (Overjoyed)
 I'm OK! You know what this means?
  :
@@ -3106,19 +3165,19 @@ This is an unholy perversion
 of the balance of nature, Benson.
  :
 You'll regret this.
-(Montgomery leaves and Barry goes outside the courtroom. Several reporters
-start asking Barry questions)
+(Montgomery leaves and Craig goes outside the courtroom. Several reporters
+start asking Craig questions)
 REPORTER 1#:
-Barry, how much honey is out there?
-BARRY:
+Craig, how much honey is out there?
+Craig:
 All right. One at a time.
 REPORTER 2#:
-Barry, who are you wearing?
-BARRY:
+Craig, who are you wearing?
+Craig:
 My sweater is Ralph Lauren,
 and I have no pants.
 
-(Barry flies outside with the paparazzi and Adam and Vanessa stay back)
+(Craig flies outside with the paparazzi and Adam and Vanessa stay back)
 ADAM:
 (To Vanessa)
 - What if Montgomery's right?
@@ -3127,14 +3186,14 @@ Vanessa:
 ADAM:
 We've been living the bee way
 a long time, 27 million years.
-(Flash forward in time and Barry is talking to a man)
+(Flash forward in time and Craig is talking to a man)
 BUSINESS MAN:
 Congratulations on your victory.
 What will you demand as a settlement?
-BARRY:
+Craig:
 First, we'll demand a complete shutdown
 of all bee work camps.
-(As Barry is talking we see a montage of men putting "closed" tape over the
+(As Craig is talking we see a montage of men putting "closed" tape over the
 work camps and freeing the bees in the crappy apartments)
 Then we want back the honey
 that was ours to begin with,
@@ -3152,7 +3211,7 @@ We're all aware
 of what they do in the woods.
 (We see Winnie the Pooh sharing his honey with Piglet in the cross-hairs of
 a high-tech sniper rifle)
-BARRY:
+Craig:
 (Looking through binoculars)
 
 Wait for my signal.
@@ -3165,14 +3224,14 @@ SNIPER:
 He'll have nausea
 for a few hours, then he'll be fine.
 (Flash forward in time)
-BARRY:
+Craig:
 And we will no longer tolerate
 bee-negative nicknames...
 (Mr. Sting is sitting at home until he is taken out of his house by the men
 in suits)
 STING:
 But it's just a prance-about stage name!
-BARRY:
+Craig:
 ...unnecessary inclusion of honey
 in bogus health products
  :
@@ -3182,7 +3241,7 @@ tea-time snack garnishments.
 her face down on the table and take the honey)
 OLD LADY:
 Can't breathe.
-(A honey truck pulls up to Barry's hive)
+(A honey truck pulls up to Craig's hive)
 WORKER:
 Bring it in, boys!
  :
@@ -3229,12 +3288,12 @@ Returning to base.
 
 (We get a time lapse of Central Park slowly wilting away as the bees all
 relax)
-BARRY:
+Craig:
 Adam, you wouldn't believe
 how much honey was out there.
 ADAM:
 Oh, yeah?
-BARRY:
+Craig:
 What's going on? Where is everybody?
 (The entire street is deserted)
  :
@@ -3247,7 +3306,7 @@ Laying out, sleeping in.
  :
 I heard your Uncle Carl was on his way
 to San Antonio with a cricket.
-BARRY:
+Craig:
 At least we got our honey back.
 ADAM:
 Sometimes I think, so what if humans
@@ -3263,8 +3322,8 @@ new job. I wanted to do it really well.
 And now...
  :
 Now I can't.
-(Flash forward in time and Barry is talking to Vanessa)
-BARRY:
+(Flash forward in time and Craig is talking to Vanessa)
+Craig:
 I don't understand
 why they're not happy.
  :
@@ -3275,38 +3334,38 @@ Honey really changes people.
 VANESSA:
 You don't have any idea
 what's going on, do you?
-BARRY:
+Craig:
 - What did you want to show me?
-(Vanessa takes Barry to the rooftop where they first had coffee and points
+(Vanessa takes Craig to the rooftop where they first had coffee and points
 to her store)
 VANESSA:
 - This.
 (Points at her flowers. They are all grey and wilting)
-BARRY:
+Craig:
 What happened here?
 VANESSA:
 That is not the half of it.
-(Small flash forward in time and Vanessa and Barry are on the roof of her
+(Small flash forward in time and Vanessa and Craig are on the roof of her
 store and she points to Central Park)
 (We see that Central Park is no longer green and colorful, rather it is
 grey, brown, and dead-like. It is very depressing to look at)
-BARRY:
+Craig:
 Oh, no. Oh, my.
  :
 
 They're all wilting.
 VANESSA:
 Doesn't look very good, does it?
-BARRY:
+Craig:
 No.
 VANESSA:
 And whose fault do you think that is?
-BARRY:
+Craig:
 You know, I'm gonna guess bees.
 VANESSA==
-(Staring at Barry)
+(Staring at Craig)
 Bees?
-BARRY:
+Craig:
 Specifically, me.
  :
 I didn't think bees not needing to make
@@ -3314,14 +3373,14 @@ honey would affect all these things.
 VANESSA:
 It's not just flowers.
 Fruits, vegetables, they all need bees.
-BARRY:
+Craig:
 That's our whole SAT test right there.
 VANESSA:
 Take away produce, that affects
 the entire animal kingdom.
  :
 And then, of course...
-BARRY:
+Craig:
 The human species?
  :
 So if there's no more pollination,
@@ -3331,21 +3390,21 @@ it could all just go south here,
 couldn't it?
 VANESSA:
 I know this is also partly my fault.
-BARRY:
+Craig:
 How about a suicide pact?
 VANESSA:
 How do we do it?
-BARRY:
+Craig:
 - I'll sting you, you step on me.
 VANESSA:
 - That just kills you twice.
-BARRY:
+Craig:
 Right, right.
 VANESSA:
-Listen, Barry...
+Listen, Craig...
 sorry, but I gotta get going.
 (Vanessa leaves)
-BARRY:
+Craig:
 (To himself)
 I had to open my mouth and talk.
  :
@@ -3364,13 +3423,13 @@ because all the flowers are dying.
  :
 It's the last chance
 I'll ever have to see it.
-BARRY:
+Craig:
 Vanessa, I just wanna say I'm sorry.
 I never meant it to turn out like this.
 VANESSA:
 I know. Me neither.
 (The taxi starts to drive away)
-BARRY:
+Craig:
 Tournament of Roses.
 Roses can't do sports.
  :
@@ -3379,37 +3438,37 @@ Wait a minute. Roses. Roses?
 Roses!
  :
 Vanessa!
-(Barry flies after the Taxi)
+(Craig flies after the Taxi)
 VANESSA:
 Roses?!
  :
-Barry?
-(Barry is flying outside the window of the taxi)
-BARRY:
+Craig?
+(Craig is flying outside the window of the taxi)
+Craig:
 - Roses are flowers!
 VANESSA:
 - Yes, they are.
-BARRY:
+Craig:
 Flowers, bees, pollen!
 
 VANESSA:
 I know.
 That's why this is the last parade.
-BARRY:
+Craig:
 Maybe not.
 Could you ask him to slow down?
 VANESSA:
 Could you slow down?
-(The taxi driver screeches to a stop and Barry keeps flying forward)
+(The taxi driver screeches to a stop and Craig keeps flying forward)
  :
-Barry!
-(Barry flies back to the window)
-BARRY:
+Craig!
+(Craig flies back to the window)
+Craig:
 OK, I made a huge mistake.
 This is a total disaster, all my fault.
 VANESSA:
 Yes, it kind of is.
-BARRY:
+Craig:
 I've ruined the planet.
 I wanted to help you
  :
@@ -3417,7 +3476,7 @@ with the flower shop.
 I've made it worse.
 VANESSA:
 Actually, it's completely closed down.
-BARRY:
+Craig:
 I thought maybe you were remodeling.
  :
 But I have another idea, and it's
@@ -3425,7 +3484,7 @@ greater than my previous ideas combined.
 VANESSA:
 I don't want to hear it!
 
-BARRY:
+Craig:
 All right, they have the roses,
 the roses have the pollen.
  :
@@ -3438,11 +3497,11 @@ back here with what we've got.
 - Bees.
 VANESSA:
 - Park.
-BARRY:
+Craig:
 - Pollen!
 VANESSA:
 - Flowers.
-BARRY:
+Craig:
 - Re-pollination!
 VANESSA:
 - Across the nation!
@@ -3454,7 +3513,7 @@ They've got nothing
 but flowers, floats and cotton candy.
  :
 Security will be tight.
-BARRY:
+Craig:
 I have an idea.
 
 (Flash forward in time. Vanessa is about to board a plane which has all the
@@ -3468,9 +3527,9 @@ SECURITY GUARD:
 Sorry, ma'am. Nice brooch.
 =VANESSA==
 Thank you. It was a gift.
-(Barry is revealed to be hiding inside the brooch)
-(Flash back in time and Barry and Vanessa are discussing their plan)
-BARRY:
+(Craig is revealed to be hiding inside the brooch)
+(Flash back in time and Craig and Vanessa are discussing their plan)
+Craig:
 Once inside,
 we just pick the right float.
 VANESSA:
@@ -3478,13 +3537,13 @@ How about The Princess and the Pea?
  :
 I could be the princess,
 and you could be the pea!
-BARRY:
+Craig:
 Yes, I got it.
  :
 - Where should I sit?
 GUARD:
 - What are you?
-BARRY:
+Craig:
 - I believe I'm the pea.
 GUARD:
 - The pea?
@@ -3502,7 +3561,7 @@ Let's see what this baby'll do.
 (Vanessa drives the float through traffic)
 GUARD:
 Hey, what are you doing?!
-BARRY==
+Craig==
 Then all we do
 is blend in with traffic...
  :
@@ -3510,7 +3569,7 @@ is blend in with traffic...
  :
 Once at the airport,
 there's no stopping us.
-(Flash forward in time and Barry and Vanessa are about to get on a plane)
+(Flash forward in time and Craig and Vanessa are about to get on a plane)
 SECURITY GUARD:
 Stop! Security.
  :
@@ -3525,23 +3584,23 @@ VANESSA:
 
 SECURITY GUARD:
 Would you remove your shoes?
-(To Barry)
+(To Craig)
 - Remove your stinger.
-BARRY:
+Craig:
 - It's part of me.
 SECURITY GUARD:
 I know. Just having some fun.
 Enjoy your flight.
-(Barry plotting with Vanessa)
-BARRY:
+(Craig plotting with Vanessa)
+Craig:
 Then if we're lucky, we'll have
 just enough pollen to do the job.
-(Flash forward in time and Barry and Vanessa are flying on the plane)
+(Flash forward in time and Craig and Vanessa are flying on the plane)
 Can you believe how lucky we are? We
 have just enough pollen to do the job!
 VANESSA:
 I think this is gonna work.
-BARRY:
+Craig:
 It's got to work.
 CAPTAIN SCOTT:
 (On intercom)
@@ -3554,58 +3613,58 @@ in New York.
 It looks like we'll experience
 a couple hours delay.
 VANESSA:
-Barry, these are cut flowers
+Craig, these are cut flowers
 with no water. They'll never make it.
-BARRY:
+Craig:
 
 I gotta get up there
 and talk to them.
 VANESSA==
 Be careful.
-(Barry flies right outside the cockpit door)
-BARRY:
+(Craig flies right outside the cockpit door)
+Craig:
 Can I get help
 with the Sky Mall magazine?
 I'd like to order the talking
 inflatable nose and ear hair trimmer.
-(The flight attendant opens the door and walks out and Barry flies into the
+(The flight attendant opens the door and walks out and Craig flies into the
 cockpit unseen)
-BARRY:
+Craig:
 Captain, I'm in a real situation.
 CAPTAIN SCOTT:
 - What'd you say, Hal?
 CO-PILOT HAL:
 - Nothing.
-(Scott notices Barry and freaks out)
+(Scott notices Craig and freaks out)
 CAPTAIN SCOTT:
 Bee!
-BARRY:
+Craig:
 No,no,no, Don't freak out! My entire species...
-(Captain Scott gets out of his seat and tries to suck Barry into a handheld
+(Captain Scott gets out of his seat and tries to suck Craig into a handheld
 vacuum)
 HAL:
 (To Scott)
 What are you doing?
-(Barry lands on Hals hair but Scott sees him. He tries to suck up Barry but
+(Craig lands on Hals hair but Scott sees him. He tries to suck up Craig but
 instead he sucks up Hals toupee)
 CAPTAIN SCOTT:
 Uh-oh.
-BARRY:
+Craig:
 - Wait a minute! I'm an attorney!
 
 HAL:
-(Hal doesn't know Barry is on his head)
+(Hal doesn't know Craig is on his head)
 - Who's an attorney?
 CAPTAIN SCOTT:
 Don't move.
-(Scott hits Hal in the face with the vacuum in an attempt to hit Barry. Hal
+(Scott hits Hal in the face with the vacuum in an attempt to hit Craig. Hal
 is knocked out and he falls on the life raft button which launches an
 infalatable boat into Scott, who gets knocked out and falls to the floor.
 They are both uncounscious.)
-BARRY:
+Craig:
 (To himself)
-Oh, Barry.
-BARRY:
+Oh, Craig.
+Craig:
 (On intercom, with a Southern accent)
 Good afternoon, passengers.
 This is your captain.
@@ -3618,7 +3677,7 @@ please report to the cockpit?
 (Vanessa opens the door and sees the life raft and the uncounscious pilots)
 VANESSA:
 What happened here?
-BARRY:
+Craig:
 I tried to talk to them, but
 then there was a DustBuster,
 a toupee, a life raft exploded.
@@ -3627,7 +3686,7 @@ Now one's bald, one's in a boat,
 and they're both unconscious!
 VANESSA:
 ...Is that another bee joke?
-BARRY:
+Craig:
 
 - No!
  :
@@ -3647,15 +3706,15 @@ and so is the copilot.
 BUD:
 Not good. Does anyone onboard
 have flight experience?
-BARRY:
+Craig:
 As a matter of fact, there is.
 BUD:
 - Who's that?
-BARRY:
-- Barry Benson.
+Craig:
+- Craig Benson.
 BUD:
 From the honey trial?! Oh, great.
-BARRY:
+Craig:
 Vanessa, this is nothing more
 than a big metal bee.
  :
@@ -3663,16 +3722,16 @@ It's got giant wings, huge engines.
 
 VANESSA:
 I can't fly a plane.
-BARRY:
+Craig:
 - Why not? Isn't John Travolta a pilot?
 VANESSA:
 - Yes.
-BARRY:
+Craig:
 How hard could it be?
 (Vanessa sits down and flies for a little bit but we see lightning clouds
 outside the window)
 VANESSA:
-Wait, Barry!
+Wait, Craig!
 We're headed into some lightning.
 (An ominous lightning storm looms in front of the plane)
 (We are now watching the Bee News)
@@ -3683,10 +3742,10 @@ late-breaking news from JFK Airport,
 where a suspenseful scene
 is developing.
  :
-Barry Benson,
+Craig Benson,
 fresh from his legal victory...
 ADAM:
-That's Barry!
+That's Craig!
 BOB BUMBLE:
 ...is attempting to land a plane,
 loaded with people, flowers
@@ -3717,7 +3776,7 @@ Technically, a bee
 shouldn't be able to fly at all.
  :
 Their wings are too small...
-BARRY:
+Craig:
 (Through radio)
 Haven't we heard this a million times?
  :
@@ -3732,7 +3791,7 @@ BEE NEWS CREW:
 - Stand by.
 BEE NEWS CREW:
 - We're going live!
-BARRY:
+Craig:
 (Through radio on TV)
 ...The way we work may be a mystery to you.
  :
@@ -3758,26 +3817,26 @@ We get behind a fellow.
 - Black and yellow!
 BEES:
 - Hello!
-(The scene switches and Barry is teaching Vanessa how to fly)
-BARRY:
+(The scene switches and Craig is teaching Vanessa how to fly)
+Craig:
 
 Left, right, down, hover.
 VANESSA:
 - Hover?
-BARRY:
+Craig:
 - Forget hover.
 VANESSA:
 This isn't so hard.
 (Pretending to honk the horn)
 Beep-beep! Beep-beep!
 (A Lightning bolt hits the plane and autopilot turns off)
-Barry, what happened?!
-BARRY:
+Craig, what happened?!
+Craig:
 Wait, I think we were
 on autopilot the whole time.
 VANESSA:
 - That may have been helping me.
-BARRY:
+Craig:
 - And now we're not!
 VANESSA:
 So it turns out I cannot fly a plane.
@@ -3788,68 +3847,68 @@ All of you, let's get
 behind this fellow! Move it out!
  :
 Move out!
-(The scene switches back to Vanessa and Barry in the plane)
-BARRY:
+(The scene switches back to Vanessa and Craig in the plane)
+Craig:
 Our only chance is if I do what I'd do,
 you copy me with the wings of the plane!
-(Barry sticks out his arms like an airplane and flys in front of Vanessa's
+(Craig sticks out his arms like an airplane and flys in front of Vanessa's
 face)
 
 VANESSA:
 Don't have to yell.
-BARRY:
+Craig:
 I'm not yelling!
 We're in a lot of trouble.
 VANESSA:
 It's very hard to concentrate
 with that panicky tone in your voice!
-BARRY:
+Craig:
 It's not a tone. I'm panicking!
 VANESSA:
 I can't do this!
-(Barry slaps Vanessa)
-BARRY:
+(Craig slaps Vanessa)
+Craig:
 Vanessa, pull yourself together.
 You have to snap out of it!
 VANESSA:
-(Slaps Barry)
+(Slaps Craig)
 You snap out of it.
-BARRY:
+Craig:
 (Slaps Vanessa)
  :
 You snap out of it.
 VANESSA:
 - You snap out of it!
-BARRY:
+Craig:
 - You snap out of it!
 (We see that all the Pollen Jocks are flying under the plane)
 VANESSA:
 - You snap out of it!
-BARRY:
+Craig:
 - You snap out of it!
 
 VANESSA:
 - You snap out of it!
-BARRY:
+Craig:
 - You snap out of it!
 VANESSA:
 - Hold it!
-BARRY:
+Craig:
 - Why? Come on, it's my turn.
 VANESSA:
 How is the plane flying?
 (The plane is now safely flying)
 VANESSA:
 I don't know.
-(Barry's antennae rings like a phone. Barry picks up)
-BARRY:
+(Craig's antennae rings like a phone. Craig picks up)
+Craig:
 Hello?
 LOU LU DUVA:
 (Through "phone")
 Benson, got any flowers
 for a happy occasion in there?
 (All of the Pollen Jocks are carrying the plane)
-BARRY:
+Craig:
 The Pollen Jocks!
  :
 They do get behind a fellow.
@@ -3861,25 +3920,25 @@ LOU LU DUVA:
 All right, let's drop this tin can
 
 on the blacktop.
-BARRY:
+Craig:
 Where? I can't see anything. Can you?
 VANESSA:
 No, nothing. It's all cloudy.
  :
-Come on. You got to think bee, Barry.
-BARRY:
+Come on. You got to think bee, Craig.
+Craig:
 - Thinking bee.
 - Thinking bee.
 (On the runway there are millions of bees laying on their backs)
 BEES:
 Thinking bee!
 Thinking bee! Thinking bee!
-BARRY:
+Craig:
 Wait a minute.
 I think I'm feeling something.
 VANESSA:
 - What?
-BARRY:
+Craig:
 - I don't know. It's strong, pulling me.
  :
 Like a 27-million-year-old instinct.
@@ -3898,16 +3957,16 @@ flower formation)
 BEES:
 Thinking bee!
 Thinking bee! Thinking bee!
-BARRY:
+Craig:
 - Vanessa, aim for the flower.
 VANESSA:
 - OK.
-BARRY:
+Craig:
 Out the engines. We're going in
 on bee power. Ready, boys?
 LOU LU DUVA:
 Affirmative!
-BARRY:
+Craig:
 Good. Good. Easy, now. That's it.
  :
 Land on that flower!
@@ -3919,14 +3978,14 @@ Spin it around!
 - Not that flower! The other one!
 VANESSA:
 - Which one?
-BARRY:
+Craig:
 - That flower.
 (The plane is now pointed at a fat guy in a flowered shirt. He freaks out
 and tries to take a picture of the plane)
 VANESSA:
 - I'm aiming at the flower!
 
-BARRY:
+Craig:
 That's a fat guy in a flowered shirt.
 I mean the giant pulsating flower
 made of millions of bees!
@@ -3936,14 +3995,14 @@ Pull forward. Nose down. Tail up.
  :
 Rotate around it.
 VANESSA:
-- This is insane, Barry!
-BARRY:
+- This is insane, Craig!
+Craig:
 - This's the only way I know how to fly.
 BUD:
 Am I koo-koo-kachoo, or is this plane
 flying in an insect-like pattern?
 (The plane is unrealistically hovering and spinning over the bee-flower)
-BARRY:
+Craig:
 Get your nose in there. Don't be afraid.
 Smell it. Full reverse!
  :
@@ -3956,24 +4015,24 @@ Now drop it in! Drop it in, woman!
 Come on, already.
 (The bees scatter and the plane safely lands)
 VANESSA:
-Barry, we did it!
+Craig, we did it!
 You taught me how to fly!
 
-BARRY:
+Craig:
 - Yes!
-(Vanessa is about to high-five Barry)
+(Vanessa is about to high-five Craig)
 No high-five!
 VANESSA:
 - Right.
 ADAM:
-Barry, it worked!
+Craig, it worked!
 Did you see the giant flower?
-BARRY:
+Craig:
 What giant flower? Where? Of course
 I saw the flower! That was genius!
 ADAM:
 - Thank you.
-BARRY:
+Craig:
 - But we're not done yet.
  :
 Listen, everyone!
@@ -3999,25 +4058,25 @@ BEES:
 We're bees!
 BEE WHO LIKES KEYCHAINS:
 Keychain!
-BARRY:
+Craig:
 Then follow me! Except Keychain.
 POLLEN JOCK #1:
-Hold on, Barry. Here.
+Hold on, Craig. Here.
  :
 You've earned this.
-BARRY:
+Craig:
 Yeah!
  :
 I'm a Pollen Jock! And it's a perfect
 fit. All I gotta do are the sleeves.
-(The Pollen Jocks throw Barry a nectar-collecting gun. Barry catches it)
+(The Pollen Jocks throw Craig a nectar-collecting gun. Craig catches it)
 Oh, yeah.
 JANET:
-That's our Barry.
-(Barry and the Pollen Jocks get pollen from the flowers on the plane)
+That's our Craig.
+(Craig and the Pollen Jocks get pollen from the flowers on the plane)
 (Flash forward in time and the Pollen Jocks are flying over NYC)
  :
-(Barry pollinates the flowers in Vanessa's shop and then heads to Central
+(Craig pollinates the flowers in Vanessa's shop and then heads to Central
 Park)
 BOY IN PARK:
 Mom! The bees are back!
@@ -4038,7 +4097,7 @@ afternoon! Can I help who's next?
  :
 Would you like some honey with that?
 It is bee-approved. Don't forget these.
-(There is a room in the shop where Barry does legal work for other animals.
+(There is a room in the shop where Craig does legal work for other animals.
 He is currently talking with a Cow)
 COW:
 Milk, cream, cheese, it's all me.
@@ -4046,12 +4105,12 @@ And I don't see a nickel!
  :
 Sometimes I just feel
 like a piece of meat!
-BARRY:
+Craig:
 I had no idea.
 VANESSA:
-Barry, I'm sorry.
+Craig, I'm sorry.
 Have you got a moment?
-BARRY:
+Craig:
 Would you excuse me?
 My mosquito associate will help you.
 MOOSEBLOOD:
@@ -4065,19 +4124,19 @@ All I needed was a briefcase.
 VANESSA:
 Have a great afternoon!
  :
-Barry, I just got this huge tulip order,
+Craig, I just got this huge tulip order,
 and I can't get them anywhere.
-BARRY:
+Craig:
 No problem, Vannie.
 Just leave it to me.
 VANESSA:
-You're a lifesaver, Barry.
+You're a lifesaver, Craig.
 Can I help who's next?
-BARRY:
+Craig:
 All right, scramble, jocks!
 It's time to fly.
 VANESSA:
-Thank you, Barry!
+Thank you, Craig!
 (Ken walks by on the sidewalk and sees the "bee-approved honey" in
 Vanessa's shop)
 KEN:
@@ -4088,15 +4147,15 @@ KEN:
 - When will this nightmare end?!
 ANDY:
 - Let it all go.
-BARRY:
+Craig:
 - Beautiful day to fly.
 POLLEN JOCK:
 
 - Sure is.
-BARRY:
+Craig:
 Between you and me,
 I was dying to get out of that office.
-(Barry recreates the scene near the beginning of the movie where he flies
+(Craig recreates the scene near the beginning of the movie where he flies
 through the box kite. The movie fades to black and the credits being)
 [--after credits; No scene can be seen but the characters can be heard
 talking over the credits--]
@@ -4105,7 +4164,7 @@ to start thinking bee, my friend!
  :
 - Thinking bee!
 - Me?
-BARRY:
+Craig:
 (Talking over singer)
 Hold it. Let's just stop
 for a second. Hold it.
@@ -4113,13 +4172,13 @@ for a second. Hold it.
 I'm sorry. I'm sorry, everyone.
 Can we stop here?
 SINGER:
-Oh, BarryBARRY:
+Oh, CraigCraig:
 I'm not making a major life decision
 during a production number!
 SINGER:
 All right. Take ten, everybody.
 Wrap it up, guys.
-BARRY:
+Craig:
 I had virtually no rehearsal for that.
 
 
