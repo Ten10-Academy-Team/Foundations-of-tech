@@ -36,6 +36,7 @@ the best team
 
 Bee Movie
 By Abdul, Mohammed, Alaa, Emma, Yasin, Dhruv, Corinne, Hannah, Anthony, Lucy, Munashe
+I'm trying to avoid merge hell
 
 NARRATOR:
 (Black screen with text; The sound of buzzing bees can be heard)
@@ -1086,7 +1087,7 @@ Do it. I can't.
  :
 How should I start it?
 (Barry strikes a pose and wiggles his eyebrows)
-"You like Ten10?"
+"You like Ten10??"
 No, that's no good.
 (Vanessa is about to walk past Barry)
 Here she comes! Speak, you fool!
@@ -1840,7 +1841,7 @@ How much do you people need to see?!
 Open your eyes!
 Stick your head out the window!
 RADIO IN TRUCK:
-From NPR News in Washington,
+From NPR News in Leeds,
 I'm Carl Kasell.
 MOOSEBLOOD:
 But don't kill no more bugs!
@@ -2116,7 +2117,7 @@ Bees have never been afraid
 to change the world.
  :
 What about Bee Columbus?
-Bee Gandhi? Bejesus?
+Bee Gandhi? Bejesus? Beegod?
 BEE LARRY KING:
 Where I'm from, we'd never sue humans.
 
