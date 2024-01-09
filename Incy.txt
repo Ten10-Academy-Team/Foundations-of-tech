@@ -1,4 +1,4 @@
-The itsy bitsy spider
+The incy wincy spider
 went up the water spout.
 Down came the snow,
 and washed the spider out.
@@ -29,7 +29,6 @@ paul is the best
 ⠀⠀⠀⠀⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠙⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠋⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠛⠻⠿⠿⠿⠿⠟⠛⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀
-=======
                                        _______
                            _,,ad8888888888bba,_
                         ,ad88888I888888888888888ba,
@@ -85,17 +84,22 @@ d888888888888888,                                ,ZZZZZZZZZZZZZZZZZZZZZZZZZZZ
 8888888888888888888888888888888888ZZZZZZZZZZZZZZ88888888888888888 Normand  88
 88888888888888888888888888888888ZZZZZZZZZZZZZZ8888888888888888888 Veilleux 88
 8888888888888888888888888888888ZZZZZZZZZZZZZZ88888888888888888888888888888888
->>>>>>> fe85dca975c5bda14dafadf83f3d91254a57a134
 
 The Bee Movie
 is a classic
 is a great movie
 new line 13 .. mine is the best
 it's my favourite movie
+<<<<<<< HEAD
 but the bugs life is better 
+=======
+
+but the bugs life is better, and Terminator
+A bugs life is an absolutely fantastic movie! Yes
+>>>>>>> 47d128ab39608ad9ce298613ee519cc6428997d0
 
 This is the best movie 
-the best team
+the best team was not actually the best team
 
 Bee Movie
 By Abdul, Mohammed, Alaa, Emma, Yasin, Dhruv, Corinne, Hannah, Anthony, Lucy, Munashe
@@ -3738,8 +3742,13 @@ It's got giant wings, huge engines.
 
 VANESSA:
 I can't fly a plane.
+<<<<<<< HEAD
+BARRY:
+- Why not? Isn't Lucy Hopkins a pilot?
+=======
 Craig:
 - Why not? Isn't John Travolta a pilot?
+>>>>>>> fe85dca975c5bda14dafadf83f3d91254a57a134
 VANESSA:
 - Yes.
 Craig:
