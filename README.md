@@ -1,4 +1,4 @@
 Mission Restore the Readme
 
 
-Insert cool gif and info about gif*
+Insert cool gif and info about git*
