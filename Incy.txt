@@ -6,7 +6,7 @@ Out came the sun,
 and dried up all the rain.
 So, the itsy bitsy spider
 went up the spout again.
-
+paul is the best
  ||  ||  
  \\()// 
 //(__)\\
@@ -3722,8 +3722,13 @@ It's got giant wings, huge engines.
 
 VANESSA:
 I can't fly a plane.
+<<<<<<< HEAD
+BARRY:
+- Why not? Isn't Lucy Hopkins a pilot?
+=======
 Craig:
 - Why not? Isn't John Travolta a pilot?
+>>>>>>> fe85dca975c5bda14dafadf83f3d91254a57a134
 VANESSA:
 - Yes.
 Craig:
