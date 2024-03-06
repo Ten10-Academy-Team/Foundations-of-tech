@@ -7,4 +7,9 @@ and dried up all the rain.
 So, the itsy bitsy spider
 went up the spout again.
 
+<<<<<<< HEAD
 Incy went to the shops
+=======
+Incy went to the shops
+And went home again
+>>>>>>> 628d2e346e80c9111d9eadae9e0bbed8dc90860e
