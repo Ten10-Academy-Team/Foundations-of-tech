@@ -31,7 +31,7 @@ And went home again
 itsy bitsy
 Incy went to the shop. 
 
-<<<<<<< HEAD
+
 Incy went to the shops
 And went home again
 
@@ -101,12 +101,8 @@ hi from the 2nd table
 ⠈⠈⣿⣟⣿⣿⣿⣿⣿⣿⣿⣿⣽⣉⡉⠉⠈⠁⠄⠁⠄⠄⠄⠄⡂⠄⠄⠄⠄⠄
 ⠄⠄⠙⣿⣿⠿⣿⣿⣿⣿⣷⡤⠈⠉⠉⠁⠄⠄⠄⠄⠄⠄⠄⠠⠔⠄⠄⠄⠄⠄
 ⠄⠄⠄⡈⢿⣷⣿⣿⢿⣿⣿⣷⡦⢤⡀⠄⠄⠄⠄⠄⠄⢐⣠⡿⠁⠄⠄⠄⠄⠄
-<<<<<<< HEAD
 
 
 
-!&*^
 
-
-%^&%%$
 
