@@ -9,11 +9,11 @@ So, the itsy bitsy spider
 went up the spout again.
 
 
-<<<<<<< HEAD
+
 Incy went to the shops
 Incy went to the shops
 And went home again
-=======
+
 itsy bitsy
 Incy went to the shop. 
 Incy went to the shops
