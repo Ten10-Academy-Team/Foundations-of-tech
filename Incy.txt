@@ -9,15 +9,33 @@ So, the itsy bitsy spider
 went up the spout again.
 
 
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+itsy went to the shops
+=======
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1be2ab9ed744c5c115d3dca77c24a01d21905e4c
+>>>>>>> d5381318d1595aa56de051d242acc7ea2791879c
 Incy went to the shops
 Incy went to the shops
 And went home again
 
 itsy bitsy
 Incy went to the shop. 
+<<<<<<< HEAD
 Incy went to the shops
 And went home again
+=======
+>>>>>>> 647b3e0710ffac6c73aeebdbab34c1a1fc9b53a7
+Incy went to the shops
+And went home again
+And got in the bath
+>>>>>>> d5381318d1595aa56de051d242acc7ea2791879c
 
 ⠀⠀⠀⠀⠀⠀⠀⠐⠒⠒⠢⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⡄⠀⠀⠀⠀⠀⠀⢠⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -52,7 +70,13 @@ And went home again
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⡇⠀⠀⠀⠀⠀⠀⢙⣛⣿⠁⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣧⠀⠀⠀⠀⠀⠀⢸⠷⢿⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣧⣻⣦⡀⠀⠀⠀⠛⢛⠟⠀⠀⠀
+<<<<<<< HEAD
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠡⠤⠤⠄⠀⠠⠶⠁⠀⠀⠀⠀
+=======
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠡⠤⠤⠄⠀⠠⠶⠁⠀⠀⠀
+
+The second table is the best table, word!⠀
+>>>>>>> d5381318d1595aa56de051d242acc7ea2791879c
 
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⠟⠫⢻⣿⣿⣿⣿⢟⣩⡍⣙⠛⢛⣿⣿⣿⠛⠛⠛⠛⠻⣿⣿⣿⣿⣿⡿⢿⣿
@@ -69,5 +93,10 @@ And went home again
 ⠈⠈⣿⣟⣿⣿⣿⣿⣿⣿⣿⣿⣽⣉⡉⠉⠈⠁⠄⠁⠄⠄⠄⠄⡂⠄⠄⠄⠄⠄
 ⠄⠄⠙⣿⣿⠿⣿⣿⣿⣿⣷⡤⠈⠉⠉⠁⠄⠄⠄⠄⠄⠄⠄⠠⠔⠄⠄⠄⠄⠄
 ⠄⠄⠄⡈⢿⣷⣿⣿⢿⣿⣿⣷⡦⢤⡀⠄⠄⠄⠄⠄⠄⢐⣠⡿⠁⠄⠄⠄⠄⠄
+<<<<<<< HEAD
 
 !&*^
+=======
+>>>>>>> d5381318d1595aa56de051d242acc7ea2791879c
+
+%^&%%$
