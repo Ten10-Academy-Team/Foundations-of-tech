@@ -8,19 +8,28 @@ and dried up all the rain.
 So, the itsy bitsy spider
 went up the spout again.
 
+incy bought candy
+
 
 <<<<<<< HEAD
 
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
-itsy went to the shops
-=======
 <<<<<<< HEAD
 =======
 
->>>>>>> 1be2ab9ed744c5c115d3dca77c24a01d21905e4c
+=======
 >>>>>>> d5381318d1595aa56de051d242acc7ea2791879c
+>>>>>>> 1be2ab9ed744c5c115d3dca77c24a01d21905e4c
+<<<<<<< HEAD
+>>>>>>> d5381318d1595aa56de051d242acc7ea2791879c
+=======
+=======
+itsy went to the shops
+
+>>>>>>> 6175d6e42bdae8f3a0e56bc3942bbf09b4d54c2a
+>>>>>>> 6bdea9087f96c7ae9a313b23ae9eb0addf189add
 Incy went to the shops
 Incy went to the shops
 And went home again
@@ -78,6 +87,11 @@ And got in the bath
 The second table is the best table, word!⠀
 >>>>>>> d5381318d1595aa56de051d242acc7ea2791879c
 
+<<<<<<< HEAD
+
+hi from the 2nd table
+
+=======
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⠟⠫⢻⣿⣿⣿⣿⢟⣩⡍⣙⠛⢛⣿⣿⣿⠛⠛⠛⠛⠻⣿⣿⣿⣿⣿⡿⢿⣿
 ⣿⠤⠄⠄⠙⢿⣿⣿⣿⡿⠿⠛⠛⢛⣧⣿⠇⠄⠂⠄⠄⠄⠘⣿⣿⣿⣿⠁⠄⢻
@@ -94,9 +108,13 @@ The second table is the best table, word!⠀
 ⠄⠄⠙⣿⣿⠿⣿⣿⣿⣿⣷⡤⠈⠉⠉⠁⠄⠄⠄⠄⠄⠄⠄⠠⠔⠄⠄⠄⠄⠄
 ⠄⠄⠄⡈⢿⣷⣿⣿⢿⣿⣿⣷⡦⢤⡀⠄⠄⠄⠄⠄⠄⢐⣠⡿⠁⠄⠄⠄⠄⠄
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 !&*^
 =======
 >>>>>>> d5381318d1595aa56de051d242acc7ea2791879c
 
 %^&%%$
+=======
+>>>>>>> 1be2ab9ed744c5c115d3dca77c24a01d21905e4c
+>>>>>>> 6bdea9087f96c7ae9a313b23ae9eb0addf189add
