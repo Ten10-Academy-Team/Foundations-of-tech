@@ -8,13 +8,14 @@ So, the itsy bitsy spider
 went up the spout again.
 
 Make it rain
-Incy Wincy loved Git so much
-It Pushes, It Pulls, Commiting is it's thing.
-Incy prefers Git over subversion, as it is the main one! 
 
 This is a lovely story 
 
 thanks for reading 
+
+Incy Wincy loved Git so much
+It Pushes, It Pulls, Commiting is it's thing.
+Incy prefers Git over subversion, as it is the main one! 
 
 
 
