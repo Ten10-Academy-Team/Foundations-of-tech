@@ -7,11 +7,14 @@ and dried up all the rain.
 So, the itsy bitsy spider
 went up the spout again.
 
+WE ARE GROUP 3
+WE ARE GROUP 3
+WE ARE GROUP 3
 Make it rain
 
 This is a lovely story 
 
-thanks for reading 
+thanks for reading and listening
 
 Incy Wincy loved Git so much
 It Pushes, It Pulls, Commiting is it's thing.
@@ -21,6 +24,7 @@ Shennah was here. :)
 
 
 Never going to give you up! Never going to let you down
+Like Jungle? Sure Thing!
 
 Let's work together people 
 Group 1 has been here HA HA HA
@@ -32,9 +36,21 @@ brother errrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
 
 Who let the dogs out
 
+<<<<<<< HEAD
 Lord has been here!!
 <<<<<<< HEAD
 =======
+=======
+
+
+Please visit us again in
+
+
+
+
+
+
+>>>>>>> 0ee5d4a51fe182a29368b6c4d2162a9aff9cf289
 
 
 
@@ -45,7 +61,7 @@ This code must have been written by the british empire cus of all this conflict
 
 
 
-I am José Mourinho
+I am José Mourinho,
 
 
 
@@ -60,443 +76,7 @@ I am José Mourinho
 
 Catch me if you can
 
-K
+Khadijah is not funny 
 
 
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> bd87b9635aa38bc19f5fa88a13d0f81bcdaa012a
->>>>>>> 029481aebfb1b00e9669995b3011d9338ee72e5e
-
-
-
-
-
-
-
-
-
-
-
-
-
-<<<<<<< HEAD
-https://www.youtube.com/watch?v=D2_r4q2imnQ
-=======
-So no one likes jazz?
->>>>>>> bcba37d3945e477edc9e067cfae149c8f0fdf6f0
-=======
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Meep Meep
->>>>>>> bd87b9635aa38bc19f5fa88a13d0f81bcdaa012a
