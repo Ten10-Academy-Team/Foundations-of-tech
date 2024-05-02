@@ -7,11 +7,14 @@ and dried up all the rain.
 So, the itsy bitsy spider
 went up the spout again.
 
+WE ARE GROUP 3
+WE ARE GROUP 3
+WE ARE GROUP 3
 Make it rain
 
 This is a lovely story 
 
-thanks for reading 
+thanks for reading and listening
 
 Incy Wincy loved Git so much
 It Pushes, It Pulls, Commiting is it's thing.
@@ -21,6 +24,7 @@ Shennah was here. :)
 
 
 Never going to give you up! Never going to let you down
+Like Jungle? Sure Thing!
 
 Let's work together people 
 Group 1 has been here HA HA HA
@@ -33,8 +37,17 @@ brother errrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
 Who let the dogs out
 
 
-<<<<<<< HEAD
-=======
+Lord has been here!!
+
+
+
+Please visit us again in
+
+
+
+
+
+
 
 
 
@@ -43,6 +56,9 @@ Who let the dogs out
 
 This code must have been written by the british empire cus of all this conflict
 
+
+
+I am José Mourinho,
 
 
 
@@ -57,10 +73,11 @@ This code must have been written by the british empire cus of all this conflict
 
 Catch me if you can
 
-K
+Khadijah is not funny 
 
 
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -506,3 +523,5 @@ It's giving commitment
 Meep Meep
 >>>>>>> bd87b9635aa38bc19f5fa88a13d0f81bcdaa012a
 >>>>>>> 947cdfa0547191d813ef9614ad95719a6e352cb3
+=======
+>>>>>>> f5d6fd7d0620ccdd995b033eed736a6bb02859b7
