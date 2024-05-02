@@ -19,12 +19,18 @@ Incy prefers Git over subversion, as it is the main one!
 
 Like Jungle?
 
+<<<<<<< HEAD
+Never going to give you up! Never going to let you down
+
+Let's work together people 
+=======
 Group 1 has been here HA HA HA
 
 
 BRUUUUUUUHHHHHHHHHHH
 
 brother errrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+>>>>>>> bd87b9635aa38bc19f5fa88a13d0f81bcdaa012a
 
 
 
@@ -53,7 +59,7 @@ brother errrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
 
 Catch me if you can
 
-Khadijah is not funny 
+K
 
 
 
