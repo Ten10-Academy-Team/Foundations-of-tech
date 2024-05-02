@@ -36,6 +36,11 @@ brother errrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
 
 Who let the dogs out
 
+<<<<<<< HEAD
+Lord has been here!!
+<<<<<<< HEAD
+=======
+=======
 
 <<<<<<< HEAD
 I AM AMAZINGGG -KHADZ
@@ -52,6 +57,7 @@ Please visit us again in
 
 
 
+>>>>>>> 0ee5d4a51fe182a29368b6c4d2162a9aff9cf289
 
 
 
