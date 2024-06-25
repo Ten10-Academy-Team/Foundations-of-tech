@@ -1,3 +1,4 @@
+hi!
 Itsy bitsy spider
 went up the water spout.
 Down came the rain,
@@ -7,6 +8,8 @@ and dried up all the rain.
 So, the itsy bitsy spider
 went up the spout again.
 
+according to someone
+you need bug spray.
 acording to someone
 who was very unwise
 
@@ -65,5 +68,8 @@ here as well
 who was very unwise
 
 Rules of the push
+<<<<<<< HEAD
 
 hellooolsldkmdms
+=======
+>>>>>>> 9fa9540f40359b40ed920456e1d0228ae91da4e9
