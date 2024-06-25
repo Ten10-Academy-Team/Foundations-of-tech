@@ -135,7 +135,3 @@ here as well
 who was very unwise
 
 Rules of the push
-<<<<<<< HEAD
-
-=======
->>>>>>> 9fa9540f40359b40ed920456e1d0228ae91da4e9
