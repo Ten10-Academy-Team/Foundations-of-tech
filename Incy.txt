@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 God Save our gracious King!
 Long live our noble King,
 God save the King!
@@ -236,4 +235,3 @@ nkdnsdnocdssdojsdis
       /o`.-'  / \  `-.`o\
      /o  o\ .'   `. /o  o\
      `.___.'       `.___.'
->>>>>>> 0309b9ae2ce8ed3d15150eb97e96949fa9be7e62
