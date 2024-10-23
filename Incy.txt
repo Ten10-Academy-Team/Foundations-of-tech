@@ -6,6 +6,10 @@ And washed poor Incy
 
 
 Hack Hack
+
+This is a conflicting change
+ 
+GROUP 1 - Who is excited for the party?
 hump day 
 This is a conflicting change 
 table 3 is the best!!!
@@ -60,10 +64,6 @@ sample edit grp 2
 
 group 1 was here
 
-I am hungry
-ParoGoated
-
-new commit !
 ParoGoated
 
 new commit !
