@@ -6,16 +6,25 @@ And washed poor Incy
 What times lunch???
 
 Hack Hack
+<<<<<<< HEAD
+hump day
+Wednesday
+=======
 
 This is a conflicting change
  
 GROUP 1 - Who is excited for the party?
 hump day 
+>>>>>>> 498102d4af86d341a25ff481a58d375d8bc6cd68
 This is a conflicting change 
 table 3 is the best!!!
 
 Halloween Prmo text - Leeds Office
+<<<<<<< HEAD
+ello ello 
+=======
 I think it's only fair for group to be listed first!!!
+>>>>>>> 351e06545e3bcb155519270fc99133c0362fa7a7
 Group 2
 Is there gonna be pizza?
 
@@ -56,7 +65,7 @@ meow meow meow
 
 I am sleepy
 
-
+back row
 sample edit grp 2
 
 
