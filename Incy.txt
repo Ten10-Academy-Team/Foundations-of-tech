@@ -1,11 +1,14 @@
 Incy Wincy spider
 Climbed up the water spout
 Down came the rain
-And washed poor Incy out
+And washed poor Incy 
+
+
 
 Hack Hack
 
 This is a conflicting change 
+table 3 is the best!!!
 
 Halloween Prmo text - Leeds Office
 
@@ -41,6 +44,9 @@ Tie me kangaroo down boy
 ⠀⠈⣿⣧⡀⠀⠀⣠⣿⣷⠟⢻⣿⣷⡾⠛⠉⠀⠀⠀⠀⢀⣿⠀
 ⠀⠀⢹⣿⢻⣦⡀⠉⠛⠛⠛⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⣼⠏⠀
 ⠀⠀⠀⠛⠀⠈⠻⠷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⠟⠀⠀
+<<<<<<< HEAD
 
 
 sample edit grp 2
+=======
+>>>>>>> 90ede9bc18f8b5808d3737d85a0ed64a9c413fe2
