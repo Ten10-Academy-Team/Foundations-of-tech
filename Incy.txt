@@ -6,7 +6,7 @@ And washed poor Incy
 
 
 Hack Hack
-
+hump day 
 This is a conflicting change 
 table 3 is the best!!!
 
@@ -53,3 +53,8 @@ group 1 was here
 
 I am hungry
 ParoGoated
+<<<<<<< HEAD
+
+new commit !
+=======
+>>>>>>> 6796f1f2dfad564023e2029a82fdd45806e19ad5
