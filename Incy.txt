@@ -13,11 +13,8 @@ This is a conflicting change
 table 3 is the best!!!
 
 Halloween Prmo text - Leeds Office
-<<<<<<< HEAD
 ello ello 
-=======
 I think it's only fair for group to be listed first!!!
->>>>>>> 351e06545e3bcb155519270fc99133c0362fa7a7
 Group 2
 Is there gonna be pizza?
 
