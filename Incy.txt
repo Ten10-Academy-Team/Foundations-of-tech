@@ -53,8 +53,6 @@ group 1 was here
 
 jacob was here
 ParoGoated
-<<<<<<< HEAD
 
 new commit !
-=======
->>>>>>> 6796f1f2dfad564023e2029a82fdd45806e19ad5
+fejhf
