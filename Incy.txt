@@ -1,7 +1,9 @@
 Incy Wincy spider
 Climbed up the water spout
 Down came the rain
-And washed poor Incy out
+And washed poor Incy 
+
+
 
 Hack Hack
 
@@ -42,7 +44,10 @@ Tie me kangaroo down boy
 ⠀⠈⣿⣧⡀⠀⠀⣠⣿⣷⠟⢻⣿⣷⡾⠛⠉⠀⠀⠀⠀⢀⣿⠀
 ⠀⠀⢹⣿⢻⣦⡀⠉⠛⠛⠛⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⣼⠏⠀
 ⠀⠀⠀⠛⠀⠈⠻⠷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⠟⠀⠀
+<<<<<<< HEAD
 
 
 
 group 1 was here
+=======
+>>>>>>> 90ede9bc18f8b5808d3737d85a0ed64a9c413fe2
