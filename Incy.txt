@@ -13,11 +13,10 @@ Halloween Prmo text - Leeds Office
 Group 2
 Is there gonna be pizza?
 
-<<<<<<< HEAD
-I wonder what kind of pizza
-=======
+Group 4:
+We hangry
+
 Tie me kangaroo down boy
->>>>>>> e060ffa6cce69cae4389f55db5fb08a81edbd8c3
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣤⣶⠶⠶⣶⣤⣤⡀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⢀⣴⠾⠛⠉⠀⢠⣾⣴⡾⠛⠻⣷⣄⠀⠀⠀⠀⠀
