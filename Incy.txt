@@ -7,8 +7,9 @@ And washed poor Incy
 
 Hack Hack
 
-This is a conflicting change 
-table 3 is the best!!!
+This is a conflicting change
+ 
+GROUP 1 - Who is excited for the party?
 
 Halloween Prmo text - Leeds Office
 
@@ -44,10 +45,7 @@ Tie me kangaroo down boy
 ⠀⠈⣿⣧⡀⠀⠀⣠⣿⣷⠟⢻⣿⣷⡾⠛⠉⠀⠀⠀⠀⢀⣿⠀
 ⠀⠀⢹⣿⢻⣦⡀⠉⠛⠛⠛⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⣼⠏⠀
 ⠀⠀⠀⠛⠀⠈⠻⠷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⠟⠀⠀
-<<<<<<< HEAD
 
 
 
 group 1 was here
-=======
->>>>>>> 90ede9bc18f8b5808d3737d85a0ed64a9c413fe2
