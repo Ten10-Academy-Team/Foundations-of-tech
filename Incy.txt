@@ -1,9 +1,7 @@
 Incy Wincy spider
 Climbed up the water spout
 Down came the rain
-And washed poor Incy 
-
-What times lunch???
+And washed poor Incy out What times lunch???
 
 Hack Hack
 <<<<<<< HEAD
@@ -21,10 +19,13 @@ table 3 is the best!!!
 
 Halloween Prmo text - Leeds Office
 <<<<<<< HEAD
+<<<<<<< HEAD
 ello ello ell
 =======
+=======
+ello ello 
+>>>>>>> 73ebed953d95cdfd3f60a48f42a8fd1da9208dee
 I think it's only fair for group to be listed first!!!
->>>>>>> 351e06545e3bcb155519270fc99133c0362fa7a7
 Group 2
 Is there gonna be pizza?
 
@@ -73,6 +74,11 @@ sample edit grp 2
 
 group 1 was here
 
+I am hungry
+ParoGoated
+
+pineapple pizza
+new commit !
 ParoGoated
 
 new commit !
