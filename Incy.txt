@@ -44,10 +44,9 @@ Tie me kangaroo down boy
 ⠀⠈⣿⣧⡀⠀⠀⣠⣿⣷⠟⢻⣿⣷⡾⠛⠉⠀⠀⠀⠀⢀⣿⠀
 ⠀⠀⢹⣿⢻⣦⡀⠉⠛⠛⠛⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⣼⠏⠀
 ⠀⠀⠀⠛⠀⠈⠻⠷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⠟⠀⠀
-<<<<<<< HEAD
 
 
 
 group 1 was here
-=======
->>>>>>> 90ede9bc18f8b5808d3737d85a0ed64a9c413fe2
+
+jacob was here
