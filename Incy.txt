@@ -4,11 +4,16 @@ Down came the rain
 And washed poor Incy out What times lunch???
 
 Hack Hack
+<<<<<<< HEAD
+hump day
+Wednesday
+=======
 
 This is a conflicting change
  
 GROUP 1 - Who is excited for the party?
 hump day 
+>>>>>>> 498102d4af86d341a25ff481a58d375d8bc6cd68
 This is a conflicting change 
 table 3 is the best!!!
 
