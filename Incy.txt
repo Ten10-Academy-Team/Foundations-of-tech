@@ -17,9 +17,6 @@ Is there gonna be pizza?
 group 1 goated
 Tie me kangaroo down boy
 
-<<<<<<< HEAD
-new commit
-=======
 ⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣤⣶⠶⠶⣶⣤⣤⡀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⢀⣴⠾⠛⠉⠀⢠⣾⣴⡾⠛⠻⣷⣄⠀⠀⠀⠀⠀
 ⠀⠀⢶⣶⣶⣿⣁⠀⠀⠀⠀⢸⣿⠏⢀⣤⣶⣌⠻⣦⡀⠀⠀⠀
@@ -53,4 +50,5 @@ I am sleepy
 
 group 1 was here
 ParoGoated
->>>>>>> fb8106473aa83b37fe9b5dc682c05bba36d8c74d
+
+new commit 
