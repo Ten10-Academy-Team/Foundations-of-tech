@@ -9,4 +9,8 @@ This is a conflicting change
 
 Is there gonna be pizza?
 
+<<<<<<< HEAD
 I wonder what kind of pizza
+=======
+Tie me kangaroo down boy
+>>>>>>> e060ffa6cce69cae4389f55db5fb08a81edbd8c3
