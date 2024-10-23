@@ -44,9 +44,13 @@ Tie me kangaroo down boy
 ⠀⠈⣿⣧⡀⠀⠀⣠⣿⣷⠟⢻⣿⣷⡾⠛⠉⠀⠀⠀⠀⢀⣿⠀
 ⠀⠀⢹⣿⢻⣦⡀⠉⠛⠛⠛⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⣼⠏⠀
 ⠀⠀⠀⠛⠀⠈⠻⠷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⠟⠀⠀
-<<<<<<< HEAD
+
 
 
 sample edit grp 2
-=======
->>>>>>> 90ede9bc18f8b5808d3737d85a0ed64a9c413fe2
+
+
+
+
+group 1 was here
+
