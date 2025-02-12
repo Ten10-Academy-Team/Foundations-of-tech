@@ -3,6 +3,7 @@ Climbed up the water spout
 Down came the rain
 And washed poor Incy out
 Out came the sun and
+Dried up all the rain
 
 Hack hack hack 
 changes
@@ -13,10 +14,7 @@ some Change
 Changes
 Changes tables 2 
 
-<<<<<<< HEAD
-ridwaan
-=======
 additional changes - David
 Malik here
 Changes Moh
->>>>>>> 2a23438459249dd8020c48544eb5022ccd2eba74
+ridwaan
