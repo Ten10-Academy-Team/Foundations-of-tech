@@ -6,6 +6,7 @@ And washed poor Incy out
 Out came the sun and
 Dried up all the rain
 And Incy Wincy spider
+Climbed up the spout again
 
 Hack hack hack 
 changes
@@ -15,6 +16,7 @@ more hack
 some Change
 Changes
 Changes tables 2 
+hacking 
 
 WHO'S READY FOR PIZZA‽
 
@@ -28,5 +30,6 @@ print 'matts code now'
 
 Ewan's change 
 AJ here 
+
 
 changee
