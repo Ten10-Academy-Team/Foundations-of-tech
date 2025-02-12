@@ -13,4 +13,10 @@ some Change
 Changes
 Changes tables 2 
 
+<<<<<<< HEAD
 ridwaan
+=======
+additional changes - David
+Malik here
+Changes Moh
+>>>>>>> 2a23438459249dd8020c48544eb5022ccd2eba74
