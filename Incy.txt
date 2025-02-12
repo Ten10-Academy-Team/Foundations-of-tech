@@ -44,6 +44,25 @@ Message by Chiss
 
 
 
+Message by Chiss
+
+People will never stop making changes at the same time as you.
+New Ridwaan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -74,10 +93,3 @@ Hello?
 - Adam?
 - Oan you believe this is happening?
 - I can't. I'll pick you up.
-<<<<<<< HEAD
-=======
-Message by Chiss
->>>>>>> 4b80fa67cf49abd7ee8cc084f5aa7e99d09ba58e
-
-People will never stop making changes at the same time as you.
-New Ridwaan
