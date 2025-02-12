@@ -2,10 +2,11 @@
 (Non Conflicting Change :D)Incy Wincy spider
 Climbed up the water spout
 Down came the rain
-And washed poor Incy out
+And washed poor Aleksandra out
 Out came the sun and
 Dried up all the rain
 And Incy Wincy spider
+Climbed up the spout again
 
 Hack hack hack 
 changes
@@ -16,8 +17,9 @@ some Change
 Changes
 Changes tables 2 
 laptop
+hacking 
 
-WHO'S READY FOR PIZZA‽
+WHO'S READY FOR PIZZA‽ (INCY IS)
 
 Sami is the best
 additional changes - David
@@ -29,3 +31,6 @@ print 'matts code now'
 
 Ewan's change 
 AJ here 
+
+
+changee
