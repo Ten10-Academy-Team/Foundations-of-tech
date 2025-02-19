@@ -1,12 +1,10 @@
 Academy 38 Poem
-<<<<<<< HEAD
 Today we all built bridges,
 You would think we were here for engineering,
 BO BO BO 
 HIT THE ROLLY STORE WITH THE ROLLIE ON
 WHAT WAS OUR GET AWAY CAR? 
 JAG PORTFOLIO
-=======
 
 Matt is terrible at writing
 He cannot rhyme
@@ -17,4 +15,3 @@ A bit of quality
 A bit of rhyme
 A bit of integrity
 A bit of thyme
->>>>>>> 01717d49b9f5bec6a48e65fc7880a9bd82d468ba
