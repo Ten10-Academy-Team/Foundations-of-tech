@@ -1,11 +1,41 @@
 Incy wincy spider
 Climbed up the water spout
 Down came the rain and
+<<<<<<< HEAD
 Washed the spider out 
 hi im Incy
+<<<<<<< HEAD
 are you?
 ******
 You think incy wincy spider cared about the rain?
 Nah, it climbed the spout again
 Lock in.
 ******
+=======
+Let's go boys
+are you?
+don't u just love git???
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+slooooooow
+=======
+<<<<<<< HEAD
+Washed the spider out 
+How could the sunshine 
+=======
+don't u just love git???
+>>>>>>> 28738a653a57f996a8cb702fe02cf594b86cde49
+>>>>>>> 0770353f091bbb0c65f58c758b61c920911b4a33
+>>>>>>> 5597628201fa65e74f08979cf4fd7b2bf2b60955
