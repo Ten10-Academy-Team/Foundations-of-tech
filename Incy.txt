@@ -37,6 +37,10 @@ How could the sunshine
 =======
 don't u just love git???
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+washed the sider out
+>>>>>>> a8c98d144af353c7b0914a8a821fb0321f755bb8
 =======
 >>>>>>> 28738a653a57f996a8cb702fe02cf594b86cde49
 <<<<<<< HEAD
