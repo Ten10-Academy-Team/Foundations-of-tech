@@ -1,5 +1,13 @@
 Incy wincy spider
 Climbed up the water spout
 Down came the rain and
+<<<<<<< HEAD
+Washed the spider out 
+How could the sunshine 
+=======
 don't u just love git???
+<<<<<<< HEAD
 washed the sider out
+=======
+>>>>>>> 28738a653a57f996a8cb702fe02cf594b86cde49
+>>>>>>> 0770353f091bbb0c65f58c758b61c920911b4a33
