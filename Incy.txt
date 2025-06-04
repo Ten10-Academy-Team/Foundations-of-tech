@@ -60,12 +60,10 @@ washed the sider out
 spiders
 =======
 >>>>>>> 0770353f091bbb0c65f58c758b61c920911b4a33
-<<<<<<< HEAD
-=======
 >>>>>>> 5597628201fa65e74f08979cf4fd7b2bf2b60955
-<<<<<<< HEAD
->>>>>>> a8c98d144af353c7b0914a8a821fb0321f755bb8
-=======
 >>>>>>> 8a0459385d5d428c7da862cfcd7ed8f41214c32b
+<<<<<<< HEAD
 >>>>>>> c53c5accc0d562b7ae4a02f6f630b23db54cf1b0
 >>>>>>> e0b392f08e0822f41b0134e211f13c15d15b95ee
+=======
+>>>>>>> 56b813dd821c052af77c49dc83c6812fbed61f3b
