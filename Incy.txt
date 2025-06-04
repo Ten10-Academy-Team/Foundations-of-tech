@@ -3,6 +3,14 @@ Climbed up the water spout
 Down came the rain and
 <<<<<<< HEAD
 Washed the spider out 
+<<<<<<< HEAD
+<<<<<<< HEAD
+hi im Incy
+are you?
+Make sure to drink water - IO
+
+=======
+=======
 hi im Incy
 <<<<<<< HEAD
 are you?
@@ -15,7 +23,7 @@ Lock in.
 Let's go boys
 are you?
 don't u just love git???
-
+Under water
 
 
 
@@ -33,6 +41,7 @@ slooooooow
 =======
 <<<<<<< HEAD
 Washed the spider out 
+>>>>>>> a8c98d144af353c7b0914a8a821fb0321f755bb8
 How could the sunshine 
 =======
 don't u just love git???
