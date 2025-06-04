@@ -1,33 +1,34 @@
-Incy wincy spider
+Itsy Bitsy spider
 Climbed up the water spout
 Down came the rain and
-<<<<<<< HEAD
+
 Washed the spider out 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 hi im Incy
 are you?
-<<<<<<< HEAD
+
 Hi my name is Kareemah
-=======
+
 Make sure to drink water - IO
 
-=======
-=======
 hi im Incy
-<<<<<<< HEAD
+
 are you?
-******
+
 You think incy wincy spider cared about the rain?
 Nah, it climbed the spout again
 Lock in.
-******
-=======
+
 Let's go boys
 are you?
 don't u just love git???
+<<<<<<< HEAD
 Under water
 practice 
+=======
+
+hey its dom
+>>>>>>> 05dd3a8881bae935363a629885fa0ecd911a67e2
 
 
 
@@ -41,29 +42,10 @@ practice
 
 
 slooooooow
-=======
-<<<<<<< HEAD
+
 Washed the spider out 
->>>>>>> a8c98d144af353c7b0914a8a821fb0321f755bb8
+
 How could the sunshine 
-=======
+
 don't u just love git???
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-washed the sider out
->>>>>>> a8c98d144af353c7b0914a8a821fb0321f755bb8
-=======
->>>>>>> 28738a653a57f996a8cb702fe02cf594b86cde49
-<<<<<<< HEAD
->>>>>>> 0770353f091bbb0c65f58c758b61c920911b4a3
-spiders
-=======
->>>>>>> 0770353f091bbb0c65f58c758b61c920911b4a33
->>>>>>> 5597628201fa65e74f08979cf4fd7b2bf2b60955
->>>>>>> 8a0459385d5d428c7da862cfcd7ed8f41214c32b
-<<<<<<< HEAD
->>>>>>> c53c5accc0d562b7ae4a02f6f630b23db54cf1b0
->>>>>>> e0b392f08e0822f41b0134e211f13c15d15b95ee
-=======
->>>>>>> 56b813dd821c052af77c49dc83c6812fbed61f3b
+
