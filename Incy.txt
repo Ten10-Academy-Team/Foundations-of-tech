@@ -22,14 +22,10 @@ Lock in.
 Let's go boys
 are you?
 don't u just love git???
-<<<<<<< HEAD
-Under water
-practice 
-=======
 
 hey its dom
->>>>>>> 05dd3a8881bae935363a629885fa0ecd911a67e2
-
+ 
+ hey im alina
 
 
 
