@@ -8,7 +8,7 @@ hi im Incy
 are you?
 
 Hi my name is Kareemah
-
+only practice
 Make sure to drink water - IO
 
 hi im Incy
@@ -22,13 +22,8 @@ Lock in.
 Let's go boys
 are you?
 don't u just love git???
-<<<<<<< HEAD
 Under water
 practice 
-=======
-
-hey its dom
->>>>>>> 05dd3a8881bae935363a629885fa0ecd911a67e2
 
 
 
@@ -48,4 +43,7 @@ Washed the spider out
 How could the sunshine 
 
 don't u just love git???
-
+a gentle breeze begins to blow 
+whispering secrets, soft and low
+the moon ascends, a silver gleam
+lost in a peaceful, waking dream 
