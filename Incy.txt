@@ -1,6 +1,9 @@
 an itsy bitsy spider
 down came the rain And
 washed the spider out
+How could AK walk in the rain?
+an itsy bitsy spider never had 
+the same fun again...
 
-KEEP YOUR API_KEY IN YOUR .ENV FILE 
+ 
 
