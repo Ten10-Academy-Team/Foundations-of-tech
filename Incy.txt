@@ -8,15 +8,18 @@ Hey diddle diddle the cat and the fiddle
 
 Itsy Bitsy spider
 Climbed up the water spout
-
+Along came the breeze and blew the spider out
 code flows like rivers through the night
 A dance of logic clean and clear
 each function shines with hidden might
 its purpose sharps, its edges near
+<<<<<<< HEAD
 
 
 
 >>>>>>> 9ed4afd98028d39bb41f28cf308dbf8583a69195
+=======
+>>>>>>> 56cdc037c1172ab45b974a3486b2c5e052f132e4
 The sun descends, a fiery ball,
 A gentle breeze begins to sigh,
 Shadows lengthen, covering all,
@@ -27,4 +30,8 @@ And peace descends as night draws nigh.
 >>>>>>> 916324a50814ba8b44fb0733ff9ce023e958a0fa
 =======
 
+<<<<<<< HEAD
 >>>>>>> 9ed4afd98028d39bb41f28cf308dbf8583a69195
+=======
+
+>>>>>>> 56cdc037c1172ab45b974a3486b2c5e052f132e4
