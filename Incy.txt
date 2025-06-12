@@ -1,12 +1,30 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Itsy Bitsy spider
 Climbed up the water spout
 Hey diddle diddle the cat and the fiddle
 =======
+=======
+
+Itsy Bitsy spider
+Climbed up the water spout
+
+code flows like rivers through the night
+A dance of logic clean and clear
+each function shines with hidden might
+its purpose sharps, its edges near
+
+
+
+>>>>>>> 9ed4afd98028d39bb41f28cf308dbf8583a69195
 The sun descends, a fiery ball,
 A gentle breeze begins to sigh,
 Shadows lengthen, covering all,
 As dusk paints colours in the sky,
 The day is done, beyond recall,
 And peace descends as night draws nigh.
+<<<<<<< HEAD
 >>>>>>> 916324a50814ba8b44fb0733ff9ce023e958a0fa
+=======
+
+>>>>>>> 9ed4afd98028d39bb41f28cf308dbf8583a69195
