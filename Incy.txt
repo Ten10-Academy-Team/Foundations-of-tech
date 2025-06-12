@@ -1,3 +1,12 @@
+<<<<<<< HEAD
 Itsy Bitsy spider
 Climbed up the water spout
 Hey diddle diddle the cat and the fiddle
+=======
+The sun descends, a fiery ball,
+A gentle breeze begins to sigh,
+Shadows lengthen, covering all,
+As dusk paints colours in the sky,
+The day is done, beyond recall,
+And peace descends as night draws nigh.
+>>>>>>> 916324a50814ba8b44fb0733ff9ce023e958a0fa
