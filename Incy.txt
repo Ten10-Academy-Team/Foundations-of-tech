@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 an itsy bitsy spider
 down came the rain And
 washed the spider out
@@ -6,4 +7,21 @@ an itsy bitsy spider never had
 the same fun again...
 
  
+=======
+
+Itsy Bitsy spider
+Climbed up the water spout
+Along came the breeze and blew the spider out
+code flows like rivers through the night
+A dance of logic clean and clear
+each function shines with hidden might
+its purpose sharps, its edges near
+The sun descends, a fiery ball,
+A gentle breeze begins to sigh,
+Shadows lengthen, covering all,
+As dusk paints colours in the sky,
+The day is done, beyond recall,
+And peace descends as night draws nigh.
+
+>>>>>>> 56cdc037c1172ab45b974a3486b2c5e052f132e4
 
