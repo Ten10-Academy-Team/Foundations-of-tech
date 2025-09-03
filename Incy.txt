@@ -1,3 +1,7 @@
 Incy wincy spider
 Climbed up the water spout
+<<<<<<< HEAD
 Hello World!
+=======
+This is a lovely start what comes next ???
+>>>>>>> a9c71f3c9c6e7c22342c77f90897dab9a49900e2
