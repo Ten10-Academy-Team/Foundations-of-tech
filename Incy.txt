@@ -9,33 +9,31 @@ But I'm tempted
 
 I really like big dogs
 
+<<<<<<< HEAD
 I would like to add something as well
+=======
 I would like to add something as well
 
 I really like big cats meow uwu
 
 team 1 is the best 
 
-Down came the rain And washed poor Incy out Out 
-Humpty Dumpty Sat on the wall
-Humpty Dumpty had a great fall
-All the kings horse ...
 
+Down came the rain And washed poor Incy out Out 
+
+Humpty Dumpty Sat on the wall
+
+Humpty Dumpty had a great fall
+>>>>>>> 5c5621b0af0580b8cc6d7335971e3296e81858c8
+yolk poured out of him
+
+
+
+Humpty Dumpty is now an omlette
 
 Humpty Dumpty got Boiled.
 
 
 Jack and Jill 
-Health is wealth
 
-
-Adding text to get this over with
-
-went up the hill
-
-wa wa wa wa wa wa wa wa
-
-
-Up the hill to chill 
-Bill
-Jilllllllll
+to fetcha pale of water
