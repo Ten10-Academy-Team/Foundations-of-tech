@@ -33,4 +33,8 @@ Adding text to get this over with
 
 went up the hill
 
+<<<<<<< HEAD
 with a bucket of water
+=======
+wa wa wa wa wa wa wa wa
+>>>>>>> 15825a2dea502bd4f7030108ad46eaed86c41e10
