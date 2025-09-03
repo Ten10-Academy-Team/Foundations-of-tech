@@ -32,5 +32,10 @@ Health is wealth
 Adding text to get this over with
 
 went up the hill
+<<<<<<< HEAD
 twinkle twinkle little star 
 wa wa wa wa wa wa wa wa
+=======
+Bill
+Jilllllllll
+>>>>>>> 1d142a4db00669273fc14b0efefd1d2fc5b602dd
