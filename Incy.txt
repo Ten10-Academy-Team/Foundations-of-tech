@@ -16,3 +16,14 @@ I really like big cats meow uwu
 
 team 1 is the best 
 
+<<<<<<< HEAD
+=======
+Down came the rain And washed poor Incy out Out 
+Humpty Dumpty Sat on the wall
+Humpty Dumpty had a great fall
+
+Humpty Dumpty got Boiled.
+
+
+Jack and Jill 
+>>>>>>> 0100553a104c9ae27c20002406dce24ccca8e390
