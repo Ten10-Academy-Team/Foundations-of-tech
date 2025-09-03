@@ -9,4 +9,12 @@ But I'm tempted
 
 I really like big dogs
 
+<<<<<<< HEAD
 I would like to add something as well
+=======
+I would like to add something as well
+
+I really like big cats meow uwu
+
+team 1 is the best
+>>>>>>> 60f24c43f49a22117c194989858c15585beb3472
