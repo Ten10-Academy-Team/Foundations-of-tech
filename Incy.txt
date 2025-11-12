@@ -32,3 +32,7 @@ What is 1+1?
 
 ANOUSHA DID IT CORRECTLY
 starfish
+<<<<<<< HEAD
+=======
+[meowdy everybody!]>🐈
+>>>>>>> 43c90c93926e81f54850c61ba24e63e80d8dd70a
