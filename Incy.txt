@@ -11,6 +11,8 @@ Loved Flies
 Hi, this is Sky 
 Table 3
 
+<<<<<<< HEAD
+=======
 
 
 
@@ -30,7 +32,14 @@ hey guys
 
 hi
 
+<<<<<<< HEAD
+ansh waz ere 
+=======
+<<<<<<< HEAD
+What is 1+1?
+=======
 hi im not ansh lol
+>>>>>>> 40a021c26677915000469f138152802692b0e052
 
 
 
