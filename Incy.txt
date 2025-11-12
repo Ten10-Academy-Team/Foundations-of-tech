@@ -1,8 +1,13 @@
 Incy wincy spider
+<<<<<<< HEAD
 
 Table 1 acknowledges that I.W. Spider allegedly climbed the watter spout
 and that it is a great Guy
 
+=======
+Table 1 acknowledges that I.W. Spider allegedly climbed the water spout
+Was a great Guy 
+>>>>>>> 03752985b2f34561a7a2d8d4231c53e4e4c71d89
 Merged changes here 
 Spiders
 Loved Flies
@@ -13,9 +18,16 @@ Loved Flies
 Hi, this is Sky 
 Table 3
 
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> 03752985b2f34561a7a2d8d4231c53e4e4c71d89
 Table 2
 
 Table 1 spelt 'water' wrong
+You saw nothing 🤫 -Table 1
 Hello
 
 
@@ -30,6 +42,12 @@ hi
 
 What is 1+1?
 
+
+
+hi
+
+
+
 ANOUSHA DID IT CORRECTLY
 starfish
 <<<<<<< HEAD
@@ -43,10 +61,17 @@ starfish
 
 
 
+Bowling on the weekend?
+
+
 
 
 
 
 
 aaron again
+<<<<<<< HEAD
 >>>>>>> cd392fd6082a768d73f0e00ea952ea3ab1e35ad0
+=======
+
+>>>>>>> 03752985b2f34561a7a2d8d4231c53e4e4c71d89
