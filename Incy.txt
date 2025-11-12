@@ -1,4 +1,5 @@
-Incy wincy spider HEAD
+Incy wincy spider
+<<<<<<< HEAD
 
 Table 1 acknowledges that I.W. Spider allegedly climbed the watter spout
 and that it is a great Guy
@@ -17,7 +18,7 @@ Loved Flies
 Hi, this is Sky 
 Table 3
 
-
+<<<<<<< HEAD
 =======
 
 
@@ -40,14 +41,10 @@ hey guys
 hi
 
 <<<<<<< HEAD
-ansh waz ere 
-=======
-<<<<<<< HEAD
 What is 1+1?
 =======
 hi im not ansh lol
 >>>>>>> 40a021c26677915000469f138152802692b0e052
->>>>>>> 25e8d52e440ebe6d6de8d506d531d9da9862d6eb
 
 
 
@@ -97,3 +94,4 @@ anousha doing it again for the bants
 >>>>>>> df3ba30756e9173424e26bb7d7f75005266c3725
 
 >>>>>>> df3ba30756e9173424e26bb7d7f75005266c3725
+hi Sk
