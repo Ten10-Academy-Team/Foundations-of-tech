@@ -33,6 +33,20 @@ What is 1+1?
 ANOUSHA DID IT CORRECTLY
 starfish
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 [meowdy everybody!]>🐈
 >>>>>>> 43c90c93926e81f54850c61ba24e63e80d8dd70a
+=======
+[meowdy everybody!]>🐈
+
+
+
+
+
+
+
+
+
+aaron again
+>>>>>>> cd392fd6082a768d73f0e00ea952ea3ab1e35ad0
