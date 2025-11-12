@@ -17,7 +17,7 @@ Loved Flies
 Hi, this is Sky 
 Table 3
 
-
+<<<<<<< HEAD
 =======
 
 
@@ -46,7 +46,6 @@ What is 1+1?
 =======
 hi im not ansh lol
 >>>>>>> 40a021c26677915000469f138152802692b0e052
->>>>>>> 25e8d52e440ebe6d6de8d506d531d9da9862d6eb
 
 
 
