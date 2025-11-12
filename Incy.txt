@@ -40,7 +40,11 @@ hey guys
 
 hi
 
+<<<<<<< HEAD
 What is 1+1?
+=======
+hi im not ansh lol
+>>>>>>> 40a021c26677915000469f138152802692b0e052
 
 
 
