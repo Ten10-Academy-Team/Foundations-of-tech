@@ -1,4 +1,10 @@
 Incy wincy spider
+<<<<<<< HEAD
+
+Table 1 acknowledges that I.W. Spider allegedly climbed the watter spout
+and that it is a great Guy
+
+Incy wincy spider
 Table 1 acknowledges that I.W. Spider allegedly climbed the water spout
 Was a great Guy 
 Merged changes here 
@@ -11,8 +17,12 @@ Loved Flies
 Hi, this is Sky 
 Table 3
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
 
-
+>>>>>>> 238c3493683dd2e5e22d3dafa0d54a9875a1f432
 
 Table 2
 
@@ -30,6 +40,17 @@ hey guys
 
 hi
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+ansh waz ere
+>>>>>>> 238c3493683dd2e5e22d3dafa0d54a9875a1f432
+What is 1+1?
+hi im not ansh lol
+<<<<<<< HEAD
+>>>>>>> 40a021c26677915000469f138152802692b0e052
+=======
+>>>>>>> 238c3493683dd2e5e22d3dafa0d54a9875a1f432
 Hi People
 
 
@@ -49,7 +70,7 @@ starfish
 Bowling on the weekend?
 
 
-
+hellooooo
 
 
 
@@ -58,3 +79,11 @@ aaron again
 
 
 anousha doing it again for the bants
+
+<<<<<<< HEAD
+>>>>>>> df3ba30756e9173424e26bb7d7f75005266c3725
+hi Sk
+=======
+Hello world!!
+monkey
+>>>>>>> 238c3493683dd2e5e22d3dafa0d54a9875a1f432
