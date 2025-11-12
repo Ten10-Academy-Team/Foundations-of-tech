@@ -3,7 +3,6 @@ Incy wincy spider HEAD
 Table 1 acknowledges that I.W. Spider allegedly climbed the watter spout
 and that it is a great Guy
 
-=======
 Incy wincy spider
 Table 1 acknowledges that I.W. Spider allegedly climbed the water spout
 Was a great Guy 
@@ -16,9 +15,6 @@ Table 4 was here x=y
 Loved Flies 
 Hi, this is Sky 
 Table 3
-
-<<<<<<< HEAD
-=======
 
 
 
@@ -38,14 +34,9 @@ hey guys
 
 hi
 
-<<<<<<< HEAD
-ansh waz ere 
-=======
-<<<<<<< HEAD
+ansh waz ere
 What is 1+1?
-=======
 hi im not ansh lol
->>>>>>> 40a021c26677915000469f138152802692b0e052
 
 
 
