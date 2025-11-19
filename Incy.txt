@@ -1,6 +1,13 @@
 Incy wincy spider
+<<<<<<< HEAD
+
+Table 1 acknowledges that I.W. Spider allegedly climbed the watter spout
+and that it is a great Guy
+
+=======
 Table 1 acknowledges that I.W. Spider allegedly climbed the water spout
 Was a great Guy 
+>>>>>>> 03752985b2f34561a7a2d8d4231c53e4e4c71d89
 Merged changes here 
 Spiders
 Loved Flies
@@ -11,6 +18,12 @@ Loved Flies
 Hi, this is Sky 
 Table 3
 
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> 03752985b2f34561a7a2d8d4231c53e4e4c71d89
 Table 2
 helloo
 Table 1 spelt 'water' wrong
@@ -27,29 +40,57 @@ hey guys
 
 hi
 
-ansh waz ere
+<<<<<<< HEAD
 What is 1+1?
+=======
 hi im not ansh lol
+>>>>>>> 40a021c26677915000469f138152802692b0e052
 
 
 
 hi
 
 
+
 ANOUSHA DID IT CORRECTLY
 starfish
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+[meowdy everybody!]>🐈
+>>>>>>> 43c90c93926e81f54850c61ba24e63e80d8dd70a
+=======
 [meowdy everybody!]>🐈
 
+
+hello
 
 Bowling on the weekend?
 
 
+hellooooo
+
+
+
 
 aaron again
+<<<<<<< HEAD
+>>>>>>> cd392fd6082a768d73f0e00ea952ea3ab1e35ad0
+=======
 
-Q
+<<<<<<< HEAD
+>>>>>>> 03752985b2f34561a7a2d8d4231c53e4e4c71d89
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+hi
 
-hi Sk
-Down for B_owling Army
+RS3
+=======
+>>>>>>> 03752985b2f34561a7a2d8d4231c53e4e4c71d89
+=======
 
-monkey
+anousha doing it again for the bants
+>>>>>>> df3ba30756e9173424e26bb7d7f75005266c3725
+
+>>>>>>> df3ba30756e9173424e26bb7d7f75005266c3725
