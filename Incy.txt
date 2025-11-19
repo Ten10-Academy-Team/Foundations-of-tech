@@ -7,19 +7,4 @@ And I dont like to shout
 No the incy wincy spider doesn't
 climb the water sprout
 
-<<<<<<< HEAD
-Table 4 was here x=y
-
-Loved Flies 
-Hi, this is Sky 
-Table 3
-
-
-Table 2
-
-Table 1 spelt 'water' wrong
-Hello
-Forever Winning
-=======
 It climbed my table and scared the living daylights out!
->>>>>>> fc95a164c5ea83042436c76a1a2d5c4a4da7c61c
