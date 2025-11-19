@@ -1,8 +1,2 @@
-<<<<<<< HEAD
-This is a text document
-=======
-No the incy wincy spider doesn't
-climb the water sprout
-
-It climbed my table and scared the living daylights out!
->>>>>>> fc95a164c5ea83042436c76a1a2d5c4a4da7c61c
+Incy Wincy is a princess 
+its a mess 
