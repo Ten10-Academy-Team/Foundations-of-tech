@@ -26,3 +26,5 @@ Incy Wincy Spider
 Climbed up the water spout 
 Down came the rain
 and washed the spider out 
+
+I think we might have some errors in here 
