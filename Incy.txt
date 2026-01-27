@@ -27,5 +27,10 @@ Climbed up the water spout
 Down came the rain
 and washed the spider out 
 
+<<<<<<< HEAD
 I think we might have some errors in here, make a change here 
 hello from table 2 
+=======
+I think we might have some errors in here, make a change here
+Table 3 wins baby 
+>>>>>>> 2224dbf443315e0e056746392598f4bdb6edf6a9
