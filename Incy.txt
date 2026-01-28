@@ -30,32 +30,51 @@ and washed the spider out
 This is a change 
 I think we might have some errors in here, make a change here 
 
+<<<<<<< HEAD
+=======
+I was here with a meaningful message.
+>>>>>>> b1441541729bfc1af0431866986dcf96c7edf9e6
 
 I think we might have some errors in here, make a change here
 
 Table 3 wins baby 
+>>>>>>> 2224dbf443315e0e056746392598f4bdb6edf6a9
+=======
 Table 3 wins baby (again)
 Table 1
 table 4
 Hello 
-
-
 this is gonna cause a conflict (shayan)
 this is the second conflict
+Changes by Firas :)
+Change by Aiza
+Changes by Bailey :()
+HELLO HELLO
+Changes by Firas :)
+french bulldogs dont even speak french (teni)
+Changes by Firas :)
 Hi Shahroch
 french bulldogs dont even speak french (teni)
 Changes by Firas :)
-
-Changes by arjunTEST1
-
 Change by Cris
 Change is the only thing you cannot change (Isaac)
-
+TEST1
+Hi Shahroch
+french bulldogs dont even speak french (teni)
+Changes by Firas 
+Aiza 
+Firas was here (again)
 Firas was here (again)
 Change made by Oli
+By Aiza
 FIras hgahahahahah
 lawrences change 
 bailey second change
 FIras hgahahahahah
+<<<<<<< HEAD
 NUMBER 4
 hi from Kiran 
+=======
+YO?
+Another Change by Shahroch Hello again
+>>>>>>> b1441541729bfc1af0431866986dcf96c7edf9e6
