@@ -27,12 +27,4 @@ Climbed up the water spout
 Down came the raingit 
 and washed the spider out 
 
-I think we might have some errors in here, make a change here 
-hello from table 2 
-I think we might have some errors in here, make a change here
-Table 3 wins baby 
-Table 3 wins baby (again)
-Table 1
-table 4
-
-this is gonna cause a conflict (shayan)
+This is a change 
