@@ -38,4 +38,6 @@ I think we might have some errors in here, make a change here
 this is gonna cause a conflict (shayan)
 this is the second conflict
 
-edit text Aiza 
+Changes by Firas :)
+
+Change by Aiza
