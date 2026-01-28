@@ -49,5 +49,10 @@ this is the second conflict
 HELLO HELLO
 =======
 
+<<<<<<< HEAD
 Changes by Firas :)
 >>>>>>> ab1483af8e875bb8d039844e8dcec637b1b92b3f
+=======
+french bulldogs dont even speak french (teni)
+Changes by Firas :)
+>>>>>>> 7083474ca751173273d1872aa91c27a2060ca809
