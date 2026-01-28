@@ -37,6 +37,7 @@ I think we might have some errors in here, make a change here
 
 this is gonna cause a conflict (shayan)
 this is the second conflict
+<<<<<<< HEAD
 
 
 
@@ -58,3 +59,8 @@ this is the second conflict
 
 
 conflict by Abdurahman
+=======
+Hi Shahroch
+french bulldogs dont even speak french (teni)
+Changes by Firas :)
+>>>>>>> 4cce3f65bb87aa765dd411a0fbf48545fbe93d61
