@@ -34,8 +34,9 @@ I was here with a meaningful message.
 
 I think we might have some errors in here, make a change here
 
-I think we might have some errors in here, make a change he
 Table 3 wins baby 
+>>>>>>> 2224dbf443315e0e056746392598f4bdb6edf6a9
+=======
 Table 3 wins baby (again)
 Table 1
 table 4
