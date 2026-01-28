@@ -33,13 +33,12 @@ I think we might have some errors in here, make a change here
 
 
 I think we might have some errors in here, make a change here
-<<<<<<< HEAD
+
 Table 3 wins baby 
 Table 3 wins baby (again)
 Table 1
 table 4
 Hello 
-=======
 
 
 this is gonna cause a conflict (shayan)
@@ -47,6 +46,7 @@ this is the second conflict
 Hi Shahroch
 french bulldogs dont even speak french (teni)
 Changes by Firas :)
+Change is the only thing you cannot change (Isaac)
 
 Firas was here (again)
 Change made by Oli
