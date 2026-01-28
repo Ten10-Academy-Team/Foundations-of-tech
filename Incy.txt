@@ -44,5 +44,10 @@ Hello
 
 this is gonna cause a conflict (shayan)
 this is the second conflict
+<<<<<<< HEAD
 >>>>>>> 94da38a31eba0fe56e1f921b2beb3b8de63c59d9
 HELLO HELLO
+=======
+
+Changes by Firas :)
+>>>>>>> ab1483af8e875bb8d039844e8dcec637b1b92b3f
