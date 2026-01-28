@@ -24,17 +24,18 @@ And then he wanted out :(
 
 Incy Wincy Spider
 Climbed up the water spout 
-Down came the rain
+Down came the raingit 
 and washed the spider out 
 
+This is a change 
 I think we might have some errors in here, make a change here 
 hello from table 2 
 =======
-I think we might have some errors in here, make a change her
+I think we might have some errors in here, make a change here
+<<<<<<< HEAD
 Table 3 wins baby 
-
+>>>>>>> 2224dbf443315e0e056746392598f4bdb6edf6a9
 =======
 Table 3 wins baby (again)
 Table 1
-
-hello world!
+>>>>>>> 00c0f5fa8080f4cd05298aa9a2383fb323098299
