@@ -29,10 +29,10 @@ and washed the spider out
 
 This is a change 
 I think we might have some errors in here, make a change here 
-hello from table 2 
-=======
-I think we might have some errors in here, make a change here
-<<<<<<< HEAD
+
+
+
+I think we might have some errors in here, make a change her
 Table 3 wins baby 
 >>>>>>> 2224dbf443315e0e056746392598f4bdb6edf6a9
 =======
