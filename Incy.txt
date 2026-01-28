@@ -45,6 +45,7 @@ Hello
 this is gonna cause a conflict (shayan)
 this is the second conflict
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 94da38a31eba0fe56e1f921b2beb3b8de63c59d9
 HELLO HELLO
 =======
@@ -56,3 +57,8 @@ Changes by Firas :)
 french bulldogs dont even speak french (teni)
 Changes by Firas :)
 >>>>>>> 7083474ca751173273d1872aa91c27a2060ca809
+=======
+Hi Shahroch
+french bulldogs dont even speak french (teni)
+Changes by Firas :)
+>>>>>>> 4cce3f65bb87aa765dd411a0fbf48545fbe93d61
