@@ -44,24 +44,12 @@ Hello
 
 this is gonna cause a conflict (shayan)
 this is the second conflict
-
-Changes by Firas :)
-Changes by Bailey :()
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 94da38a31eba0fe56e1f921b2beb3b8de63c59d9
-HELLO HELLO
-=======
-
-<<<<<<< HEAD
-Changes by Firas :)
->>>>>>> ab1483af8e875bb8d039844e8dcec637b1b92b3f
-=======
-french bulldogs dont even speak french (teni)
-Changes by Firas :)
->>>>>>> 7083474ca751173273d1872aa91c27a2060ca809
-=======
 Hi Shahroch
 french bulldogs dont even speak french (teni)
 Changes by Firas :)
-Changes byb arjunTEST1
+<<<<<<< HEAD
+Changes by arjunTEST1
+=======
+
+Firas was here (again)
+>>>>>>> 088d149cac39e6a3de227fea1e32ab22307c95bc
