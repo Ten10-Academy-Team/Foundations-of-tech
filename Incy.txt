@@ -131,5 +131,9 @@ group 7
 
 group 6
 
+<<<<<<< HEAD
 
 Ilias:
+=======
+i feel like im gucci mane in 2006
+>>>>>>> b9363c2cb2ecd68f311b8ab8ffe8dc4a2c9fc1d2
