@@ -89,13 +89,11 @@ tHIS IS A SIMULATED CONFLICT
  ADD SOME STUFF HERE 
 tEST 
 tEST
-<<<<<<< HEAD
 
-=======
 ello ello
 gfsdgdsa
 fdsafdas
->>>>>>> c403a75994541e555ccb228390e46312193cd8cf
+c403a75994541e555ccb228390e46312193cd8cf
 
  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⠶⢦⣤⠶⠶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -142,8 +140,6 @@ lnkjnkde
 nknknwedx
 nknweedxw2
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 BUZZIN
          ___
