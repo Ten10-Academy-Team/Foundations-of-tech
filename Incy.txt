@@ -136,4 +136,9 @@ group 6
 Ilias:
 =======
 i feel like im gucci mane in 2006
+<<<<<<< HEAD
 >>>>>>> b9363c2cb2ecd68f311b8ab8ffe8dc4a2c9fc1d2
+=======
+I have done it
+Gohan, let it go.
+>>>>>>> 55f8d38b5e4cfe1b4513e92dc039cff7866c4bb5
