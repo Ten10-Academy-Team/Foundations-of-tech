@@ -131,6 +131,11 @@ group 7
 
 group 6
 
+<<<<<<< HEAD
 i feel like im gucci mane in 2006 
 
 67777383838
+=======
+i feel like im gucci mane in 2006
+I have done it
+>>>>>>> 682fd8576506733fc6eb3dc7239e1d081d740b53
