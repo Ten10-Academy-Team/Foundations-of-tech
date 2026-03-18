@@ -3,7 +3,7 @@ Climbed up the water spout
 Down came the rain
 and his name was ahmed
 
-MAKING A MESSSSSSSS
+
 WELCOME TO GROUP 2'S CLUBHOUSE
 
                 .-"""-.
@@ -80,6 +80,16 @@ tHIS IS A SIMULATED CONFLICT
 tEST 
 tEST
 
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+=======
 ello ello
 gfsdgdsa
 fdsafdas
@@ -97,6 +107,7 @@ tEST
 ello ello
 gfsdgdsa
 fdsafdas
+>>>>>>> 1175eb77e1a7279d00af23e5af994d9873401cf6
 
 
  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -135,9 +146,12 @@ Group 5
 
 hello mister minion
 group 7
-
 group 6
 
+<<<<<<< HEAD
+
+please work
+=======
 
 group 7 
 
@@ -234,3 +248,4 @@ Gohan, let it go.
 
 
 
+>>>>>>> 1175eb77e1a7279d00af23e5af994d9873401cf6
