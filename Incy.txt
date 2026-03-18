@@ -28,6 +28,7 @@ WELCOME TO GROUP 2'S CLUBHOUSE
     /          \     /           \
     \          /     \           /
      `'--=="--`       `--""==--'`jgs+/-miK
+poor minion
 
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -163,6 +164,25 @@ i feel like im gucci mane in 2006
 I have done it
 I have done it
 Gohan, let it go.
+<<<<<<< HEAD
 d518a5919943a74147cb3f088f9a464ee7110b2c
 c403a75994541e555ccb228390e46312193cd8cf
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+test again
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> d518a5919943a74147cb3f088f9a464ee7110b2c
+>>>>>>> c403a75994541e555ccb228390e46312193cd8cf
+>>>>>>> 433c05bcf04fe05dd86f8a630da04d40e9d9c01a
+=======
+Gohan, let it go.
+>>>>>>> cdda0e2dd6900995858b59da7eda46625b75c24b
+>>>>>>> 8d52fadb472b2595222df51802d29d3b67a8e5eb
+>>>>>>> 51b3cdc0da4bac53bd98a35ce0b83949b3ea0583
+=======
+>>>>>>> d5132266a9abb397aa99940fb362114028d872d5
 
+>>>>>>> 09d938710e754f36bda580c7194e2d87c2e09852
