@@ -28,6 +28,10 @@ WELCOME TO GROUP 2'S CLUBHOUSE
     /          \     /           \
     \          /     \           /
      `'--=="--`       `--""==--'`jgs+/-miK
+<<<<<<< HEAD
+poor minion
+=======
+>>>>>>> 09d938710e754f36bda580c7194e2d87c2e09852
 
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -146,4 +150,8 @@ Yessss
 Ilias test 123
 i feel like im gucci mane in 2006
 
+i feel like im gucci mane in 2006
+I have done it
+I have done it
+Gohan, let it go.
 
