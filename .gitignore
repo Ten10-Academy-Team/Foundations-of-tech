@@ -1,0 +1,23 @@
+# ============================================
+# .gitignore
+# This file tells Git which files and folders
+# to ignore — they won't be tracked or committed.
+# ============================================
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node.js dependencies (if you ever add npm)
+node_modules/
+
+# Log files
+*.log
