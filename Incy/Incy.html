@@ -11,82 +11,86 @@
      Contains metadata and external resources.
      Nothing inside <head> is visible on the page.
 ============================================= -->
+
 <head>
 
-    <!-- <meta> tags provide metadata about the page.
+     <!-- <meta> tags provide metadata about the page.
          They are self-closing (no </meta> needed).
          charset="UTF-8" sets the character encoding so the browser
          can display most languages and symbols correctly. -->
-    <meta charset="UTF-8">
+     <meta charset="UTF-8">
 
-    <!-- This <meta> viewport tag makes the page responsive on
+     <!-- This <meta> viewport tag makes the page responsive on
          mobile devices by matching the width to the device screen. -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!-- <title> sets the text shown in the browser tab.
+     <!-- <title> sets the text shown in the browser tab.
          It's also used by search engines and bookmarks. -->
-    <title>Incy Wincy Spider</title>
+     <title>Incy Wincy Spider</title>
 
-    <!-- <meta name="description"> provides a short summary of the page
+     <!-- <meta name="description"> provides a short summary of the page
          for search engines. It often appears in search result snippets. -->
-    <meta name="description" content="An illustrated version of the Incy Wincy Spider nursery rhyme, built as an educational project for learning Git.">
+     <meta name="description"
+          content="An illustrated version of the Incy Wincy Spider nursery rhyme, built as an educational project for learning Git.">
 
-    <!-- Favicon: the small icon shown in the browser tab next to the title.
+     <!-- Favicon: the small icon shown in the browser tab next to the title.
          Using an SVG favicon keeps it crisp at any size. -->
-    <link rel="icon" href="Assets/favicon.svg" type="image/svg+xml">
+     <link rel="icon" href="Assets/favicon.svg" type="image/svg+xml">
 
-    <!-- <link> connects external resources to this page.
+     <!-- <link> connects external resources to this page.
          Here we load two Google Fonts: "Caveat" for the heading
          and "Lora" for body text. The rel="stylesheet" attribute
          tells the browser this link points to a CSS file. -->
-    <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=Lora:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+     <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=Lora:ital,wght@0,400;0,600;1,400&display=swap"
+          rel="stylesheet">
 
-    <!-- Our own stylesheet, kept in a separate file for clarity.
+     <!-- Our own stylesheet, kept in a separate file for clarity.
          Separating CSS from HTML is a good practice — it makes
          both files easier to read, maintain, and version in Git. -->
-    <link rel="stylesheet" href="Incy.css">
+     <link rel="stylesheet" href="Incy.css">
 </head>
 
 
 <!-- <body> contains everything visible on the page.
      All the content a user sees and interacts with goes here. -->
+
 <body>
 
-    <!-- ============================================
+     <!-- ============================================
          LOGO
     ============================================= -->
 
-    <!-- <img> embeds an image into the page.
+     <!-- <img> embeds an image into the page.
          src="..." is the path to the image file.
          alt="..." provides alternative text for screen readers
          and is displayed if the image fails to load.
          Always include a meaningful alt attribute for accessibility. -->
-    <img src="Assets/ten10-logo-2021-light.svg" alt="Ten10 logo" class="logo">
+     <img src="Assets/ten10-logo-2021-light.svg" alt="Ten10 logo" class="logo">
 
-    <!-- ============================================
+     <!-- ============================================
          WEATHER TOGGLE
     ============================================= -->
 
-    <!-- <button> creates a clickable button. It is the correct
+     <!-- <button> creates a clickable button. It is the correct
          element for interactive controls — never use a <div> or
          <a> for something that performs an action on the page.
 
          aria-label provides an accessible name for screen readers
          since the button only contains an emoji, not readable text. -->
-    <div class="toggle-container" role="group" aria-label="Weather controls">
-        <button class="toggle-btn active" id="rain-btn" aria-label="Switch to rain mode">
-            🌧️ Rain
-        </button>
-        <button class="toggle-btn" id="sun-btn" aria-label="Switch to sun mode">
-            ☀️ Sun
-        </button>
-    </div>
+     <div class="toggle-container" role="group" aria-label="Weather controls">
+          <button class="toggle-btn active" id="rain-btn" aria-label="Switch to rain mode">
+               🌧️ Rain
+          </button>
+          <button class="toggle-btn" id="sun-btn" aria-label="Switch to sun mode">
+               ☀️ Sun
+          </button>
+     </div>
 
-    <!-- ============================================
+     <!-- ============================================
          RAIN EFFECT
     ============================================= -->
 
-    <!-- <div> is a generic container element — it has no meaning
+     <!-- <div> is a generic container element — it has no meaning
          on its own but is useful for grouping and styling content.
 
          class="rain" assigns a CSS class so we can style this
@@ -98,85 +102,84 @@
          class vs id:
            - A class can be reused on many elements.
            - An id must be unique — only one element per page. -->
-    <!-- aria-hidden="true" tells screen readers to ignore this
+     <!-- aria-hidden="true" tells screen readers to ignore this
          element entirely, since the rain is purely decorative. -->
-    <div class="rain" id="rain" aria-hidden="true"></div>
+     <div class="rain" id="rain" aria-hidden="true"></div>
 
-    <!-- ============================================
+     <!-- ============================================
          SUN EFFECT
     ============================================= -->
 
-    <!-- The sun animation container. Hidden by default and
+     <!-- The sun animation container. Hidden by default and
          revealed when the user clicks the Sun toggle.
          Contains a glowing sun circle and animated light rays. -->
-    <div class="sun-container" id="sun-container" aria-hidden="true">
-        <div class="sun"></div>
-        <div class="sun-rays"></div>
-    </div>
+     <div class="sun-container" id="sun-container" aria-hidden="true">
+          <div class="sun"></div>
+          <div class="sun-rays"></div>
+     </div>
 
 
-    <!-- ============================================
+     <!-- ============================================
          MAIN CONTENT
     ============================================= -->
 
-    <!-- <main> is a semantic HTML element that identifies the
+     <!-- <main> is a semantic HTML element that identifies the
          primary content of the page. Unlike <div>, semantic
          elements carry meaning — screen readers and search
          engines use them to understand page structure.
          Other semantic elements include <header>, <footer>,
          <nav>, <article>, and <section>. -->
-    <main>
+     <main>
 
-        <!-- This <div> uses class="card" to apply the white
+          <!-- This <div> uses class="card" to apply the white
              card styling defined in Incy.css. -->
-        <div class="card">
+          <div class="card">
 
-            <!-- <h1> is the top-level heading. HTML has six
+               <!-- <h1> is the top-level heading. HTML has six
                  heading levels: <h1> (most important) through
                  <h6> (least important). Each page should
                  typically have one <h1>. -->
-            <h1>Incy Wincy Spider</h1>
+               <h1>Incy Wincy Spider</h1>
 
-            <!-- An empty <div> used purely as a decorative
+               <!-- An empty <div> used purely as a decorative
                  horizontal line, styled with CSS.
                  aria-hidden="true" hides it from screen readers
                  since it carries no meaning. -->
-            <div class="divider" aria-hidden="true"></div>
+               <div class="divider" aria-hidden="true"></div>
 
-            <!-- ============================================
+               <!-- ============================================
                  THE POEM
             ============================================= -->
 
-            <!-- <p> is a paragraph element — the standard way
+               <!-- <p> is a paragraph element — the standard way
                  to wrap a block of text in HTML. -->
 
-            <!-- <br> is a line break — it forces the text onto
+               <!-- <br> is a line break — it forces the text onto
                  a new line without starting a new paragraph.
                  Like <meta>, it is self-closing. -->
-            <div class="poem">
-                <p>
-                    Incy Wincy spider climbed up the water spout,<br>
-                    Down came the rain and washed poor Incy out,<br>
-                    Out came the sunshine and dried up all the rain,<br>
-                    And Incy Wincy spider climbed up the spout again.
-                </p>
-            </div>
-
-            <!-- ============================================
+               <div class="poem">
+                    <p>
+                         Incy Wincy spider climbed up the water spout,<br>
+                         Down came the rain and washed poor Incy out,<br>
+                         Out came the sunshine and dried up all the rain,<br>
+                         And Incy Wincy spider climbed up the spout again.
+                    </p>
+               </div>
+               <!-- ============================================
                  ASCII ART
             ============================================= -->
 
-            <!-- <pre> is a preformatted text element. Unlike most
+               <!-- <pre> is a preformatted text element. Unlike most
                  HTML elements, it preserves all spaces, tabs, and
                  line breaks exactly as written in the source code.
                  This is essential for ASCII art to display correctly.
                  Without <pre>, the browser would collapse all the
                  whitespace into single spaces. -->
-            <!-- role="img" tells assistive technology to treat this
+               <!-- role="img" tells assistive technology to treat this
                  block as a single image rather than reading every
                  character. aria-label provides a text description. -->
-            <div class="spider-section">
-                <pre class="ascii-art" role="img" aria-label="ASCII art of a spider">
+               <div class="spider-section">
+                    <pre class="ascii-art" role="img" aria-label="ASCII art of a spider">
                     /\              _
                    /  \            / \
                   |  _ \          /   \   _
@@ -195,29 +198,45 @@
  _/                 |                         \
                     |                          \_
                    _|</pre>
-            </div>
-        </div>
-    </main>
+               </div>
+          </div>
+          <br>
+          <br>
+          <div class="card">
+               <hr>
+               <h1>Kev's Inspiration</h1>
+               <div class="poem">
+                    <p>
+                         Kevin had an idea,<br>
+                         He thought he'd put something here,<br>
+                         Something stunning,<br>
+                         Pure and clear.<br>
+                         I like Kevin's idea...
+                    </p>
+               </div>
+               <hr>
+          </div>
+     </main>
 
 
-    <!-- ============================================
+     <!-- ============================================
          FOOTER
     ============================================= -->
 
-    <!-- <footer> is a semantic element for content at the bottom
+     <!-- <footer> is a semantic element for content at the bottom
          of a page or section. Typically contains credits, copyright,
          or navigation links. Screen readers recognise it as a
          landmark, helping users jump to it quickly. -->
-    <footer>
-        <p>An educational project for learning Git</p>
-        <p>Ten10 Academy</p>
-    </footer>
+     <footer>
+          <p>An educational project for learning Git</p>
+          <p>Ten10 Academy</p>
+     </footer>
 
-    <!-- ============================================
+     <!-- ============================================
          JAVASCRIPT
     ============================================= -->
 
-    <!-- <script> loads and runs JavaScript code.
+     <!-- <script> loads and runs JavaScript code.
          src="Incy.js" points to an external JS file, just like
          <link> points to an external CSS file.
 
@@ -225,6 +244,7 @@
          HTML above has already been parsed before the script runs.
          That way the script can safely find elements (like #rain)
          in the DOM without waiting for a "ready" event. -->
-    <script src="Incy.js"></script>
+     <script src="Incy.js"></script>
 </body>
+
 </html>
