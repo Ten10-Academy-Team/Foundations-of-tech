@@ -1,6 +1,6 @@
 # Hello from Git Hell 🔥
 
-![Merge conflicts be like](merge.gif)
+![Merge conflicts be like](Incy/Assets/merge.gif)
 
 Welcome to the repo. Abandon all merge conflicts, ye who enter here.
 

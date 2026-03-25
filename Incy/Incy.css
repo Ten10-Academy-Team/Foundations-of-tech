@@ -1,0 +1,271 @@
+/* ============================================
+   CSS CUSTOM PROPERTIES (Variables)
+   Defined on :root so they're available everywhere.
+   We use these to swap the colour scheme between
+   Rain and Sun modes from JavaScript.
+============================================= */
+:root {
+    --bg-gradient-start: #667eea;
+    --bg-gradient-end: #764ba2;
+    --transition-speed: 0.8s;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+/* Logo pinned to the top-left corner of the page.
+   position: fixed keeps it visible even when scrolling.
+   z-index: 10 ensures it sits above everything. */
+.logo {
+    position: fixed;
+    top: 1rem;
+    left: 1rem;
+    height: 40px;
+    width: auto;
+    z-index: 10;
+}
+
+body {
+    font-family: 'Lora', Georgia, serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    background: linear-gradient(135deg, var(--bg-gradient-start) 0%, var(--bg-gradient-end) 100%);
+    overflow-x: hidden;
+    transition: background var(--transition-speed) ease;
+}
+
+main {
+    max-width: 680px;
+    width: 100%;
+    text-align: center;
+}
+
+.card {
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 20px;
+    padding: 3rem 2.5rem;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(10px);
+    animation: fadeInUp 0.8s ease-out;
+    position: relative;
+    z-index: 1;
+}
+
+@keyframes fadeInUp {
+    from { opacity: 0; transform: translateY(30px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+
+h1 {
+    font-family: 'Caveat', cursive;
+    font-size: 3rem;
+    color: #4a3070;
+    margin-bottom: 0.5rem;
+}
+
+.divider {
+    width: 80px;
+    height: 3px;
+    background: linear-gradient(90deg, #667eea, #764ba2);
+    border-radius: 2px;
+    margin: 0.8rem auto 2rem;
+}
+
+.poem p {
+    font-size: 1.15rem;
+    line-height: 2;
+    color: #444;
+    font-style: italic;
+}
+
+.spider-section {
+    margin-top: 2rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid #e0d6f0;
+}
+
+.ascii-art {
+    font-family: 'Courier New', Courier, monospace;
+    white-space: pre;
+    text-align: left;
+    display: inline-block;
+    font-size: 0.75rem;
+    line-height: 1.2;
+    color: #7c6a9a;
+    transition: color 0.3s;
+}
+
+.ascii-art:hover {
+    color: #4a3070;
+}
+
+/* ============================================
+   WEATHER TOGGLE BUTTONS
+   Fixed to the top-right so they're always
+   accessible regardless of scroll position.
+============================================= */
+.toggle-container {
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+    z-index: 10;
+    display: flex;
+    gap: 0.5rem;
+}
+
+.toggle-btn {
+    padding: 0.5rem 1rem;
+    border: 2px solid rgba(255, 255, 255, 0.6);
+    border-radius: 25px;
+    background: rgba(255, 255, 255, 0.15);
+    color: #fff;
+    font-family: 'Lora', Georgia, serif;
+    font-size: 0.85rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    backdrop-filter: blur(5px);
+}
+
+.toggle-btn:hover {
+    background: rgba(255, 255, 255, 0.3);
+    border-color: #fff;
+}
+
+/* The .active class highlights whichever mode is
+   currently selected. JavaScript toggles this. */
+.toggle-btn.active {
+    background: rgba(255, 255, 255, 0.4);
+    border-color: #fff;
+    font-weight: 600;
+}
+
+
+/* ============================================
+   RAIN ANIMATION
+============================================= */
+.rain {
+    position: fixed;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    pointer-events: none;
+    z-index: 0;
+    transition: opacity 0.6s ease;
+}
+
+.drop {
+    position: absolute;
+    width: 2px;
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 0 0 2px 2px;
+    animation: fall linear infinite;
+}
+
+@keyframes fall {
+    to { transform: translateY(100vh); }
+}
+
+/* ============================================
+   SUN ANIMATION
+   The sun sits in the top-right area of the
+   viewport. It fades in when Sun mode is active.
+============================================= */
+.sun-container {
+    position: fixed;
+    top: -30px;
+    right: -30px;
+    z-index: 0;
+    opacity: 0;
+    transition: opacity var(--transition-speed) ease;
+    pointer-events: none;
+}
+
+/* The sun circle itself — a glowing yellow disc. */
+.sun {
+    width: 120px;
+    height: 120px;
+    background: radial-gradient(circle, #fff176 0%, #ffb300 50%, #ff8f00 100%);
+    border-radius: 50%;
+    box-shadow:
+        0 0 40px rgba(255, 183, 0, 0.6),
+        0 0 80px rgba(255, 183, 0, 0.3),
+        0 0 120px rgba(255, 183, 0, 0.15);
+}
+
+/* Rotating rays around the sun, created with a
+   repeating-conic-gradient — a pure CSS trick. */
+.sun-rays {
+    position: absolute;
+    top: -40px;
+    left: -40px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: repeating-conic-gradient(
+        rgba(255, 200, 0, 0.15) 0deg 10deg,
+        transparent 10deg 20deg
+    );
+    animation: spin 20s linear infinite;
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}
+
+/* ============================================
+   SUN MODE
+   When the body has class="sun-mode", we swap
+   the background gradient and show the sun.
+============================================= */
+body.sun-mode {
+    --bg-gradient-start: #56ccf2;
+    --bg-gradient-end: #2f80ed;
+}
+
+body.sun-mode .sun-container {
+    opacity: 1;
+}
+
+body.sun-mode .rain {
+    opacity: 0;
+}
+
+
+/* ============================================
+   FOOTER
+============================================= */
+footer {
+    margin-top: 2rem;
+    padding: 1rem;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 0.85rem;
+    z-index: 1;
+    position: relative;
+}
+
+footer p + p {
+    margin-top: 0.25rem;
+}
+
+/* ============================================
+   ACCESSIBILITY
+   Respect the user's motion preferences.
+============================================= */
+@media (prefers-reduced-motion: reduce) {
+    .card {
+        animation: none;
+    }
+
+    .drop {
+        animation: none;
+        display: none;
+    }
+
+    .sun-rays {
+        animation: none;
+    }
+}
