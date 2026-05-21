@@ -74,4 +74,17 @@ document.addEventListener('DOMContentLoaded', function () {
         rainBtn.classList.remove('active');
         localStorage.setItem('weather-mode', 'sun');
     }
+
+    const modeBtn = document.getElementById("mode-btn");
+
+modeBtn.addEventListener("click", () => {
+    document.body.classList.toggle("dark-mode");
+
+    // Change button text dynamically
+    if (document.body.classList.contains("dark-mode")) {
+        modeBtn.textContent = "☀️ Light Mode";
+    } else {
+        modeBtn.textContent = "🌙 Dark Mode";
+    }
+});
 });

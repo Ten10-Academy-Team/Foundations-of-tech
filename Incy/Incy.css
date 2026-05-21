@@ -23,6 +23,41 @@
     width: auto;
     z-index: 10;
 }
+/* Default (Light Mode) */
+body {
+    background: #f5f7fa;
+    color: #333;
+    transition: all 0.3s ease;
+}
+
+/* Dark Mode */
+body.dark-mode {
+    background: #1e1e2f;
+    color: #f1f1f1;
+}
+
+/* Card styling in dark mode */
+body.dark-mode .card {
+    background: #2a2a3d;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+}
+
+/* Button styling */
+.mode-toggle {
+    text-align: center;
+    margin: 15px 0;
+}
+
+#mode-btn {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    background: #333;
+    color: #fff;
+    font-weight: bold;
+}
+
 
 body {
     font-family: 'Lora', Georgia, serif;
